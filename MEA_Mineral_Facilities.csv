@@ -1,0 +1,1060 @@
+position,rec_id,year,country,commodity,location,fac_name,fac_type,dmslat,dmslong,latitude,longitude,precision,mm,op_comp,maininvest,othinvest,status,capacity,units,notes,cite
+1,5028,2003,Algeria,ammonia,"Alzofert, Arzew",nan,Plant,"35° 51' 06"" ","000° 19' 17""",35.852,-0.321,,,Le groupe ASMIDAL,nan,nan,closed,,t / yr,,851
+2,5029,2003,Algeria,ammonia,"Fertial, Annaba",nan,Plant,"36° 54' 00"" ","007° 46' 00""",36.9,7.767,,,Le groupe ASMIDAL,nan,nan,active,,t / yr,,851
+4,5031,2003,Algeria,gold,Tirek,nan,Mine,,,21.267,2.783,,S,Enterprise D'Exploitation des Mines D'or (ENOR),nan,nan,active,800.0,t / yr,,851
+5,5032,2003,Algeria,barite,"Ain Mimoun, Boucaid, Mellal",nan,Mine,"35° 53' 28"" ","001° 37' 11""",35.891,1.62,,,"Société des Mines de Baryte d'Algérie s.p.a. (Entreprise Nationale des Produits Miniers Non Ferreux & des Substances Utiles, s.p.a.)",nan,nan,active,,t / yr,,851
+6,5033,2003,Algeria,bentonite,"Maghnia, M'Zila areas",nan,Quarry,"34° 50' 50"" ","001° 43' 43""",34.847,-1.729,,S,"Société des Bentonites d'Algérie s.p.a. (Entreprise Nationale des Produits Miniers Non Ferreux & des Substances Utiles, s.p.a.)",nan,nan,active,,t / yr,,851
+7,5034,2003,Algeria,bentonite,Mostaganem,nan,Plant,"35° 56' 00"" ","000° 05' 25""",35.933,0.09,,,"Société des Bentonites d'Algérie s.p.a. (Entreprise Nationale des Produits Miniers Non Ferreux & des Substances Utiles, s.p.a.)",nan,nan,active,,t / yr,,851
+8,5035,2003,Algeria,bentonite,"Roussel, Boughrara",nan,Quarry,"37° 00' 35"" ","006° 23' 01""",37.01,6.384,,S,"Société des Bentonites d'Algérie s.p.a. (Entreprise Nationale des Produits Miniers Non Ferreux & des Substances Utiles, s.p.a.)",nan,nan,active,,t / yr,,851
+9,5036,2003,Algeria,cadmium,Ghazaouet,nan,nan,"35° 06' 00"" ","001° 51' 00""",35.1,-1.85,,,"Société Algérienne du Zinc (Enterprise Nationale de Métallurgie et de Transformation des Métaux Non Ferreux, s.p.a., 100%)",nan,nan,active,200.0,t / yr,,851
+10,5037,2003,Algeria,cement,Aïn Touta,nan,nan,"35° 22' 36"" ","005° 53' 46""",35.374,5.896,,,"Société des Ciments d'Aïn-Touta (Enterprise des Ciments et Derives de l'Est, 100%)",nan,nan,active,,t / yr,,851
+11,5038,2003,Algeria,cement,Aïn-Kébira,nan,nan,"34° 50' 00"" ","000° 06' 00""",34.833,-0.1,,,"Société des Ciments d'Aïn-Kébira (Enterprise des Ciments et Derives de l'Est, 100%)",nan,nan,active,,t / yr,,851
+12,5039,2003,Algeria,cement,Bekkouche,nan,nan,"36° 41' 55"" ","007° 18' 24""",36.699,7.307,,,"Société des Ciments de Tébessa (Enterprise des Ciments et Derives de l'Est, 100%)",nan,nan,active,,t / yr,,851
+13,5040,2003,Algeria,cement,Beni-Saf,nan,nan,"35° 18' 13"" ","001° 22' 51""",35.304,-1.381,,,Entreprise des Ciments et Dérivés de l'Ouest,nan,nan,active,,t / yr,,851
+14,5041,2003,Algeria,cement,Chlef,nan,nan,"36° 09' 53"" ","001° 20' 05""",36.165,1.335,,,Entreprise des Ciments et Dérivés d'Ech,nan,nan,active,,t / yr,,851
+15,5042,2003,Algeria,cement,Hamma-Bouziane,nan,nan,"35° 27' 00"" ","001° 27' 00""",35.45,1.45,,,"Société des Ciments de Hamma-Bouziane (Enterprise des Ciments et Derives de l'Est, 100%)",nan,nan,active,,t / yr,,851
+16,5043,2003,Algeria,cement,Meftah,nan,nan,"36° 37' 10"" ","003° 13' 31""",36.619,3.225,,,Entreprise des Ciments et Dérivés du Centre,nan,nan,active,,t / yr,,851
+17,5044,2003,Algeria,cement,M'Sila,nan,nan,"35° 42' 21"" ","004° 32' 31""",35.706,4.542,,,"Algerian Cement Co. (Orascom Construction Industries S.A., 100%)1",nan,nan,active,,t / yr,,851
+19,5046,2003,Algeria,cement,Saïda,nan,nan,"34° 50' 00"" ","000° 09' 00""",34.833,0.15,,,Entreprise des Ciments et Dérivés de l'Ouest,nan,nan,active,,t / yr,,851
+21,5048,2003,Algeria,cement,Tébessa,nan,nan,"35° 24' 15"" ","008° 07' 27""",35.404,8.124,,,"Société des Ciments de Tébessa (Enterprise des Ciments et Derives de l'Est, 100%)",nan,nan,active,,t / yr,,851
+22,5049,2003,Algeria,cement,Zahana,nan,nan,"35° 31' 15"" ","000° 24' 29""",35.521,-0.408,,,Entreprise des Ciments et Dérivés de l'Ouest,nan,nan,active,,t / yr,,851
+23,5050,2003,Algeria,coke,El Hadjar,nan,nan,"36° 48' 17"" ","007° 44' 18""",36.805,7.738,,,"Ispat Annaba s.p.a. (Mittal Steel Co., 70%)",nan,nan,active,,t / yr,,851
+24,5051,2003,Algeria,diatomite,"Tahalait, Sig",nan,Quarry,"35° 31' 40"" ","000° 11' 43""",35.528,-0.195,,S,"Société des Diatomites d'Algérie s.p.a. (Entreprise Nationale des Produits Miniers Non Ferreux & des Substances Utiles, s.p.a.)",nan,nan,active,,t / yr,,851
+25,5052,2003,Algeria,iron,Bou Khadra,nan,Mine,,,35.75,8.05,,,Enterprise Nationale de Fer et de Phosphates (FERPHOS),nan,nan,active,,t / yr,,851
+26,5053,2003,Algeria,iron,Ouenza,nan,Mine,,,35.95,8.12,,,Enterprise Nationale de Fer et de Phosphates (FERPHOS),nan,nan,active,,t / yr,,851
+27,5054,2003,Algeria,gypsum,Chettaba,nan,nan,"36° 21' 45"" ","006° 34' 06""",36.363,6.568,,,"Unité Chaux de Chettaba (Société des Produits Dérivés de l'Est, 100%)",nan,nan,active,,t / yr,,851
+28,5055,2003,Algeria,mercury,"Ismail, Skikda area; M'Rasma",nan,Mine,,,36.88,7.9,,,L'Entreprise Nationale et des Produits Miniers Non-ferreux des Substances Utiles (ENOF),nan,nan,closed,,t / yr,,851
+30,5057,2003,Algeria,phosphate,Djebel Onk,nan,Mine,,,34.717,8.0,,S,Enterprise Nationale de Fer et de Phosphates (FERPHOS),nan,nan,active,,t / yr,,851
+31,5058,2003,Algeria,phosphate,El-Kouif,nan,Mine,,,35.5,8.32,,,Enterprise Nationale de Fer et de Phosphates (FERPHOS),nan,nan,active,,t / yr,,851
+33,5060,2003,Algeria,pozzolana,Beni-Saf,nan,Mine,,,35.3,-1.37,,,Enterprise Nationale de Fer et de Phosphates (FERPHOS),nan,nan,active,,t / yr,,851
+34,5061,2003,Algeria,salt - refined,"El Outaya, Biskra",nan,Refinery,"34° 51' 00"" ","005° 44' 00""",34.85,5.733,,,Enterprise Nationale d'Exploitation des Carrières de Sels Industriels et Domestiques et Commercialisation des Sels s.p.a,nan,nan,active,,t / yr,,851
+35,5062,2003,Algeria,salt - rock,"El Outaya, Biskra",nan,nan,"34° 51' 00"" ","005° 44' 00""",34.85,5.733,,,Enterprise Nationale d'Exploitation des Carrières de Sels Industriels et Domestiques et Commercialisation des Sels s.p.a,nan,nan,active,,t / yr,,851
+36,5063,2003,Algeria,silicon,Béthioua,nan,nan,"35° 48' 09"" ","000° 15' 40""",35.803,-0.261,,S,Enterprise Nationale d'Exploitation des Carrières de Sels Industriels et Domestiques et Commercialisation des Sels s.p.a,nan,nan,active,,t / yr,,851
+37,5064,2003,Algeria,salt - solar,Bouziane,nan,nan,"35° 48' 00"" ","004° 08' 00""",35.8,4.133,,S,Enterprise Nationale d'Exploitation des Carrières de Sels Industriels et Domestiques et Commercialisation des Sels s.p.a,nan,nan,active,,t / yr,,851
+38,5065,2003,Algeria,salt - solar,El Oued,nan,nan,"36° 10' 59"" ","006° 23' 14""",36.183,6.387,,S,Enterprise Nationale d'Exploitation des Carrières de Sels Industriels et Domestiques et Commercialisation des Sels s.p.a,nan,nan,active,,t / yr,,851
+39,5066,2003,Algeria,salt - solar,Guergour Lamri,nan,nan,"36° 56' 43"" ","006° 34' 08""",36.945,6.569,,S,Enterprise Nationale d'Exploitation des Carrières de Sels Industriels et Domestiques et Commercialisation des Sels s.p.a,nan,nan,active,,t / yr,,851
+40,5067,2003,Algeria,salt - solar,Oum el Bouaghi,nan,nan,"35° 52' 39"" ","007° 06' 49""",35.877,7.114,,S,Enterprise Nationale d'Exploitation des Carrières de Sels Industriels et Domestiques et Commercialisation des Sels s.p.a,nan,nan,active,,t / yr,,851
+41,5068,2003,Algeria,salt - solar,Sétif Ouled,nan,nan,"36° 11' 29"" ","005° 24' 34""",36.191,5.409,,S,Enterprise Nationale d'Exploitation des Carrières de Sels Industriels et Domestiques et Commercialisation des Sels s.p.a,nan,nan,active,,t / yr,,851
+42,5069,2003,Algeria,salt - solar,Zouaï,nan,nan,"36° 39' 00"" ","008° 06' 00""",36.65,8.1,,S,Enterprise Nationale d'Exploitation des Carrières de Sels Industriels et Domestiques et Commercialisation des Sels s.p.a,nan,nan,active,,t / yr,,851
+43,5070,2003,Algeria,salt - solar,nan,nan,nan,"35° 41' 28"" ","000° 38' 30""",35.691,-0.642,,,Enterprise Nationale d'Exploitation des Carrières de Sels Industriels et Domestiques et Commercialisation des Sels s.p.a,nan,nan,active,,t / yr,,851
+44,5071,2003,Algeria,steel - crude,"El Hadjar, Annaba",nan,Plant,"36° 48' 17"" ","007° 44' 18""",36.805,7.738,,,"Ispat Annaba s.p.a. (Mittal Steel Co., 70%)",nan,nan,active,,t / yr,,851
+45,5072,2003,Algeria,steel - crude,"El Hadjar, Annaba",nan,Plant,"36° 48' 17"" ","007° 44' 18""",36.805,7.738,,,"Ispat Annaba s.p.a. (Mittal Steel Co., 70%)",nan,nan,active,,t / yr,,851
+46,5073,2003,Algeria,steel - processed,"El Hadjar, Annaba",nan,Mill,"36° 48' 17"" ","007° 44' 18""",36.805,7.738,,,"Ispat Annaba s.p.a. (Mittal Steel Co., 70%)",nan,nan,active,,t / yr,,851
+47,5074,2003,Algeria,steel - processed,El Hadjar,nan,Plant,"36° 48' 17"" ","007° 44' 18""",36.805,7.738,,,Société Algérienne de Fabrication Tubes en Spirale,nan,nan,active,,t / yr,,851
+48,5075,2003,Algeria,steel - processed,"El Hadjar, Annaba",nan,Mill,"36° 48' 17"" ","007° 44' 18""",36.805,7.738,,,"Ispat Annaba s.p.a. (Mittal Steel Co., 70%)",nan,nan,active,,t / yr,,851
+49,5076,2003,Algeria,steel - processed,"El Hadjar, Annaba",nan,Mill,"36° 48' 17"" ","007° 44' 18""",36.805,7.738,,,"Ispat Annaba s.p.a. (Mittal Steel Co., 70%)",nan,nan,active,,t / yr,,851
+50,5077,2003,Algeria,steel - processed,Ghardaia,nan,Plant,"32° 29' 00"" ","003° 40' 00""",32.483,3.667,,,"Entreprise Nationale de Tubes et de Transformation de Produits Plats (Groupe Industriel Sider, 100%)",nan,nan,active,,t / yr,,851
+51,5078,2003,Algeria,steel - processed,"El Hadjar, Annaba",nan,Mill,"36° 48' 17"" ","007° 44' 18""",36.805,7.738,,,"Ispat Annaba s.p.a. (Mittal Steel Co., 70%)",nan,nan,active,,t / yr,,851
+52,5079,2003,Algeria,zinc,Gazaouet,nan,Refinery,,,35.1,-0.85,,,"Société Algérienne du Zinc (Enterprise Nationale de Métallurgie et de Transformation des Métaux Non Ferreux, 100%)",nan,nan,active,,t / yr,,851
+53,5080,2003,Algeria,zinc,Kherzet Youcef,nan,Mine,,,35.89,6.41,,,"Entreprise Nationale des Produits Miniers Non Ferreux & des Substances Utiles, s.p.a.",nan,nan,closed,,t / yr,,851
+54,5081,2003,Algeria,"zinc, lead","El Abed, Oued Zounder",nan,Mine,,,34.6,-0.3,,,Enterprise Nationale de Fer et de Phosphates (FERPHOS),nan,nan,closed,,t / yr,,851
+56,5083,2003,Angola,gold,Luali River area,nan,Mine,"04° 35' 00"" ","012° 43' 00""",-4.583,12.717,,S,artisanal,nan,nan,active,,kg / yr,,851
+57,5084,2003,Angola,cement,Luanda,nan,Plant,,,-8.83,14.23,,,"Nova Cimangola S.A.R.L.(Scanang Holding Co., 49%, Government, 39.8%, and Bank BAI, 9.5%)",nan,nan,active,,t / yr,,851
+59,5086,2003,Angola,diamond,Alto Cuilo,nan,Mine,,,-10.05,15.167,,S,"Petra Diamonds Limited (through its subsidiary Petra Diamonds Alto Cuilo Ltd.), 36%",nan,nan,active,,carats / yr,,851
+60,5087,2003,Angola,diamond,Calonda,nan,Mine,"08° 28' 00"" ","020° 33' 00""",-8.467,20.55,,S,"Sociedade Mineira do Lucapa Ltda. (Endiama, 51%; Sociedade Portuguesa de Empreendimentos, 49%)",nan,nan,active,,carats / yr,,851
+61,5088,2003,Angola,diamond,Camafuca-Camazambo,nan,Mine,,,-8.42,21.75,,S,Sociedade Mineira do Camafuca Lda. (SouthernEra Diamonds Inc. of Canada; Government and Welox Ltd. of Israel,nan,nan,active,,carats / yr,,851
+62,5089,2003,Angola,diamond,Cassanguidi,nan,Mine,"07° 29' 00"" ","021° 18' 00""",-7.483,21.3,,S,"SouthernEra Resources, Ltd. (Canada) 51%, Endiama 20%, Sociedade Miniera Do Lucopa 15%,  Comica 7%",nan,nan,active,,carats / yr,,851
+63,5090,2003,Angola,diamond,Catoca,nan,Mine,,,-10.15,15.92,,S,"Sociedade Mineira de Catoca Ltda. [Almazy Rossii-Sakha Joint Stock (Alrosa), 32.8%; Leviev Group, 18%; Odebretch Mining Services Inc., 16.4%]",nan,nan,active,,carats / yr,,851
+66,5093,2003,Angola,diamond,Dando Cuanza,nan,Mine,"11° 14' 00"" ","017° 25' 00""",-11.233,17.417,,S,"operator: RandGold & Exploration Co. Ltd., 20% interest",nan,nan,active,,carats / yr,,851
+68,5095,2003,Angola,diamond,Luanda,nan,Plant,,,-8.83,14.23,,,DeBeers,nan,nan,active,,carats / yr,,851
+69,5096,2003,Angola,diamond,Luarica,nan,Mine,"14° 45' 00"" ","014° 20' 00""",-8.75,20.333,,S,"Trans Hex Group Limited, 35%",nan,nan,active,,carats / yr,,851
+70,5097,2003,Angola,diamond,Luo,nan,Mine,,,-9.45,21.48,,S,"Energem Resources Inc., 48%;[Almazy Rossii-Sakha Joint Stock (Alrosa), Espiritu Santo Bank of Portugal",nan,nan,active,,carats / yr,,851
+71,5098,2003,Angola,diamond,Luxinge,nan,Mine,"07° 49' 00"" ","021° 04' 00""",-7.817,21.067,,S,"operator: Randgold & Exploration Co. Ltd., 24% interest",nan,nan,active,,carats / yr,,851
+72,5099,2003,Angola,diamond,Luzamba,nan,Mine,"09° 29' 00"" ","018° 34' 00""",-8.83,17.9,,S,"Sociedade de Desenvolvimento Mineiro (Odebretch Mining Services Inc., 50%; Government, 50%)",nan,nan,active,,carats / yr,,851
+73,5100,2003,Angola,diamond,Mufuto North,nan,Mine,"11° 18' 00"" ","020° 49' 00""",-11.3,20.817,,S,"Sociedade Mineira do Lucapa Ltda. (Endiama, 51%; Sociedade Portuguesa de Empreendimentos, 49%)",nan,nan,active,,carats / yr,,851
+74,5101,2003,Angola,diamond,Tazua,nan,Mine,,,-8.52,18.83,,S,"SDM (Ashton Mining Ltd, Endiama, Odebrecht)",nan,nan,active,,carats / yr,,851
+75,5102,2003,Angola,diamond,Yetwene,nan,Mine,,,-8.42,21.75,,S,"Energem Resources Inc., 48%;[Almazy Rossii-Sakha Joint Stock (Alrosa), Espiritu Santo Bank of Portugal",nan,nan,active,,carats / yr,,851
+76,5103,2003,Angola,iron,Cassinga,nan,Mine,,,-15.0,17.0,,,nan,nan,nan,active,,t / yr,,851
+77,5104,2003,Angola,granite,southern Huíla Province,nan,Quarry,"15° 20' 00"" ","015° 00' 00""",-15.333,15.0,,S,Angostone Construction and Ornamental Rocks Ltda.,nan,nan,active,,cubic meters/yr,,851
+78,5105,2003,Angola,granite,southern Huíla Province,nan,Quarry,"15° 20' 00"" ","015° 00' 00""",-15.333,15.0,,S,Rorangol Ltda.,nan,nan,active,,t / yr,,851
+79,5106,2003,Angola,granite,southern Huíla Province,nan,Quarry,"15° 20' 00"" ","015° 00' 00""",-15.333,15.0,,S,Granang,nan,nan,active,,t / yr,,851
+80,5107,2003,Angola,petroleum,Lobito,nan,Refinery,"12° 20' 53"" ","013° 32' 44""",-12.348,13.546,,,Sociedade Nacional de Petróleos de Angola (Sonangol),nan,nan,active,,42 gallon barrels / yr,,851
+81,5108,2003,Angola,petroleum,Luanda,nan,Refinery,"07° 54' 00"" ","015° 33' 00""",-7.9,15.55,,,Sociedade Nacional de Petróleos de Angola (Sonangol),nan,nan,active,,42 gallon barrels / yr,,851
+83,5110,2003,Angola,red granite,Cunene Province,nan,Quarry,"16° 00' 00"" ","016° 00' 00""",-16.0,16.0,,S,Angostone Construction and Ornamental Rocks Ltda.,nan,nan,active,,cubic meters/yr,,851
+84,5111,2003,Angola,salt,Benguela,nan,Mine,"12° 34' 42"" ","013° 24' 26""",-12.578,13.407,,S,nan,nan,nan,active,,t / yr,,851
+85,5112,2003,Angola,stone,Namibe,nan,Plant,"15° 11' 46"" ","012° 09' 08""",-15.196,12.152,,S,Rorangol Ltda.,nan,nan,active,,t / yr,,851
+86,5113,2003,Bahrain,aluminum,Rolling mill at Sitra,nan,Mill,,,26.15,50.617,,S,Gulf Aluminium Rolling Mill B.S.C.  (Government of  Bahrain),nan,nan,active,,t / yr,,851
+87,5114,2003,Bahrain,aluminum,Smelter at Sitra,nan,Smelter,,,26.15,50.617,,S,Aluminium Bahrain B.S.C. (Government),nan,nan,active,,t / yr,,851
+88,5115,2003,Bahrain,cement,Clinker mills at Muharroq,nan,Mill,,,26.257,50.612,,S,Hundai Cement Factory,nan,nan,active,,t / yr,,851
+89,5116,2003,Bahrain,iron ore,Pellet plant at Al-Hidd,nan,Plant,,,26.246,50.654,,,Gulf Industrial Investment Co.,nan,nan,active,,t / yr,,851
+90,5117,2003,Bahrain,fertilizer - ammonia,Sitra,nan,Plant,,,26.15,50.617,,,Gulf Petrochemical Industries Co.,nan,nan,active,,t / yr,,851
+91,5118,2003,Bahrain,fertilizer - urea,Sitra,nan,Plant,,,26.15,50.617,,S,Gulf Petrochemical Industries Co.,nan,nan,active,,t / yr,,851
+92,5119,2003,Bahrain,methanol,Sitra,nan,Plant,,,26.15,50.617,,,Gulf Petrochemical Industries Co.,nan,nan,active,,t / yr,,851
+93,5120,2003,Bahrain,sulfur,Sitra,nan,Well,,,26.15,50.617,,,"Bahrain Petroleum Co., B.S.C. (Closed) (Government)",nan,nan,active,,t / yr,,851
+98,5125,2003,Botswana,clay,Lobatse,nan,nan,"25° 13' 00"" ","025° 40' 00""",-25.217,25.667,,,Lobatse Clay Works (Proprietary) Ltd.,nan,nan,active,,t / yr,,851
+99,5126,2003,Botswana,clay,Makoro,nan,nan,"22° 12' 00"" ","026° 33' 00""",-22.2,26.55,,,Makoro Brick and Tile (Proprietary) Ltd.,nan,nan,active,,t / yr,,851
+100,5127,2003,Botswana,coal,Morupule,nan,nan,"24° 40' 00"" ","025° 55' 00""",-24.667,25.917,,U,"Morupule Colliery (Proprietary) Ltd. (Anglo American Corp. of South Africa Ltd. and related firms, 93.3%)",nan,nan,active,,t / yr,,851
+101,5128,2003,Botswana,diamond,Damtshaa,nan,Mine,"21° 25' 00"" ","025° 35' 00""",-21.417,25.583,,S,"Debswana Diamond Co. (Proprietary) Ltd.   (Government, 50%; De Beers Centenary  AG, 50%)",nan,nan,active,670.0,carats / yr,,851
+102,5129,2003,Botswana,diamond,Jwaneng,nan,Mine,"24° 35' 00"" ","024° 42' 00""",-24.583,24.7,,S,"Debswana Diamond Co. (Proprietary) Ltd.   (Government, 50%; De Beers Centenary  AG, 50%)",nan,nan,active,,carats / yr,,851
+103,5130,2003,Botswana,diamond,Letlhakane,nan,Mine,"21° 25' 00"" ","025° 35' 00""",-21.417,25.583,,S,"Debswana Diamond Co. (Proprietary) Ltd.   (Government, 50%; De Beers Centenary  AG, 50%)",nan,nan,active,,carats / yr,,851
+104,5131,2003,Botswana,diamond,Orapa,nan,Mine,"21° 17' 00"" ","025° 22' 00""",-21.283,25.367,,S,"Debswana Diamond Co. (Proprietary) Ltd.   (Government, 50%; De Beers Centenary  AG, 50%)",nan,nan,active,,carats / yr,,851
+105,5132,2003,Botswana,diamond,Tswapong,nan,Mine,"22° 38' 00"" ","027° 30' 00""",-22.633,27.5,,S,"Tswapong Mining Co. (Proprietary) Ltd. (De BeersProspecting Botswana Ltd., 85%)",nan,nan,active,3.0,carats / yr,,851
+106,5133,2003,Botswana,gemstone - semiprecious,"Bobonong, Selebi-Phikwe area",nan,nan,"21° 58' 00"" ","028° 20' 00""",-21.967,28.333,,S,Masa Precious Stones (Proprietary) Ltd.,nan,nan,active,,kg / yr,,851
+107,5134,2003,Botswana,gemstone - semiprecious,Pilane,nan,Plant,"24° 27' 00"" ","026° 08' 00""",-24.45,26.133,,,Agate Botswana (Proprietary) Ltd.,nan,nan,active,,kg / yr,,851
+109,5136,2003,Botswana,"nickel, copper, cobalt",Phoenix,nan,Mine,"21° 10' 00"" ","027° 31' 00""",-21.167,27.517,,S,"Tati Nickel Mining Co. (Proprietary) Ltd. (LionOre Mining International Ltd., 85%)",nan,nan,active,,"t / yr, kg / yr",,851
+110,5137,2003,Botswana,"nickel, copper, cobalt",Selebi-Phikwe,nan,Mine,"22° 01' 00"" ","027° 50' 00""",-22.017,27.833,,U,"BCL Ltd. (Botswana RST Ltd., 85%)",nan,nan,active,,t / yr,,851
+111,5138,2003,Botswana,salt,Sua Pan,nan,nan,"20° 03' 00"" ","026° 12' 00""",-20.05,26.2,,S,"Botswana Ash (Proprietary) Ltd. (Government, 50%; Anglo American Corp. of South Africa Ltd., 50%)",nan,nan,active,,t / yr,,851
+112,5139,2003,Botswana,soda ash,Sua Pan,nan,nan,"20° 03' 00"" ","026° 12' 00""",-20.05,26.2,,S,"Botswana Ash (Proprietary) Ltd. (Government, 50%; Anglo American Corp. of South Africa Ltd., 50%)",nan,nan,active,,t / yr,,851
+121,5148,2003,Cameroon,alumina,Edea,nan,Mill,"03° 48' 00"" ","010° 08' 00""",3.8,10.133,,,"Société de Camérounaise de Transformation de l'Aluminium (Alcan Inc., 53%)",nan,nan,active,,t / yr,,851
+122,5149,2003,Cameroon,aluminum,Edea,nan,nan,"03° 48' 00"" ","010° 08' 00""",3.8,10.133,,,"Société de Camérounaise de Transformation de l'Aluminium (Alcan Inc., 53%)",nan,nan,active,,t / yr,,851
+123,5150,2003,Cameroon,cement,Bonaberi near Douala and Figuil at Garoua,nan,Mill,"05° 08' 00"" ","014° 00' 00""",5.133,14.0,,,"Cimentaries du Cameroun (Lafarge Group, 57%)",nan,nan,active,,t / yr,,851
+124,5151,2003,Cameroon,diamond,Various locations,nan,nan,"04° 18' 00"" ","014° 41' 00""",4.3,2.683,,,Artisanal,nan,nan,active,,carats / yr,,851
+126,5153,2003,Cameroon,limestone,Figuil,nan,nan,,,8.86,13.11,,,Cinencam,nan,nan,active,,t / yr,,851
+127,5154,2003,Cameroon,marble,Nord Province,nan,nan,"08° 24' 00"" ","014° 10' 00""",8.4,2.167,,,Cinencam,nan,nan,active,,t / yr,,851
+128,5155,2003,Cameroon,petroleum products,Refinery at Limbe,nan,Refinery,"04° 00' 46"" ","009° 13' 13""",4.013,9.22,,,"Société Nationale de Raffinage  (Government, 66%)",nan,nan,active,,t / yr,,851
+129,5156,2003,Cameroon,petroleum - crude,"About 21 oilfields, which included Bavo, Ekoundou Horst, Eloundou,Eloundou Nord Marine, Ekoundou Sud, Itindi, and Kombo Centre",nan,nan,"04° 00' 00"" ","012° 13' 00""",4.0,12.217,,,"Total Exploration and Production Cameroun (Total S.A., 100%)",nan,nan,active,,42 gallon barrels / day,,851
+130,5157,2003,Cameroon,petroleum - crude,"Makoko Northeast, Makoko-Anana and makoko South Marine Fields; Lipenja",nan,nan,"02° 51' 00"" ","014° 31' 00""",2.85,14.517,,,"Pecten Cameroon Co.  (Pecten International, 80%)",nan,nan,active,,42 gallon barrels / yr,,851
+131,5158,2003,Cameroon,petroleum - crude,Moudi and Kribi Fields,nan,nan,,,9.8,13.5,,,Pecten Cameroon Co.,nan,nan,active,,42 gallon barrels / yr,,851
+132,5159,2003,Cameroon,pozzolana,Sud-Ouest and Littoral Provinces,nan,nan,"04° 27' 16"" ","009° 57' 56""",4.454,3.966,,,Cinencam,nan,nan,active,,t / yr,,851
+133,5160,2003,Cameroon,aluminum,Smelter at Edea,nan,Smelter,"03° 48' 00"" ","010° 08' 00""",3.8,10.133,,,"Société de Camérounaise de Transformation de l'Aluminium (Alcan Inc., 53%)",nan,nan,active,,t / yr,,851
+218,5245,2003,Egypt,fertilizer - urea,Abu Qir B,nan,nan,"31° 18' 2"" N",030° 09'  E,31.31,30.16,,,"Abu Qir Fertilizer & Chemical Industries Co., (private and public interests, 80.9% Egyptian General Petroleum Corp., 19.1%)",nan,nan,active,,t / yr,,851
+219,5246,2003,Egypt,aluminum,Nag Hammadi,nan,Smelter,,,26.05,33.25,,,Aluminium Co. of Egypt,nan,nan,active,,t / yr,,851
+220,5247,2003,Egypt,carbon,Alexandria,nan,nan,"31° 11' 5"" N",029° 55'  E,31.2,29.92,,,Alexandria Carbon Black Co.,nan,nan,active,,t / yr,,851
+221,5248,2003,Egypt,cement,Ain Sukhna,nan,nan,"29° 35' 0"" N",032° 21'  E,29.58,32.35,,,Suez Cement Co.,nan,nan,active,,t / yr,,851
+223,5250,2003,Egypt,cement,Assiut,nan,nan,"27° 10' 5"" N",031° 10'  E,27.18,31.18,,,Asiut Cement Co.,nan,nan,active,,t / yr,,851
+224,5251,2003,Egypt,cement,Beni Suef,nan,nan,"29° 03' 0"" N",031° 02'  E,29.05,31.03,,,National Cement Co.,nan,nan,active,,t / yr,,851
+225,5252,2003,Egypt,cement,El Mex,nan,nan,"31° 09' 0""",029° 51'  E,31.15,29.85,,,Alexandria Portland Cement Co.,nan,nan,active,,t / yr,,851
+226,5253,2003,Egypt,cement,El Minya,nan,nan,"29° 44' 41"" ","031° 17' 52""",29.745,31.298,,,Helwan Portland Cement Co.,nan,nan,active,,t / yr,,851
+227,5254,2003,Egypt,cement,El Tabbin,nan,nan,"29° 47' 0"" N",031° 18'  E,29.78,31.3,,,National Cement Co.,nan,nan,active,,t / yr,,851
+228,5255,2003,Egypt,cement,Helwan,nan,nan,"29° 51' 0""",031° 20'  E,29.85,31.33,,,Helwan Portland Cement Co.,nan,nan,active,,t / yr,,851
+230,5257,2003,Egypt,iron,El Dikheila plant,nan,Plant,"31° 08' 0"" N",029° 49'  E,31.13,29.82,,,"Alexandria National Iron and Steel Co. (Government, 100%)",nan,nan,active,,t / yr,,851
+231,5258,2003,Egypt,iron,Helwan steel plant,nan,Plant,29° 51' 0  N,031° 20'  E,29.85,31.33,,,"Egyptian Iron and Steel Co., Hadisolb. (Government, 100%)",nan,nan,active,,t / yr,,851
+232,5259,2003,Egypt,fertilizer - ammonia,Abu  Qir A,nan,nan,"27° 55' 5""",030° 50'  E,27.93,30.84,,,"Abu Qir Fertilizer & Chemical Industries Co., (private and public interests, 80.9% Egyptian General Petroleum Corp., 19.1%)",nan,nan,active,,t / yr,,851
+233,5260,2003,Egypt,fertilizer - ammonia,Abu Qir B,nan,nan,"31° 18' 2""",030° 09'  E,31.31,30.16,,,"Abu Qir Fertilizer & Chemical Industries Co., (private and public interests, 80.9% Egyptian General Petroleum Corp., 19.1%)",nan,nan,active,,t / yr,,851
+234,5261,2003,Egypt,fertilizer - ammonia,Abu Qir C,nan,nan,"31° 18' 2"" N",030° 09'  E,31.31,30.16,,,"Abu Qir Fertilizer & Chemical Industries Co., (private and public interests, 80.9% Egyptian General Petroleum Corp., 19.1%)",nan,nan,active,,t / yr,,851
+235,5262,2003,Egypt,fertilizer - ammonia,Kima,nan,nan,"31° 03' 01""",031° 22'  E,31.05,31.37,,,Egyptian Chemical Industries (Government 100%),nan,nan,active,,t / yr,,851
+236,5263,2003,Egypt,fertilizer - ammonia,Suez,nan,nan,"29° 58' 0"" N",032° 33'  E,29.97,32.55,,,"Société El-Nasr d Engrais et d'Industries Chemiques (Government, 100%)",nan,nan,active,,t / yr,,851
+237,5264,2003,Egypt,"fertilizer - ammonia, urea",Kima,nan,nan,"31° 03' 1"" N",031° 22'  E,31.05,31.37,,,Egyptian Chemical Industries (Government 100%),nan,nan,active,,t / yr,,851
+238,5265,2003,Egypt,"fertilizer - ammonia, urea",Talkha,nan,nan,"31° 03' 1 """,031° 22'  E,31.05,31.37,,,"Société El-Nasr d Engrais et d'Industries Chemiques (Government, 100%)",nan,nan,active,,t / yr,,851
+239,5266,2003,Egypt,fertilizer - ammonia nitrate,Abu  Qir A,nan,nan,"27° 55' 5"" N",030° 50'  E,27.93,30.84,,,"Abu Qir Fertilizer & Chemical Industries Co., (private and public interests, 80.9% Egyptian General Petroleum Corp., 19.1%)",nan,nan,active,,t / yr,,851
+240,5267,2003,Egypt,fertilizer - ammonium nitrate,Suez,nan,nan,"29° 58' 0"" N",032° 33'  E,29.97,32.55,,,"Société El-Nasr d Engrais et d'Industries Chemiques (Government, 100%)",nan,nan,active,,t / yr,,851
+241,5268,2003,Egypt,fertilizer - ammonium nitrate,Talkha,nan,nan,"31° 03' 1 """,031° 22'  E,31.05,31.37,,,"Société El-Nasr d Engrais et d'Industries Chemiques (Government, 100%)",nan,nan,active,,t / yr,,851
+242,5269,2003,Egypt,fertilizer - nitric acid,Kima,nan,nan,"31° 03' 1 """,031° 22'  E,31.05,31.37,,,Egyptian Chemical Industries (Government 100%),nan,nan,active,,t / yr,,851
+243,5270,2003,Egypt,fertilizer - nitric acid,Suez,nan,nan,"29° 58' 0"" N",032° 33'  E,29.97,32.55,,,"Société El-Nasr d Engrais et d'Industries Chemiques (Government, 100%)",nan,nan,active,,t / yr,,851
+244,5271,2003,Egypt,fertilizer - urea,Abu Qir C,nan,nan,"31° 18' 2""",030° 09'  E,31.31,30.16,,,"Abu Qir Fertilizer & Chemical Industries Co., (private and public interests, 80.9% Egyptian General Petroleum Corp., 19.1%)",nan,nan,active,,t / yr,,851
+245,5272,2003,Egypt,Iron ore,"El-Gadida Mine, El Bahariya",nan,nan,"28° 53' 00"" ","029° 59' 00""",28.883,29.983,,,Egyptian Iron and Steel Co.,nan,nan,active,,t / yr,,851
+246,5273,2003,Egypt,natural gas,"Abu Madi, Badreddin- 3, Abu Qir/Naf, Ras Shukheir",nan,nan,"30° 54' 0"" N",029° 23'  E,30.9,29.38,,,"Egyptian General Petroleum Corp. (EGPC) (Government, 100%)",nan,nan,active,,t / yr,,851
+247,5274,2003,Egypt,natural gas,Khalda,nan,nan,"30° 50' 0"" N",027° 15'  E,30.833,27.25,,,"Grupo Khalda (Repson, 50%)",nan,nan,active,,t / yr,,851
+248,5275,2003,Egypt,phosphate,Abu Tartur,nan,Mine,,,29.68,32.37,,,Egyptian Org.of  Ind.and Mining Complexes,nan,nan,active,,t / yr,,851
+250,5277,2003,Egypt,petroleum,Alexandria,nan,Refinery,"31° 10' 0""",029° 53'  E,31.17,29.88,,,"Alexandria Petroleum Co. (Government, 100%)",nan,nan,active,,t / yr,,851
+252,5279,2003,Egypt,petroleum,Asyut,nan,Refinery,"27° 10' 5""",031° 10'  E,27.182,31.18,,,"Asyut Petroleum Refining Co. (Government, 100%)",nan,nan,active,,t / yr,,851
+253,5280,2003,Egypt,petroleum,"Belayim, Suez Gulf",nan,nan,"28° 36' 0"" N",033° 15'  E,28.6,33.25,,,"Belayim Petroleum Co. (EGPC, 50%; International Egyptian Oil Co. 50%)",nan,nan,active,,t / yr,,851
+254,5281,2003,Egypt,petroleum,"Gulf Of Suez, October",nan,nan,"28° 10' 0"" N",033° 27'  E,28.166,33.45,,,"Gulf of Suez Oil Co. (EGPC , 50%; Amoco, 50%)",nan,nan,active,,t / yr,,851
+255,5282,2003,Egypt,petroleum,"Gulf of Suez, Ras Budran",nan,Plant,"28° 56' 0"" N",033° 10'  E,28.93,33.167,,,"Suez Oil Company (EGPC, 50%)",nan,nan,active,,t / yr,,851
+256,5283,2003,Egypt,petroleum,"Mostorod, Tanta",nan,Refinery,"30° 47' 2"" N",030° 59'  E,30.79111,30.998,,,"Cairo Petroleum Refining Co. (Government, 100%)",nan,nan,active,,t / yr,,851
+257,5284,2003,Egypt,petroleum,Suez,nan,Refinery,"28° 10' 0"" N",033° 27'  E,28.17,33.45,,,"El-Nasr Petroleum Refining Co. (Government, 100%)",nan,nan,active,,t / yr,,851
+258,5285,2003,Egypt,petroleum,Suez,nan,Refinery,"28° 10' 0"" N",033° 27'  E,28.17,33.45,,,"Suez Petroleum Processing  Co. (Government, 100%)",nan,nan,active,,t / yr,,851
+259,5286,2003,Egypt,phosphate,Abu Tartur,nan,Mine,"25° 34' 0"" N",029° 43'  E,25.566,29.72,,,Egyptian Organization of  Industrial and Mining,nan,nan,active,,t / yr,,851
+260,5287,2003,Egypt,steel,"Ain Sukhna, Alexandria, Sadat City",nan,Plant,,,31.13,30.82,,,EZDK Group,nan,nan,active,,t / yr,,851
+261,5288,2003,Egypt,steel,Helwan,nan,Plant,,,29.85,32.33,,,"Egyptian Iron and Steel Co., Hadisolb.",nan,nan,active,,t / yr,,851
+305,5332,2003,Ghana,aluminum,Tema,nan,Smelter,,,5.62,-1.02,,,Volta Aluminum Co. Ltd. (VALCO),nan,nan,active,,t / yr,,851
+306,5333,2003,Ghana,gold,Ahafo (Yamfo-Sefwi) deposit near Kenyasi,nan,Mine,"07° 04' 00"" ","002° 39' 00""",7.067,-2.65,,,Newmont Mining Corp.,nan,nan,active,,kg / yr,,851
+307,5334,2003,Ghana,gold,Akyem deposit west of Kibi,nan,Mine,"06° 14' 00"" ","002° 16' 00""",6.233,-2.267,,,Newmont Mining Corp.,nan,nan,active,,kg / yr,,851
+308,5335,2003,Ghana,gold,Bibiani,nan,Mine,,,6.47,-1.33,,S,Ashanti Goldfield Co. Ltd.,nan,nan,active,,kg / yr,,851
+309,5336,2003,Ghana,gold,Bogoso,nan,Mine,,,5.52,-0.83,,S,"Bogoso Gold, Ltd. (Golden Star Resources Ltd.)",nan,nan,active,,kg / yr,,851
+310,5337,2003,Ghana,gold,"Chirano deposit, near Awaso",nan,Mine,"05° 46' 00"" ","002° 32' 00""",5.767,-2.533,,,Red Back Mining NL,nan,nan,active,,kg / yr,,851
+311,5338,2003,Ghana,gold,Damang,nan,Mine,,,6.68,-0.95,,S,GoldFields Ghana Ltd. (Gold Fields Ltd.),nan,nan,active,,kg / yr,,851
+312,5339,2003,Ghana,gold,Esaase/JENA,nan,Mine,,,5.58,-1.03,,S,Bonte Gold Mining Ltd.,nan,nan,active,,kg / yr,,851
+313,5340,2003,Ghana,gold,Iduapriem,nan,Mine,,,6.3,-0.78,,S,Ashanti Goldfield Co. Ltd.,nan,nan,active,,kg / yr,,851
+314,5341,2003,Ghana,gold,Iduapriem/Teberebie Mine,nan,Mine,,,5.57,-1.02,,,Ashanti Goldfields Co. Ltd.,nan,nan,active,,kg / yr,,851
+315,5342,2003,Ghana,gold,Ntotoroso deposit near Kenyasi,nan,Mine,"05° 47' 00""","000° 23' 00""",5.78,-0.38,,,Newmont Mining Corp.,nan,nan,active,,kg / yr,,851
+316,5343,2003,Ghana,gold,Obotan,nan,Mine,,,6.2,-0.67,,S,Resolute Amansie Ltd.  (Resolute Ltd.),nan,nan,active,,kg / yr,,851
+317,5344,2003,Ghana,gold,Obuasi,nan,Mine,,,5.43,-1.15,,U,Ashanti Goldfield Co. Ltd.,nan,nan,active,,kg / yr,,851
+318,5345,2003,Ghana,gold,Obuasi,nan,Mine,"06° 12' 00""","001° 40' 00""",6.2,-1.67,,U,Ashanti Goldfields Co. Ltd.,nan,nan,active,,kg / yr,,851
+319,5346,2003,Ghana,gold,Prestea Sankofa Tailings,nan,Mine,,,5.33,-1.0,,S,Ashanti Goldfield Co. Ltd.,nan,nan,closed,,kg / yr,,851
+320,5347,2003,Ghana,gold,Tarkwa,nan,Mine,"07° 13' 00"" ","002° 14' 00""",7.217,-2.233,,S,Gold Field Ghana Ltd.,nan,nan,active,,kg / yr,,851
+321,5348,2003,Ghana,gold,Wassa,nan,Mine,"05° 46' 00"" ","002° 32' 00""",5.767,-2.533,,S,"Wexford Goldfields Ltd. (Golden Star Resources Ltd., 90% and Government, 10%)",nan,nan,active,,kg / yr,,851
+322,5349,2003,Ghana,bauxite,"Awaso,in Birim Valley",nan,Mine,,,6.23,-1.27,,S,Ghana Bauxite Co. Ltd. (Alcan 80%),nan,nan,active,,t / yr,,851
+323,5350,2003,Ghana,cement,Takoradi,nan,nan,"04° 54' 00"" ","001° 43' 00""",4.9,-1.717,,,Ghana Cement Works Ltd. (Heidelberg Zement AG of Germany),nan,nan,active,,t / yr,,851
+324,5351,2003,Ghana,cement,Tema,nan,nan,"05° 37' 00""","000° 01' 00""",5.62,-0.02,,,Ghana Cement Works Ltd. (Heidelberg Zement AG of Germany),nan,nan,active,,t / yr,,851
+325,5352,2003,Ghana,diamond,Akwatia,nan,Mine,,,6.05,0.2,,S,Ghana Consolidated Diamonds Ltd. (Government 100%),nan,nan,active,,carats / yr,,851
+326,5353,2003,Ghana,diamond,Birim Valley,nan,nan,,,6.05,0.2,,S,Artisanal,nan,nan,active,,carats / yr,,851
+327,5354,2003,Ghana,limestone,Sekondi,nan,nan,"04° 56' 00"" ","001° 42' 00""",4.933,-1.7,,,Carmeuse Lime Products (Ghana) Ltd.,nan,nan,active,,t / yr,,851
+328,5355,2003,Ghana,manganese,Nsuta-Wassaw,nan,Mine,,,5.27,-0.98,,S,Ghana Manganese Company Limited (Government of Ghana),nan,nan,active,,t / yr,,851
+329,5356,2003,Ghana,petroleum products,Tema,nan,Refinery,"10° 29' 00""","000° 09' 00""",10.48,-0.15,,,"Tema Oil Refinery (Government, 100%)",nan,nan,active,,thousand 42 gallon barrels / yr,,851
+330,5357,2003,Ghana,petroleum - crude,Saltpond and Tano Fields,nan,nan,"06° 40' 00""","002° 03' 00""",6.67,-2.05,,,"Ghana National Petroleum Corp. (Government, 100%)",nan,nan,active,,thousand 42 gallon barrels / yr,,851
+331,5358,2003,Ghana,salt,Elmina area,nan,nan,"05° 05' 00""","001° 21' 00""",5.08,-1.35,,,Elmina Salt Producers Association,nan,nan,active,,t / yr,,851
+332,5359,2003,Ghana,salt,Mendskrom,nan,nan,"05° 23' 00"" ","002° 22' 00""",5.383,-2.367,,,Panbros Salt Industry Ltd.,nan,nan,active,,t / yr,,851
+333,5360,2003,Ghana,steel,Tema,nan,Mill,"05° 38' 00"" ","000° 01' 00""",5.633,0.017,,,Tema Steel Co. subsidiary of Ghana Industrial Holdings Co,nan,nan,active,,t / yr,,851
+334,5361,2003,Ghana,steel,Tema,nan,Mill,"05° 38' 00"" ","000° 01' 00""",5.633,0.017,,,Wahome Steel Ltd.,nan,nan,active,,t / yr,,851
+335,5362,2003,Ghana,steel,Tema,nan,Mill,"05° 38' 00"" ","000° 01' 00""",5.633,0.017,,,Ferro Fabrix,nan,nan,active,,t / yr,,851
+346,5373,2003,Iran,Silver,"Zanjan lead smelter, Zanjan",nan,Smelter,,,36.664,48.486,,,National Iranian Lead & Zinc Co.,nan,nan,active,12.0,t / yr,,851
+347,5374,2003,Iran,aluminum,Arak,nan,Smelter,,,34.086,49.684,,S,Iran Aluminium Co. (Government),nan,nan,active,120.0,t / yr,,851
+348,5375,2003,Iran,aluminum,Bandar Abbas,nan,Mine,,,27.218,56.378,,S,Al-Mahdi Aluminium Corp.,nan,nan,active,110.0,t / yr,,851
+349,5376,2003,Iran,arsenic,"Zarshuran  Mine, Tabak",nan,Mine,,,36.668,47.121,,,nan,nan,nan,active,440.0,t / yr,,851
+350,5377,2003,Iran,gold,"Moteh Mine, Esfahan",nan,Mine,,,32.66,51.671,,U,nan,nan,nan,active,500.0,kg / yr,,851
+351,5378,2003,Iran,gold,Neyshabour area,nan,Mine,,,33.567,55.07,,S,Artisanal placer operations,nan,nan,active,,kg / yr,,851
+352,5379,2003,Iran,gold,Sar Cheshmeh (near Khatounabad),nan,Mine,,,30.089,55.416,,U,National Iranian Copper Industries Co.,nan,nan,active,500.0,kg / yr,,851
+354,5381,2003,Iran,boron,"Gharagol Mine, Tabak",nan,Mine,,,36.467,47.942,,U,nan,nan,nan,active,,t / yr,,851
+355,5382,2003,Iran,barite,Amol,nan,Mine,,,36.471,52.363,,S,Iran Barite Falat Co.,nan,nan,active,21.0,t / yr,,851
+356,5383,2003,Iran,barite,Ardekan Mine,nan,Mine,,,32.321,54.021,,S,Iran Barite Falat Co.,nan,nan,active,,t / yr,,851
+357,5384,2003,Iran,barite,"Dasht-E-Deh Mine, Kavir Dar Anjir",nan,Mine,,,28.034,56.896,,S,Iran Barite Falat Co.,nan,nan,active,12.0,t / yr,,851
+358,5385,2003,Iran,barite,Haji abad Mine,nan,Mine,,,33.984,51.447,,S,Iran Barite Falat Co.,nan,nan,active,18.0,t / yr,,851
+359,5386,2003,Iran,barite,Kashan,nan,Mine,,,33.984,51.447,,S,Iran Barite Falat Co.,nan,nan,active,,t / yr,,851
+360,5387,2003,Iran,barite,Komsheh Cheh Mine (Qomsheh),nan,Mine,,,32.905,51.809,,S,Iran Barite Falat Co.,nan,nan,active,,t / yr,,851
+361,5388,2003,Iran,barite,"Lar Mine, Tehran",nan,Mine,,,35.672,51.424,,S,Iran Barite Falat Co.,nan,nan,active,46.0,t / yr,,851
+362,5389,2003,Iran,barite,Vardeh Mine,nan,Mine,,,35.236,50.262,,S,Iran Barite Falat Co.,nan,nan,active,,t / yr,,851
+363,5390,2003,Iran,cement,Abedeh,nan,Plant,,,30.667,49.767,,,Abadeh Cement Co.,nan,nan,active,,t / yr,,851
+364,5391,2003,Iran,cement,"Abyek, Tehran",nan,Plant,,,35.633,51.4,,,Abyek Cement Co. (Fars & Khouzestan Cement Co.),nan,nan,active,,t / yr,,851
+365,5392,2003,Iran,cement,Ardebil,nan,Plant,,,38.249,48.301,,,Ardebil Cement Co. (Ehdasse Sanat Corp.),nan,nan,active,840.0,t / yr,,851
+366,5393,2003,Iran,cement,Bandar Abbas,nan,Plant,,,27.186,56.277,,,Hormozgan Cement  Co. (Ehdasse Sanat Corp.),nan,nan,active,,t / yr,,851
+367,5394,2003,Iran,cement,Behbahan,nan,Plant,,,30.598,50.245,,,Behbahan Cement Co. (Fars & Khouzestan Cement Co.),nan,nan,active,880.0,t / yr,,851
+368,5395,2003,Iran,cement,Bojnourd (Bojnurd),nan,Plant,,,37.479,57.321,,,Bojnourd Cement Plant,nan,nan,active,700.0,t / yr,,851
+369,5396,2003,Iran,cement,Borazjan,nan,Plant,,,29.262,51.205,,,Bushehr Cement Co. (Ehdasse Sanat Corp.),nan,nan,active,,t / yr,,851
+370,5397,2003,Iran,cement,Doroud,nan,Plant,,,33.487,49.065,,,Doroud Cement Co. (Fars & Khouzestan Cement Co.),nan,nan,active,,t / yr,,851
+371,5398,2003,Iran,cement,East of Razan,nan,Plant,,,36.433,51.291,,,Hegmatan Cement Co. (Ehdasse Sanat Corp.),nan,nan,active,840.0,t / yr,,851
+372,5399,2003,Iran,cement,Estahban,nan,Plant,,,29.118,54.04,,,Estahban Cement Co.,nan,nan,active,,t / yr,,851
+373,5400,2003,Iran,cement,Fars,nan,Plant,,,35.182,59.388,,,Fars Cement Co. (Fars & Khouzestan Cement Co.),nan,nan,active,,t / yr,,851
+374,5401,2003,Iran,cement,Ilam,nan,Plant,,,33.211,46.712,,,Ilam Cement Co.,nan,nan,active,,t / yr,,851
+375,5402,2003,Iran,cement,Isfahan,nan,Plant,,,32.66,51.671,,,Isfahan Cement,nan,nan,active,710.0,t / yr,,851
+376,5403,2003,Iran,cement,Kerman,nan,Plant,,,30.294,57.084,,,Kerman Cement Co.,nan,nan,active,,t / yr,,851
+377,5404,2003,Iran,cement,Kermanshah,nan,Plant,,,34.314,47.065,,,Gharb Cement Co.,nan,nan,active,640.0,t / yr,,851
+378,5405,2003,Iran,cement,Khash,nan,Plant,,,28.22,61.213,,,Khash Cement Co. (Ehdasse Sanat Corp.),nan,nan,active,730.0,t / yr,,851
+379,5406,2003,Iran,cement,Loshan,nan,Plant,,,36.629,49.519,,,Simansaz Cement Co.,nan,nan,active,100.0,t / yr,,851
+380,5407,2003,Iran,cement,Mashhad,nan,Plant,,,30.833,50.2,,,Sharg Cement Co.,nan,nan,active,,t / yr,,851
+381,5408,2003,Iran,cement,Meshed,nan,Plant,,,34.204,49.699,,,Meshed Cement Co.,nan,nan,active,500.0,t / yr,,851
+382,5409,2003,Iran,cement,Near Shiraz,nan,Plant,,,29.808,53.85,,,Darab Cement Co. (Ehdasse Sanat Corp.),nan,nan,active,,t / yr,,851
+383,5410,2003,Iran,cement,Neka,nan,Plant,,,36.651,53.297,,,Mazandaran Cement Co.,nan,nan,active,,t / yr,,851
+384,5411,2003,Iran,cement,North of Bijar,nan,Plant,,,35.866,47.609,,,Kordestan Cement Co. (Ehdasse Sanat Corp.),nan,nan,active,800.0,t / yr,,851
+385,5412,2003,Iran,cement,Nyriz (Neyriz),nan,Plant,,,29.199,54.326,,,Nyriz White Cement Co.,nan,nan,active,,t / yr,,851
+386,5413,2003,Iran,cement,Qeshm Island,nan,Plant,,,26.964,56.274,,,Azadegan Cement Factory,nan,nan,active,100.0,t / yr,,851
+387,5414,2003,Iran,cement,Ramhormoz,nan,Plant,,,31.278,49.606,,,Khouzestan Cement Co. (Ehdasse Sanat Corp.),nan,nan,active,,t / yr,,851
+388,5415,2003,Iran,cement,Saveh,nan,Plant,,,35.094,50.373,,,Saveh White Cement Co.,nan,nan,active,180.0,t / yr,,851
+389,5416,2003,Iran,cement,Sepahan,nan,Plant,,,35.667,51.167,,,Sepahan Cement Co.,nan,nan,active,,t / yr,,851
+390,5417,2003,Iran,cement,Sharoud,nan,Plant,,,36.43,54.948,,,Shahroud Cement Co.,nan,nan,active,,t / yr,,851
+391,5418,2003,Iran,cement,Sufiyan,nan,Plant,,,38.276,45.98,,,Sufiyan Cement Co.,nan,nan,active,,t / yr,,851
+392,5419,2003,Iran,cement,Tabriz,nan,Plant,,,38.08,46.292,,,Tabriz Cement Co.,nan,nan,active,,t / yr,,851
+393,5420,2003,Iran,cement,Tehran,nan,Plant,,,35.672,51.424,,,Tehran Cement Co.,nan,nan,active,,t / yr,,851
+394,5421,2003,Iran,cement,Uroumiyeh,nan,Plant,"37° 33' 18""","45° 6' 10"" E",37.555,45.103,,,Ourmia Cement Co.,nan,nan,active,749.0,t / yr,,851
+395,5422,2003,Iran,cement,Uroumiyeh,nan,Plant,"37° 33' 18""","45° 6' 10"" E",37.555,45.103,,,Ourmia White Cement Co.,nan,nan,active,180.0,t / yr,,851
+396,5423,2003,Iran,chromite,"Faryab Mine, Minab, Hormuzgan",nan,Mine,,,27.822,57.28,,S,Faryab Mining Co.,nan,nan,active,180.0,t / yr,,851
+397,5424,2003,Iran,chromite,Gaft Khorasan,nan,Mine,,,36.624,57.028,,S,"Gaft Mine, Khorasan",nan,nan,active,2.0,t / yr,,851
+398,5425,2003,Iran,chromite,Khorasan,nan,Plant,,,35.7,47.267,,S,Bandan Mine,nan,nan,active,5.0,t / yr,,851
+399,5426,2003,Iran,chromite,"Mayami, Seman",nan,Mine,,,36.475,56.525,,S,"Mir Mahmud Mine, Mayami",nan,nan,active,6.0,t / yr,,851
+400,5427,2003,Iran,chromite,"Mayami, Semnan",nan,Mine,,,36.419,55.654,,S,"Forumad Mine, Mayami",nan,nan,active,6.0,t / yr,,851
+401,5428,2003,Iran,chromite,Mine at Esfandaqeh,nan,Mine,,,28.695,57.168,,S,nan,nan,nan,active,30.0,t / yr,,851
+402,5429,2003,Iran,chromite,Mir Abad,nan,Mine,,,37.533,45.0,,S,nan,nan,nan,active,3.0,t / yr,,851
+403,5430,2003,Iran,chromite,Mokhtan Abad,nan,Mine,,,26.44,59.134,,S,nan,nan,nan,active,4.0,t / yr,,851
+404,5431,2003,Iran,clay - bentonite,"Mehrijan Mine, Farrokhi, Esfahan",nan,Mine,,,33.845,54.962,,S,Iran Barite Falat Co.,nan,nan,active,39.0,t / yr,,851
+405,5432,2003,Iran,clay - bentonite,"Zarrin Mine, Kavir Dar Anjir, Yazd",nan,Mine,,,32.962,54.617,,S,Iran Barite Falat Co.,nan,nan,active,3.0,t / yr,,851
+406,5433,2003,Iran,"clay - industrial, fire","Mine and plant, Tehran",nan,Mine,,,35.672,51.424,,S,Iranian Refractory Procurement and Production,nan,nan,active,40.0,t / yr,,851
+407,5434,2003,Iran,clay - kaolin,"Mine (inactive) at Torbat Hydarieh, Khorasan",nan,Mine,,,35.274,59.22,,,Khorasan Kaolin Co.,nan,nan,active,20.0,t / yr,,851
+408,5435,2003,Iran,clay - kaolin,"Plant at Torbat Hydarieh, Khorasan",nan,Mine,,,35.274,59.22,,,Khorasan Kaolin Co.,nan,nan,active,20.0,t / yr,,851
+409,5436,2003,Iran,clay - kaolin,"Shurkesht Mine, Sabzevar, Khorasan",nan,Mine,,,36.214,57.68,,,Khorasan Kaolin Co.,nan,nan,active,50.0,t / yr,,851
+410,5437,2003,Iran,coal,"Paradeh 3 Mine, Tabass, Khorasan",nan,Mine,,,32.807,60.233,,,Iran Foulad Co.,nan,nan,active,14.0,t / yr,,851
+411,5438,2003,Iran,coal,"Razi coal mine, Semnan",nan,Mine,,,35.575,53.394,,,Eastern Alborz Coal Co. (Nisco),nan,nan,active,39.0,t / yr,,851
+412,5439,2003,Iran,coal,"Shahroud, Mazandaran",nan,Mine,,,36.43,54.948,,,Eastern Alborz Coal Co. (Nisco),nan,nan,active,,t / yr,,851
+413,5440,2003,Iran,coal,"Zirab, Mazandaran",nan,Mine,,,36.171,52.981,,,Central Alborz Coal Co. (Nisco),nan,nan,active,,t / yr,,851
+414,5441,2003,Iran,coal,"Refinery, 40 kilometers east of Esfahan",nan,Mine,,,32.66,51.671,,,Isfahan Coal Tar Refinery,nan,nan,active,100.0,t / yr,,851
+415,5442,2003,Iran,coal - coke,"Isfahan complex, Esfahan",nan,Plant,,,32.66,51.671,,,Isfahan Steel Co.  (Nisco),nan,nan,active,,t / yr,,851
+416,5443,2003,Iran,copper,"Electrowon plant, Sar Cheshmeh copper complex",nan,Plant,,,30.089,55.416,,,National Iranian Copper Industries Co. (Government),nan,nan,active,12.0,t / yr,,851
+417,5444,2003,Iran,copper,Kerman,nan,Plant,,,30.294,57.084,,S,Shahid Bahonar Copper Industries Co. (Social Security Investment Co.),nan,nan,active,35.0,t / yr,,851
+418,5445,2003,Iran,copper,Meiduk copper mine,nan,Mine,,,31.089,55.416,,U,National Iranian Copper Industries Co. (Government),nan,nan,active,,t / yr,,851
+419,5446,2003,Iran,copper,"Qal'eh Zari Mine, near Birjan",nan,Mine,,,33.133,55.416,,U,National Iranian Copper Industries Co. (Government),nan,nan,active,15.0,t / yr,,851
+420,5447,2003,Iran,copper,"Refinery, Sar Cheshmeh copper complex",nan,Plant,,,30.089,55.416,,U,National Iranian Copper Industries Co. (Government),nan,nan,active,120.0,t / yr,,851
+421,5448,2003,Iran,copper,"Rolling mill (billet), Sar Cheshmeh copper complex",nan,Plant,,,30.089,55.416,,U,National Iranian Copper Industries Co. (Government),nan,nan,active,3.0,t / yr,,851
+422,5449,2003,Iran,copper,"Rolling mill (slab), Sar Cheshmeh copper complex",nan,Mill,,,30.089,55.416,,S,National Iranian Copper Industries Co. (Government),nan,nan,active,7.0,t / yr,,851
+423,5450,2003,Iran,copper,"Sar Cheshmeh Mine, Rafsanjan",nan,Mine,,,30.089,55.416,,U,National Iranian Copper Industries Co. (Government),nan,nan,active,,t / yr,,851
+424,5451,2003,Iran,copper,"Smelter, Khaatounabad",nan,Smelter,,,30.089,55.416,,S,National Iranian Copper Industries Co. (Government),nan,nan,active,80.0,t / yr,,851
+425,5452,2003,Iran,copper,"Smelter, Sar Cheshmeh copper complex",nan,Smelter,,,30.089,55.416,,S,National Iranian Copper Industries Co. (Government),nan,nan,active,154.0,t / yr,,851
+426,5453,2003,Iran,copper,Songun copper mine,nan,Mine,,,30.108,55.123,,U,National Iranian Copper Industries Co. (Government),nan,nan,active,400.0,t / yr,,851
+427,5454,2003,Iran,copper,Wire plant at Rasht,nan,Plant,,,35.279,49.586,,S,Simco,nan,nan,active,,t / yr,,851
+428,5455,2003,Iran,copper,"Wire rod plant, Sar Cheshmeh copper complex",nan,Plant,,,30.089,55.416,,S,National Iranian Copper Industries Co. (Government),nan,nan,active,51.0,t / yr,,851
+429,5456,2003,Iran,copper,"Ghani Abad Factory, Tehran",nan,Plant,,,35.672,51.424,,S,Niru Metal Smelting Factory (Niru Battery Manufacturing Co.),nan,nan,active,,t / yr,,851
+430,5457,2003,Iran,diatomite,"Kamel Abad, Tabriz",nan,Mine,,,38.08,46.292,,,nan,nan,nan,active,2.0,t / yr,,851
+431,5458,2003,Iran,iron,"Ahwaz, direct reduction iron plant (several processes)",nan,Plant,,,31.329,48.691,,,Khuzestan Steel co. (Nisco),nan,nan,active,600.0,t / yr,,851
+432,5459,2003,Iran,iron,"Esfahan, direct reduction iron plant (Ghaem process)",nan,Plant,,,33.53,51.904,,,Isfahan Steel Co.  (Nisco),nan,nan,active,600.0,t / yr,,851
+433,5460,2003,Iran,iron,"Esfahan, direct reduction iron plant (Midrex process)",nan,Plant,,,33.53,51.904,,,Mobarekeh Steel Co.,nan,nan,active,,t / yr,,851
+434,5461,2003,Iran,iron ore,"Chadormalou Mine, at Abdughi, Tchogart, Yazd",nan,Mine,,,32.3,55.5,,,Chadormalou Mining and Industrial Co. (Nisco),nan,nan,active,,t / yr,,851
+435,5462,2003,Iran,iron ore,"Choghart Mine, Bafgh, Yazd",nan,Mine,,,31.583,55.4,,,Iran Central Iron Ore Co. (Nisco),nan,nan,active,,t / yr,,851
+436,5463,2003,Iran,iron ore,"Deh-Zaman Mine, Khorassan",nan,Mine,,,36.828,58.778,,,Iran Barite Falat Co.,nan,nan,active,4.0,t / yr,,851
+437,5464,2003,Iran,iron ore,"Gol-e-Ghar Mine, Kerman",nan,Mine,,,30.294,57.084,,,Gol-e-Gohar Iron Ore Co. (Nisco),nan,nan,active,,t / yr,,851
+438,5465,2003,Iran,iron ore,nan,nan,Mine,,,48.7,36.392,,,Ajin Iron Mining Co. (Arjin?),nan,nan,active,,t / yr,,851
+439,5466,2003,Iran,iron ore,"Sangan Mine, Golestan",nan,Mine,,,34.461,60.411,,,nan,nan,nan,active,100.0,t / yr,,851
+440,5467,2003,Iran,ferroalloys - chromium,"Faryab, Kerman",nan,Plant,,,30.294,57.084,,,Faryab Mining Co.,nan,nan,active,2.0,t / yr,,851
+441,5468,2003,Iran,ferroalloys - manganese,Kerman,nan,Plant,,,30.294,57.084,,,Faryab Mining Co.,nan,nan,active,2.0,t / yr,,851
+443,5470,2003,Iran,ferroalloys - molybdenum,Khatounabad smelter near Sar Cheshmeh,nan,Smelter,,,28.33,57.859,,,National Iranian Copper Industries Co. (Government),nan,nan,active,2.0,t / yr,,851
+446,5473,2003,Iran,ferroalloys - silicon,"Asna, Semnan",nan,Plant,,,36.475,56.525,,,Iran Ferrosilice Co.,nan,nan,active,25.0,t / yr,,851
+449,5476,2003,Iran,fertilizer - ammonia,Bandar Iman Khomeini,nan,Plant,,,30.45,49.083,,S,Razi Petrochemical Co. (National Petrochemical Co.),nan,nan,active,660.0,t / yr,,851
+450,5477,2003,Iran,fertilizer - ammonia,Khorasan,nan,Plant,,,37.127,56.803,,S,Khorasan Petrochemical Co. (National Petrochemical Co.),nan,nan,active,330.0,t / yr,,851
+451,5478,2003,Iran,fertilizer - ammonia,Shiraz,nan,Plant,,,29.615,52.538,,S,Shiraz Petrochemical Co. (National Petrochemical Co.),nan,nan,active,432.0,t / yr,,851
+452,5479,2003,Iran,fertilizer - diamonium phosphate,Bandar Iman Khomeini,nan,Plant,,,30.45,49.083,,S,Razi Petrochemical Co. (National Petrochemical Co.),nan,nan,active,240.0,t / yr,,851
+453,5480,2003,Iran,fertilizer - urea,Bandar Iman Khomeini,nan,Plant,,,30.45,49.083,,,Razi Petrochemical Co. (National Petrochemical Co.),nan,nan,active,660.0,t / yr,,851
+454,5481,2003,Iran,fertilizer - urea,Khorasan,nan,Plant,,,37.127,56.803,,,Khorasan Petrochemical Co. (National Petrochemical Co.),nan,nan,active,495.0,t / yr,,851
+455,5482,2003,Iran,fertilizer - urea,Shiraz,nan,Plant,,,29.615,52.538,,,Shiraz Petrochemical Co. (National Petrochemical Co.),nan,nan,active,543.0,t / yr,,851
+456,5483,2003,Iran,fluorspar,"Delijan Region Mines, Delijan, Markazi",nan,Mine,,,35.317,51.65,,S,nan,nan,nan,active,6.0,t / yr,,851
+457,5484,2003,Iran,fluorspar,Derasele deposit,nan,Mine,,,35.971,52.817,,S,nan,nan,nan,active,,t / yr,,851
+458,5485,2003,Iran,fluorspar,"Emaft Mine, Zirab, Mazandaran",nan,Mine,,,36.171,52.981,,S,nan,nan,nan,active,3.0,t / yr,,851
+459,5486,2003,Iran,fluorspar,"Helali Gonabad Mine,  Gonabad-Bajestan road",nan,Mine,,,36.561,59.291,,S,nan,nan,nan,active,2.0,t / yr,,851
+460,5487,2003,Iran,fluorspar,"Jouimand Mine, Gonabad, Khorasan",nan,Mine,,,36.561,59.291,,S,nan,nan,nan,active,,t / yr,,851
+461,5488,2003,Iran,fluorspar,"Kamar Mehdi Mine, Tabas",nan,Mine,,,33.588,56.922,,S,nan,nan,nan,active,20.0,t / yr,,851
+462,5489,2003,Iran,fluorspar,"Kamarposht Mine, Zirab",nan,Mine,,,36.171,52.981,,S,nan,nan,nan,active,5.0,t / yr,,851
+463,5490,2003,Iran,fluorspar,"Mahalat Mine, Mahalat, Markazi",nan,Mine,,,33.917,50.45,,S,nan,nan,nan,active,2.0,t / yr,,851
+464,5491,2003,Iran,fluorspar,"Pachi Miyana Mine, Zirab",nan,Mine,,,36.171,52.981,,S,nan,nan,nan,active,2.0,t / yr,,851
+465,5492,2003,Iran,gemstone - turquoise,Neyshabour Mine,nan,Mine,,,33.567,55.07,,,nan,nan,nan,active,6.0,kg / yr,,851
+466,5493,2003,Iran,gypsum,"Aftar Mine, Semnan (Sharghe Hafdareh)",nan,Mine,,,36.475,56.525,,S,Private owner,nan,nan,active,130.0,t / yr,,851
+467,5494,2003,Iran,gypsum,"Momenabad Mine, Semnan",nan,Mine,,,36.475,56.525,,S,Private owner,nan,nan,active,118.0,t / yr,,851
+468,5495,2003,Iran,gypsum,"Saran 1 Mine, Tehran",nan,Mine,,,35.667,51.417,,S,Private owner,nan,nan,active,134.0,t / yr,,851
+469,5496,2003,Iran,gypsum,"Saran 2 Mine, Tehran",nan,Mine,,,35.667,51.417,,S,Private owner,nan,nan,active,181.0,t / yr,,851
+470,5497,2003,Iran,gypsum,"Semnan - Mazandran Mine, Semnan",nan,Mine,,,36.475,56.525,,S,Private owner,nan,nan,active,476.0,t / yr,,851
+471,5498,2003,Iran,gypsum,"Zivan Mine, Semnan",nan,Mine,,,36.475,56.525,,S,Private owner,nan,nan,active,171.0,t / yr,,851
+472,5499,2003,Iran,methanol,Bandar Iman,nan,Plant,,,26.697,55.087,,S,Fanavaran Petrochemical Co. (National Petrochemical Co.),nan,nan,active,,t / yr,,851
+473,5500,2003,Iran,methanol,"Kharg Chemical Complex, Kharg Island",nan,Plant,,,29.217,50.317,,S,Kharg petrochemical Co. (National Petrochemical Co.),nan,nan,active,660.0,t / yr,,851
+474,5501,2003,Iran,methanol,Shiraz,nan,Plant,,,29.615,52.538,,S,Shiraz Petrochemical Co. (National Petrochemical Co.),nan,nan,active,100.0,t / yr,,851
+475,5502,2003,Iran,manganese,"Shahrestouak Mine, Qom",nan,Mine,,,34.645,50.881,,,Qom Manganese Mines Co.,nan,nan,active,3.0,t / yr,,851
+476,5503,2003,Iran,manganese,"Venarch Manganese Mine, Qom",nan,Mine,,,34.645,50.881,,U,Iran Manganese Mines Co.,nan,nan,active,70.0,t / yr,,851
+477,5504,2003,Iran,molybdenum,Sarcheshmeh Copper Complex,nan,Plant,,,30.089,55.416,,,National Iranian Copper Industries Co.,nan,nan,active,,t / yr,,851
+478,5505,2003,Iran,lead,"Angouran Mine, Zanjan",nan,Mine,,,36.664,48.486,,,Iran Zinc Mine Development Co.,nan,nan,active,450.0,t / yr,,851
+479,5506,2003,Iran,lead,"Emarat Mine, Markazy",nan,Mine,,,33.858,49.6,,,National Iranian Lead & Zinc Co.,nan,nan,active,,t / yr,,851
+480,5507,2003,Iran,lead,"Irankouh Mine, Esfahan",nan,Mine,,,32.66,51.671,,,Bama Mining Co.,nan,nan,active,290.0,t / yr,,851
+481,5508,2003,Iran,lead,"Kushk Mine, Yazd (Bafgh)",nan,Mine,,,31.605,55.403,,,National Iranian Lead & Zinc Co.,nan,nan,active,175.0,t / yr,,851
+482,5509,2003,Iran,lead,"Markazy, Emarat Mine",nan,Mine,,,33.86,49.569,,,National Iranian Lead and Zinc Co.,nan,nan,active,,t / yr,,851
+483,5510,2003,Iran,lead,"Nakhlak Mine, Anarak",nan,Mine,,,33.563,53.845,,,National Iranian Lead & Zinc Co.,nan,nan,active,25.0,t / yr,,851
+484,5511,2003,Iran,lead,"Naklak, refinery",nan,Refinery,,,36.664,48.486,,,National Iranian Lead and Zinc Co.,nan,nan,active,,t / yr,,851
+485,5512,2003,Iran,lead,"Ravanj Mine, Markazy",nan,Mine,,,34.142,50.767,,,National Iranian Lead & Zinc Co.,nan,nan,active,,t / yr,,851
+486,5513,2003,Iran,lead,Tehran,nan,Refinery,,,35.672,51.424,,,National Iranian Lead and Zinc Co.,nan,nan,active,40.0,t / yr,,851
+487,5514,2003,Iran,lead,"Zanjan, refinery",nan,Refinery,,,36.664,48.486,,,National Iranian Lead and Zinc Co.,nan,nan,active,40.0,t / yr,,851
+488,5515,2003,Iran,lead,"Zanjan, smelter",nan,Smelter,,,36.664,48.486,,,National Iranian Lead and Zinc Co.,nan,nan,active,40.0,t / yr,,851
+489,5516,2003,Iran,perlite,"Miyaneh Mine, Tabriz",nan,Mine,,,38.08,46.292,,S,Private owner,nan,nan,active,,t / yr,,851
+490,5517,2003,Iran,perlite,"Shahriyar Mine, Tabriz",nan,Mine,,,38.08,46.292,,,Private owner,nan,nan,active,,t / yr,,851
+491,5518,2003,Iran,phosphate rock,"Esfordi Mine, Yazd",nan,Mine,,,31.097,54.368,,,Phosphate Mines Development Co.,nan,nan,active,141.0,t / yr,,851
+492,5519,2003,Iran,pozzolana,Keshavarz Mine (Shahin Dezh),nan,Mine,,,36.669,46.567,,S,Private owner,nan,nan,active,39.0,t / yr,,851
+493,5520,2003,Iran,sulfur,Abadan,nan,Mine,,,30.352,48.296,,,National Oil Refining and Distribution Co.,nan,nan,active,,t / yr,,851
+494,5521,2003,Iran,sulfur,Arak,nan,Mine,,,34.086,49.684,,,National Oil Refining and Distribution Co.,nan,nan,active,,t / yr,,851
+495,5522,2003,Iran,sulfur,Bandar Abbas,nan,Mine,,,27.186,56.277,,,National Oil Refining and Distribution Co.,nan,nan,active,,t / yr,,851
+496,5523,2003,Iran,sulfur,Isfahan,nan,Mine,,,32.66,51.671,,,National Oil Refining and Distribution Co.,nan,nan,active,,t / yr,,851
+497,5524,2003,Iran,sulfur,"Kharg Chemical Complex, Kharg Island",nan,Plant,,,29.217,50.317,,,National Petrochemical Co.,nan,nan,active,216.0,t / yr,,851
+498,5525,2003,Iran,sulfur,Tehran,nan,Mine,,,35.672,51.424,,,National Oil Refining and Distribution Co.,nan,nan,active,,t / yr,,851
+499,5526,2003,Iran,salt - rock,"Khohdasht Kohan Mine, Semnan",nan,Mine,,,36.475,56.525,,U,Private owner,nan,nan,active,95.0,t / yr,,851
+500,5527,2003,Iran,salt - rock,Kudasht,nan,Mine,,,35.1,52.8,,U,Private owner,nan,nan,active,1.0,t / yr,,851
+501,5528,2003,Iran,salt - rock,"Melhe Mine, Semnan (Melli)",nan,Mine,,,35.375,53.717,,U,Private owner,nan,nan,active,116.0,t / yr,,851
+502,5529,2003,Iran,salt - rock,"Qaem Mine, Gamsar, Semnan",nan,Mine,,,35.13,52.6,,U,Private owner,nan,nan,active,37.0,t / yr,,851
+503,5530,2003,Iran,salt - rock,"Salar Mine, Semnan",nan,Mine,,,31.417,56.511,,U,Private owner,nan,nan,active,54.0,t / yr,,851
+504,5531,2003,Iran,salt - solar,"Bandar Iman Khomeini operation, Khouzestan",nan,Plant,,,26.603,54.511,,S,Bandar Imam Petrochemical Co. (National Petrochemical Co.),nan,nan,active,400.0,t / yr,,851
+505,5532,2003,Iran,salt - solar,"Gavehkoni Mine, Esfahan (Gav Khuni)",nan,Plant,,,32.35,52.817,,S,Private owner,nan,nan,active,42.0,t / yr,,851
+506,5533,2003,Iran,salt - solar,"Maharlo Shiraz facility, Fars",nan,Plant,,,29.533,52.583,,S,Shiraz Petrochemical Co. (National Petrochemical Co.),nan,nan,active,352.0,t / yr,,851
+507,5534,2003,Iran,steel,Ahwaz,nan,Plant,,,31.329,48.691,,,Iran national Steel Industrial Group (Nisco),nan,nan,active,,t / yr,,851
+508,5535,2003,Iran,steel,Ahwaz,nan,Plant,,,31.329,48.691,,,Khuzestan Steel Co. (Nisco),nan,nan,active,,t / yr,,851
+509,5536,2003,Iran,steel,Esfahan,nan,Plant,,,33.53,51.904,,,Isfahan Steel Co. (Nisco),nan,nan,active,,t / yr,,851
+510,5537,2003,Iran,steel,Esfahan,nan,Plant,,,33.53,51.904,,,Mobarekeh Steel Co. (Nisco),nan,nan,active,,t / yr,,851
+511,5538,2003,Iran,steel,Neyshabur,nan,Plant,,,36.21,58.799,,,Khorasan Steel Co. (Nisco),nan,nan,active,600.0,t / yr,,851
+512,5539,2003,Iran,steel,Yazd,nan,Plant,,,31.097,54.368,,,"Iran Alloy Steel Co. (Nisco, 63%)",nan,nan,active,250.0,t / yr,,851
+513,5540,2003,Iran,steel - rolling,Ahwaz,nan,Mill,,,31.329,48.691,,,Ahwaz Rolling and Profile Mills Co.,nan,nan,active,600.0,t / yr,,851
+514,5541,2003,Iran,steel - rolling,Ahwaz,nan,Mill,,,36.329,48.691,,,Ahwaz Rolling and Profile Mills Co.,nan,nan,active,80.0,t / yr,,851
+515,5542,2003,Iran,steel - rolling,Ahwaz,nan,Mill,,,31.329,48.691,,,Khuzestan Steel Co (Nisco),nan,nan,active,540.0,t / yr,,851
+516,5543,2003,Iran,steel - rolling,East Azarbaijan,nan,Mill,,,37.533,46.65,,,Mianeh Steel Plant,nan,nan,active,550.0,t / yr,,851
+517,5544,2003,Iran,steel - rolling,Esfahan,nan,Mill,,,33.53,51.904,,,Esfahan Steel Co. (Nisco),nan,nan,active,550.0,t / yr,,851
+518,5545,2003,Iran,steel - rolling,Esfahan,nan,Mill,,,33.53,51.904,,,Iran Spiral Co.,nan,nan,active,120.0,t / yr,,851
+519,5546,2003,Iran,steel - rolling,Esfahan,nan,Mill,,,33.53,51.904,,,Isfahan Steel Co. (Nisco),nan,nan,active,120.0,t / yr,,851
+520,5547,2003,Iran,steel - rolling,Esfahan,nan,Mill,,,33.622,58.604,,,Mobarekeh Steel Co. (Nisco),nan,nan,active,,t / yr,,851
+521,5548,2003,Iran,steel - rolling,Esfahan,nan,Mill,,,33.53,51.904,,,Mobarekeh Steel Co. (Nisco),nan,nan,active,875.0,t / yr,,851
+522,5549,2003,Iran,steel - rolling,Esfahan,nan,Mill,,,33.622,53.204,,,Sepahan Industrial Group Co.,nan,nan,active,120.0,t / yr,,851
+523,5550,2003,Iran,steel - rolling,Esfahan - light sections,nan,Mill,,,33.53,51.904,,,Isfahan Steel Co. (Nisco),nan,nan,active,700.0,t / yr,,851
+524,5551,2003,Iran,steel - rolling,Esfahan - medium sections,nan,Mill,,,33.53,51.904,,,Isfahan Steel Co. (Nisco),nan,nan,active,700.0,t / yr,,851
+525,5552,2003,Iran,steel - rolling,Kaavian..,nan,Mill,,,31.667,47.967,,,Kaavian Steel Co. (Nisco),nan,nan,active,800.0,t / yr,,851
+526,5553,2003,Iran,steel - rolling,Kerman,nan,Mill,,,30.294,57.084,,,Kerman Steel Co.,nan,nan,active,150.0,t / yr,,851
+527,5554,2003,Iran,steel - rolling,Khorasan,nan,Mill,,,37.127,56.803,,,Khorasan Steel Co. (Nisco),nan,nan,active,550.0,t / yr,,851
+528,5555,2003,Iran,steel - rolling,Saveh,nan,Mill,,,35.094,50.373,,,Kalup Co.,nan,nan,active,60.0,t / yr,,851
+529,5556,2003,Iran,steel - rolling,Saveh,nan,Mill,,,35.094,50.373,,,Saveh Rolling and Profile Mills Co.,nan,nan,active,805.0,t / yr,,851
+530,5557,2003,Iran,steel - rolling,Yazd,nan,Mill,,,31.097,54.368,,,"Iran Alloy Steel Co. (Nisco, 63%)",nan,nan,active,210.0,t / yr,,851
+531,5558,2003,Iran,steel - rolling,Yazd,nan,Mill,,,31.097,54.368,,,"Iran Alloy Steel Co. (Nisco, 63%)",nan,nan,active,145.0,t / yr,,851
+532,5559,2003,Iran,stone - granite,"Gasaban Mine, Hamedan",nan,Mine,,,34.868,48.552,,,Sepahan Industrial Group Co.,nan,nan,active,800.0,t / yr,,851
+533,5560,2003,Iran,stone - granite,Stone processing factories at Ghorveh and Tehran,nan,Plant,,,36.053,49.387,,,Saeid Granite Co.,nan,nan,active,,t / yr,,851
+534,5561,2003,Iran,stone - granite,"Tavandasht Mine, Lorestan (Tavandasht-e)",nan,Mine,,,33.731,49.066,,,Private owner,nan,nan,active,,t / yr,,851
+535,5562,2003,Iran,stone - limestone,"Asmari Mine, Khouzestan (Masjed Soleyman)",nan,Mine,,,31.936,49.304,,,Private owner,nan,nan,active,,t / yr,,851
+536,5563,2003,Iran,stone - limestone,"Bibisharhbani Mine, Tehran",nan,Mine,,,35.672,51.424,,,Private owner,nan,nan,active,,t / yr,,851
+537,5564,2003,Iran,stone - limestone,"Chelleh Kaneh Mine, Tabriz",nan,Mine,,,38.08,46.292,,,Private owner,nan,nan,active,,t / yr,,851
+538,5565,2003,Iran,stone - limestone,"Chenareh Mine, Khoramshahr City",nan,Mine,,,30.439,48.179,,,Private owner,nan,nan,active,300.0,t / yr,,851
+539,5566,2003,Iran,stone - limestone,Doroud Mine,nan,Mine,,,33.486,49.064,,,Private owner,nan,nan,active,830.0,t / yr,,851
+540,5567,2003,Iran,stone - limestone,"Shiraz Mine, Fars",nan,Mine,,,29.615,52.538,,,Private owner,nan,nan,active,720.0,t / yr,,851
+541,5568,2003,Iran,stone - marble,"Aligodare Mine, Lorestan (Aligoodarz?)",nan,Mine,,,33.384,49.696,,,Private owner,nan,nan,active,270.0,t / yr,,851
+542,5569,2003,Iran,stone - marble,"Asgaran Mine , Lorestan (Aligudarz)",nan,Mine,,,33.384,49.696,,,Private owner,nan,nan,active,320.0,t / yr,,851
+543,5570,2003,Iran,stone - marble,"Chahsavar South Nyriz Mine, Fars (Niriz, Neyriz)",nan,Mine,,,29.199,54.326,,,Private owner,nan,nan,active,600.0,t / yr,,851
+544,5571,2003,Iran,stone - marble,Darbehchah Minesm Lorestan (Darb-e Chah),nan,Mine,,,33.562,48.096,,,Private owner,nan,nan,active,119.0,t / yr,,851
+545,5572,2003,Iran,stone - marble,"Doroud Mine, Lorestan",nan,Mine,,,33.486,49.064,,,Private owner,nan,nan,active,9.0,t / yr,,851
+546,5573,2003,Iran,stone - marble,"Falard Mine, Shahrekord",nan,Mine,,,32.326,50.864,,,Private owner,nan,nan,active,21.0,t / yr,,851
+547,5574,2003,Iran,stone - marble,"Gohareh Mine, Kermanshah",nan,Mine,,,34.314,47.065,,,Private owner,nan,nan,active,8.0,t / yr,,851
+548,5575,2003,Iran,stone - marble,"Lashtar Mine, Esfahan",nan,Mine,,,32.41,51.78,,,Private owner,nan,nan,active,445.0,t / yr,,851
+549,5576,2003,Iran,stone - marble,"Sirjan Mine, Kerman",nan,Mine,,,29.75,55.425,,,Private owner,nan,nan,active,20.0,t / yr,,851
+550,5577,2003,Iran,stone - Onyx,"Borg Mine, Yazd",nan,Mine,,,31.605,55.403,,,Private owner,nan,nan,active,5.0,t / yr,,851
+551,5578,2003,Iran,stone - travertine,"Alvan Varton Mine, Esfahan",nan,Mine,,,32.66,51.671,,,Private owner,nan,nan,active,10.0,t / yr,,851
+552,5579,2003,Iran,stone - travertine,"Colvanag 1 Mine, Tabriz",nan,Mine,,,38.08,46.292,,,Private owner,nan,nan,active,10.0,t / yr,,851
+553,5580,2003,Iran,stone - travertine,"Colvanag 2 Mine, Tabriz",nan,Mine,,,38.08,46.292,,,Private owner,nan,nan,active,8.0,t / yr,,851
+554,5581,2003,Iran,stone - travertine,"Hajiabad Mine, Arak",nan,Mine,,,34.086,49.684,,,Private owner,nan,nan,active,118.0,t / yr,,851
+555,5582,2003,Iran,stone - travertine,"Nadinlou Mine (Azarshahr), Tabriz",nan,Mine,,,35.632,61.243,,,Private owner,nan,nan,active,10.0,t / yr,,851
+556,5583,2003,Iran,stone - travertine,"Sardarabad Mine, Tabriz",nan,Mine,,,35.632,61.243,,,Private owner,nan,nan,active,10.0,t / yr,,851
+557,5584,2003,Iran,stone - travertine,"Targ Mine (Natanz), Esfahan",nan,Mine,,,33.53,51.904,,,Private owner,nan,nan,active,22.0,t / yr,,851
+558,5585,2003,Iran,stone - travertine,"Vargoran Targ Mine (Natanz), Esfahan)",nan,Mine,,,33.53,51.904,,,Private owner,nan,nan,active,19.0,t / yr,,851
+559,5586,2003,Iran,talc,"Deh Haji Mine, Lorestan",nan,Mine,,,33.575,49.333,,S,Private owner,nan,nan,active,10.0,t / yr,,851
+560,5587,2003,Iran,zeolite,"Abeh Garm, Semnan (Abe - Garm)",nan,Mine,,,35.55,53.683,,,Private owner,nan,nan,active,6.0,t / yr,,851
+561,5588,2003,Iran,zeolite,"Aftar Mine, Semnan (Sharghe Hafdareh)",nan,Mine,,,35.37,53.8,,,Private owner,nan,nan,active,10.0,t / yr,,851
+562,5589,2003,Iran,zeolite,"Amir Abad Mine, Tabriz",nan,Mine,,,38.08,46.292,,,Private owner,nan,nan,active,8.0,t / yr,,851
+563,5590,2003,Iran,zeolite,"Mjyaneh Mine, Tabriz (Miyaneh)",nan,Mine,,,37.4,47.717,,,Private owner,nan,nan,active,10.0,t / yr,,851
+564,5591,2003,Iran,zinc - concentrate,Alam Candy Mine,nan,Mine,,,32.517,59.333,,S,Calcimine Co.,nan,nan,active,,t / yr,,851
+565,5592,2003,Iran,zinc - concentrate,"Dandi Calcination plant , Zanjan",nan,Plant,,,36.664,48.486,,S,Bafgh Mining Co,nan,nan,active,25.0,t / yr,,851
+566,5593,2003,Iran,zinc - concentrate,"Dandi Calcination plant , Zanjan",nan,Plant,,,36.664,48.486,,S,Iran Zinc Mine Development Co.,nan,nan,active,50.0,t / yr,,851
+567,5594,2003,Iran,zinc - concentrate,Khoramshar plant (Khorramshahr),nan,Plant,,,30.439,48.179,,S,Calcimine Co.,nan,nan,active,4.0,t / yr,,851
+568,5595,2003,Iran,zinc  - metal,"Bafgh, Yazd Province",nan,Smelter,,,31.897,54.368,,,Bafgh Zinc Smelting Co.,nan,nan,active,28.0,t / yr,,851
+569,5596,2003,Iran,zinc  - metal,Esfahan Province,nan,Mine,,,32.66,51.671,,,Isfahan Zinc Smelting Co.,nan,nan,active,5.0,t / yr,,851
+570,5597,2003,Iran,zinc  - metal,Hormozgan Province,nan,Smelter,,,27.186,56.277,,,Bandar Abbas Zinc Smelting Co.,nan,nan,active,12.0,t / yr,,851
+571,5598,2003,Iran,zinc  - metal,"Qeshm Island, Hormozgan Province",nan,Mine,,,26.964,56.274,,,Qeshm Zinc Melting Co. (Calcimine Co.),nan,nan,active,5.0,t / yr,,851
+572,5599,2003,Iran,zinc  - metal,Semnan Province,nan,Mine,,,35.517,54.933,,,Negin Rooy,nan,nan,active,2.0,t / yr,,851
+573,5600,2003,Iran,zinc  - metal,"Smelter at Angouran Mine, Zanjan Province",nan,Smelter,,,36.664,48.486,,,Angoran Zinc Melting Co. (Calcimine Co.),nan,nan,active,12.0,t / yr,,851
+574,5601,2003,Iran,zinc  - metal,Tehran Province,nan,Mine,,,35.672,51.424,,,Kavosh Kar Madan,nan,nan,active,3.0,t / yr,,851
+575,5602,2003,Iran,zinc  - metal,Zanjan Province,nan,Smelter,,,36.664,48.486,,,Faravari Mavad Madani Iran,nan,nan,active,10.0,t / yr,,851
+576,5603,2003,Iran,zinc  - metal,Zanjan Province,nan,Mine,,,36.664,48.486,,,Iran Rooy Gostar,nan,nan,active,3.0,t / yr,,851
+577,5604,2003,Iran,zinc - ore,Ahangaran Mine,nan,Mine,,,35.147,49.209,,S,National Iranian Lead & Zinc Co.,nan,nan,active,,t / yr,,851
+578,5605,2003,Iran,zinc - ore,"Angouran Mine, Zanjan",nan,Mine,,,36.664,48.486,,S,Iran Zinc Mine Development Co.,nan,nan,active,450.0,t / yr,,851
+579,5606,2003,Iran,zinc - ore,"Emarat Mine, Markazy Province",nan,Mine,,,33.858,49.6,,S,Shahin Mining and Industrial Co.,nan,nan,active,10.0,t / yr,,851
+580,5607,2003,Iran,zinc - ore,"Kushk Mine, Yazd Province",nan,Mine,,,31.605,55.403,,S,National Iranian Lead & Zinc Co.,nan,nan,active,175.0,t / yr,,851
+581,5608,2003,Iraq,aluminum,Aluminum remelt facility at Al Nassiriya,nan,Smelter,,,31.054,46.259,,S,Ur State Establishment (Government),nan,nan,active,,t / yr,,851
+582,5609,2003,Iraq,cement,Al Qaim,nan,Plant,,,34.367,41.117,,,Iraqi Cement State Enterprise (Government),nan,nan,active,,t / yr,,851
+583,5610,2003,Iraq,cement,Baghdad,nan,Plant,,,33.339,44.394,,,Iraqi Cement State Enterprise (Government),nan,nan,active,,t / yr,,851
+584,5611,2003,Iraq,cement,Fallujah II (white cement),nan,Plant,,,33.356,43.783,,,Iraqi Cement State Enterprise (Government),nan,nan,active,,t / yr,,851
+585,5612,2003,Iraq,cement,Hammam al'Alil I and II,nan,Plant,,,36.166,43.256,,,State Establishment for Building Materials - Mosul (Government),nan,nan,active,,t / yr,,851
+586,5613,2003,Iraq,cement,Hindiyah Barrage,nan,Plant,,,32.543,44.223,,,Iraqi Cement State Enterprise (Government),nan,nan,active,,t / yr,,851
+587,5614,2003,Iraq,cement,Kerbala,nan,Plant,,,32.598,44.016,,,Iraqi Cement State Enterprise (Government),nan,nan,active,,t / yr,,851
+588,5615,2003,Iraq,cement,Kubaisa,nan,Plant,,,33.592,42.617,,,Iraqi Cement State Enterprise (Government),nan,nan,active,,t / yr,,851
+589,5616,2003,Iraq,cement,Kufa I and II plants,nan,Plant,,,32.032,44.393,,,Iraqi Cement State Enterprise (Government),nan,nan,active,,t / yr,,851
+590,5617,2003,Iraq,cement,"Samawah I and II plants, Samawah",nan,Plant,,,31.3,45.267,,,Southern Cement Enterprise (Government),nan,nan,active,,t / yr,,851
+591,5618,2003,Iraq,cement,"Sarchinar plant, Sulaymaniyah",nan,Plant,,,35.591,43.783,,,Sarchinar State Cement Enterprise (Government),nan,nan,active,,t / yr,,851
+592,5619,2003,Iraq,cement,Sinjar,nan,Plant,,,36.11,41.32,,,State Establishment for Building Materials - Mosul (Government),nan,nan,active,,t / yr,,851
+593,5620,2003,Iraq,iron - direct reduced,Midrex direct reduced iron plant at Khor al Zubair,nan,Plant,,,30.183,47.9,,S,State Enterprise for Iron and Steel Industries (Government),nan,nan,active,,t / yr,,851
+594,5621,2003,Iraq,fertilizer - ammonia,Ammonia plant at Basra.,nan,Plant,,,30.494,47.819,,S,General Fertlizers Industries Co. (Government),nan,nan,active,300.0,t / yr,,851
+595,5622,2003,Iraq,fertilizer,Nitrogenous fertilizer plant at Khor al Zubair,nan,Plant,,,30.183,47.9,,,General Fertlizers Industries Co. (Government),nan,nan,active,,t / yr,,851
+596,5623,2003,Iraq,fertilizer,Phosphatic fertilizer plant at Al-Qaim,nan,Plant,,,34.367,41.117,,S,General Fertlizers Industries Co. (Government),nan,nan,active,130.0,t / yr,,851
+597,5624,2003,Iraq,fertilizer - urea,Urea plant at Basra.,nan,Plant,,,30.494,47.819,,S,General Fertlizers Industries Co. (Government),nan,nan,active,400.0,t / yr,,851
+598,5625,2003,Iraq,lead,Secondary lead smelter at Fallujah,nan,Smelter,,,33.356,43.783,,,nan,nan,nan,active,,t / yr,,851
+599,5626,2003,Iraq,phosphate rock,Akashat.,nan,Mine,,,33.25,40.583,,,State Enterprise for Phosphate (Government),nan,nan,active,,t / yr,,851
+600,5627,2003,Iraq,sulfur,Mishraq,nan,Mine,,,35.967,43.3,,,Mishraq Sulphur State Enterprise (Government),nan,nan,active,,t / yr,,851
+601,5628,2003,Iraq,steel,Khor al Zubair,nan,Plant,,,30.183,47.9,,,State Enterprise for Iron and Steel Industries (Government),nan,nan,active,,t / yr,,851
+602,5629,2003,Israel,bromine,Sdom,nan,Plant,,,31.072,35.4,,,"Dead Sea Bromine Group (DSBG) (Israel Chemicals Ltd. (ICL), 100%)",nan,nan,active,250.0,t / yr,,851
+603,5630,2003,Israel,cement,Haifa,nan,Plant,,,32.816,34.989,,,Nesher Israel Cement Enterprises Ltd.,nan,nan,active,450.0,t / yr,,851
+604,5631,2003,Israel,cement,Har Tuv,nan,Plant,,,31.767,35.0,,,Nesher Israel Cement Enterprises Ltd.,nan,nan,active,700.0,t / yr,,851
+605,5632,2003,Israel,cement,Ramla,nan,Plant,,,31.925,34.867,,,Nesher Israel Cement Enterprises Ltd.,nan,nan,active,,t / yr,,851
+606,5633,2003,Israel,magnesia,Mishor Rotem,nan,Plant,,,32.816,34.989,,S,"Dead Sea Periclase Ltd. (DSP) (ICL, 100%)",nan,nan,active,95.0,t / yr,,851
+607,5634,2003,Israel,magnesia,Mishor Rotem,nan,Plant,,,32.333,35.517,,S,Tateho Dead Sea Fused Magnesia Co.,nan,nan,active,13.0,t / yr,,851
+608,5635,2003,Israel,magnesium,Sdom,nan,Plant,,,31.072,35.4,,S,"Dead Sea Magnesium Ltd. (ICL, 65%; Volkswagen AG of Germany, 35%)",nan,nan,active,35.0,t / yr,,851
+609,5636,2003,Israel,lead - refined secondary,Ashdod,nan,Plant,,,31.817,34.65,,,Harkunas Lead Works,nan,nan,active,25.0,t / yr,,851
+610,5637,2003,Israel,petroleum products,Ashdod,nan,Plant,,,31.817,34.65,,,Oil Refineries Ltd.,nan,nan,active,40.0,thousand 42 gallon barrels / yr,,851
+611,5638,2003,Israel,petroleum products,Haifa,nan,Plant,,,32.816,34.989,,,Oil Refineries Ltd.,nan,nan,active,33.0,thousand 42 gallon barrels / yr,,851
+612,5639,2003,Israel,phosphate,Haifa,nan,Plant,,,32.816,34.989,,S,Haifa Chemicals Ltd.,nan,nan,active,,t / yr,,851
+613,5640,2003,Israel,phosphate,Rotem,nan,Plant,,,32.333,35.517,,S,"Rotem Amfert Negev Ltd. (ICL, 100%)",nan,nan,active,,t / yr,,851
+614,5641,2003,Israel,phosphate rock,Arad,nan,Plant,,,31.25,35.217,,S,"Rotem Amfert Negev Ltd. (ICL, 100%)",nan,nan,active,610.0,t / yr,,851
+615,5642,2003,Israel,phosphate rock,Oron,nan,Plant,,,30.94,35.035,,S,"Rotem Amfert Negev Ltd. (ICL, 100%)",nan,nan,active,610.0,t / yr,,851
+616,5643,2003,Israel,phosphate rock,Zin,nan,Plant,,,30.817,34.95,,S,"Rotem Amfert Negev Ltd. (ICL, 100%)",nan,nan,active,610.0,t / yr,,851
+617,5644,2003,Israel,phosphoric acid,Haifa,nan,Plant,,,32.816,34.989,,S,Haifa Chemicals Ltd.,nan,nan,active,,t / yr,,851
+618,5645,2003,Israel,phosphoric acid,Rotem,nan,Plant,,,32.333,35.517,,S,Rotem Amfert Negev Ltd.,nan,nan,active,640.0,t / yr,,851
+619,5646,2003,Israel,potash,Sdom,nan,Plant,,,31.072,35.4,,S,"Dead Sea Works (DSW) (ICL, 100%)",nan,nan,active,,t / yr,,851
+620,5647,2003,Israel,potassium nitrate,Haifa,nan,Plant,,,32.816,34.989,,S,Haifa Chemicals,nan,nan,active,300.0,t / yr,,851
+621,5648,2003,Israel,potassium nitrate,Mishor Rotem,nan,Plant,,,31.05,35.017,,S,Haifa Chemicals,nan,nan,active,200.0,t / yr,,851
+622,5649,2003,Israel,salt,Atlit,nan,Plant,,,32.683,34.933,,S,Israel Salt Industries Ltd. (subsidiary of Danker Group),nan,nan,active,,t / yr,,851
+623,5650,2003,Israel,salt,Eilat,nan,Plant,,,29.561,34.952,,S,Israel Salt Industries Ltd. (subsidiary of Danker Group),nan,nan,active,,t / yr,,851
+624,5651,2003,Israel,salt,Kalia,nan,Plant,,,31.85,35.45,,S,Israel Salt Industries Ltd. (subsidiary of Danker Group),nan,nan,active,,t / yr,,851
+625,5652,2003,Israel,salt,Sdom,nan,Plant,,,31.072,35.4,,S,Dead Sea Works,nan,nan,active,700.0,t / yr,,851
+626,5653,2003,Israel,steel,Akko,nan,Plant,,,32.925,35.073,,,Hod Metals,nan,nan,active,200.0,t / yr,,851
+627,5654,2003,Israel,steel,Ashdod,nan,Plant,,,31.817,34.65,,,Yehuda Steel Ltd.,nan,nan,active,150.0,t / yr,,851
+628,5655,2003,Israel,steel - rolling,Akko,nan,Mill,,,32.924,35.073,,,Yehuda Steel Ltd.,nan,nan,active,220.0,t / yr,,851
+629,5656,2003,Israel,steel - rolling,Ashdod,nan,Mill,,,31.817,34.65,,,Yehuda Steel Ltd.,nan,nan,active,120.0,t / yr,,851
+630,5657,2003,Israel,steel - rolling,Gedera,nan,Mill,,,31.817,34.767,,,Yehuda Steel Ltd.,nan,nan,active,230.0,t / yr,,851
+631,5658,2003,Israel,steel - rolling,Kiryat Gat,nan,Mill,,,31.6,34.767,,,Hod Metals,nan,nan,active,100.0,t / yr,,851
+632,5659,2003,Israel,sulfuric acid,Rotem,nan,Plant,,,32.333,35.517,,,Rotem Amfert Negev,nan,nan,active,,t / yr,,851
+633,5660,2003,Israel,zinc,Maalot,nan,Mine,,,33.015,35.282,,,Numinor Chemical Industries Ltd.,nan,nan,active,,t / yr,,851
+634,5661,2003,Jordan,cement,Amman,nan,Plant,,,31.95,35.933,,,Arab Company for White Cement Industry,nan,nan,active,130.0,t / yr,,851
+635,5662,2003,Jordan,cement,Fuhia,nan,Plant,,,32.011,35.767,,,Jordan Cement Factories Co. Ltd.,nan,nan,active,,t / yr,,851
+636,5663,2003,Jordan,cement,Rashadia,nan,Plant,,,30.7,35.633,,,Jordan Cement Factories Co. Ltd.,nan,nan,active,,t / yr,,851
+637,5664,2003,Jordan,fertilizer,Aqaba,nan,Plant,,,29.527,35.078,,S,Jordan Fertilizer Industry Company (JFIC),nan,nan,active,750.0,t / yr,,851
+638,5665,2003,Jordan,fertilizer,Shiyada,nan,Plant,,,29.933,35.933,,S,Indo-Jordan Chemicals Company (IJC),nan,nan,active,300.0,t / yr,,851
+639,5666,2003,Jordan,phosphate rock,al-Abiad,nan,Mine,,,30.817,35.983,,,Jordan Phosphate Mines Co. (JPMC),nan,nan,active,,t / yr,,851
+640,5667,2003,Jordan,phosphate rock,al-Hasa,nan,Mine,,,30.82,35.98,,,Jordan Phosphate Mines Co. (JPMC),nan,nan,active,,t / yr,,851
+641,5668,2003,Jordan,phosphate rock,Shidiya,nan,Mine,,,29.933,35.933,,,Jordan Phosphate Mines Co. (JPMC),nan,nan,active,,t / yr,,851
+642,5669,2003,Jordan,phosphoric acid,Aqaba,nan,Plant,,,29.527,35.078,,,Nippon Jordan Fertilizer Company,nan,nan,active,430.0,t / yr,,851
+643,5670,2003,Jordan,phosphoric acid,Shiyada,nan,Plant,,,29.933,35.933,,,IJC,nan,nan,active,225.0,t / yr,,851
+644,5671,2003,Jordan,potash,al-Safi (As Safi),nan,Mine,,,31.036,35.467,,S,Arab Potash Company (APC),nan,nan,active,2000.0,t / yr,,851
+645,5672,2003,Jordan,salt,al-Safi,nan,Mine,,,31.036,35.467,,S,Jordan Safi Salt Company (subsidiary of APC),nan,nan,active,,t / yr,,851
+646,5673,2003,Jordan,salt,Azraq,nan,Mine,,,31.833,36.817,,S,Al-Azraq,nan,nan,active,,t / yr,,851
+647,5674,2003,Jordan,steel - rolling,Amman,nan,Mill,,,31.95,35.933,,,Jordan Steel plc,nan,nan,active,250.0,t / yr,,851
+648,5675,2003,Jordan,steel - rolling,Amman,nan,Mill,,,31.95,35.933,,,Petra Steel Industries Company,nan,nan,active,100.0,t / yr,,851
+649,5676,2003,Jordan,steel - rolling,Awajan,nan,Mill,,,32.05,36.083,,,National Steel Industry Co.,nan,nan,active,100.0,t / yr,,851
+650,5677,2003,Jordan,sulfuric acid,Aqaba,nan,Plant,,,29.527,35.078,,S,JFIC,nan,nan,active,,t / yr,,851
+651,5678,2003,Jordan,sulfuric acid,Shiyada,nan,Plant,,,29.933,35.933,,S,IJC,nan,nan,active,660.0,t / yr,,851
+681,5708,2003,Kuwait,cement,Kilns and mills at Shuaiba,nan,Plant,,,29.041,48.138,,,"Kuwait Cement Co. (Kuwait Investment Authority, 32.3%)",nan,nan,active,,t / yr,,851
+682,5709,2003,Kuwait,coal - coke,Mina Abdulla refinery,nan,Plant,,,29.113,48.291,,,Kuwait National Petroleum Co. K.S.C. (Kuwait Petroleum Co.).,nan,nan,active,890.0,t / yr,,851
+683,5710,2003,Kuwait,fertilizer - ammonia,"Plant B, Shuaiba",nan,Plant,,,29.041,48.138,,S,Petrochemical Industries Co. (Kuwait Petroleum Co.).,nan,nan,active,657.0,t / yr,,851
+684,5711,2003,Kuwait,fertilizer - urea,"Plants A and B, Shuaiba",nan,Plant,,,29.041,48.138,,S,Petrochemical Industries Co.,nan,nan,active,400.0,t / yr,,851
+685,5712,2003,Kuwait,sulfur,Mina Abudulla,nan,Plant,,,28.933,48.167,,,Kuwait National Petroleum Co. K.S.C.,nan,nan,active,440.0,t / yr,,851
+686,5713,2003,Kuwait,sulfur,Mina al-Ahmadi,nan,Plant,,,29.077,48.084,,,Kuwait National Petroleum Co. K.S.C.,nan,nan,active,440.0,t / yr,,851
+687,5714,2003,Kuwait,sulfur,Shuaiba,nan,Plant,,,29.041,48.138,,,Kuwait National Petroleum Co. K.S.C.,nan,nan,active,440.0,t / yr,,851
+688,5715,2003,Kuwait,salt,Shuaiba,nan,Plant,,,29.041,48.138,,,Salt and Chlorine Factory (Al Ahlia Investment Co.).,nan,nan,active,,t / yr,,851
+689,5716,2003,Kuwait,salt,Shuwaikh,nan,Plant,,,29.344,47.946,,,Salt and Chlorine Factory (Al Ahlia Investment Co.).,nan,nan,active,,t / yr,,851
+690,5717,2003,Lebanon,cement,Chekka,nan,Plant,,,34.333,35.733,,,Ciementerie Nationale SAL,nan,nan,active,,t / yr,,851
+691,5718,2003,Lebanon,cement,Chekka,nan,Plant,,,34.333,35.733,,,Societe des Ciments Libanais,nan,nan,active,,t / yr,,851
+692,5719,2003,Lebanon,cement,Sibline,nan,Plant,,,33.617,35.433,,,Ciment de Sibline,nan,nan,active,,t / yr,,851
+693,5720,2003,Lebanon,phosphate,Selaata,nan,Plant,,,34.283,35.667,,,Lebanon Chemicals Company SAL,nan,nan,active,,t / yr,,851
+694,5721,2003,Lebanon,phosphoric acid,Selaata,nan,Plant,,,34.283,35.667,,,Lebanon Chemicals Company SAL,nan,nan,active,,t / yr,,851
+695,5722,2003,Lebanon,steel,Amchit,nan,Plant,,,34.15,35.65,,,Consolidated Steel Lebanon SAL,nan,nan,active,300.0,t / yr,,851
+698,5725,2003,Libya,ammonia,Marsa el Brega,nan,Plant,"30° 26' 00"" ","019° 35' 00""",30.433,19.583,,,Sirte Oil Co. for Production and Processing of Oil and Gas,nan,nan,active,,t / yr,,851
+700,5727,2003,Libya,cement,"El Hawari, Benghazi Province",nan,"Mill, Kiln","31° 00' 00"" ","022° 30' 00""",31.0,22.5,,,Libyan Cement Co.,nan,nan,active,,t / yr,,851
+701,5728,2003,Libya,cement,"Fataih, Derna",nan,"Mill, Kiln","32° 45' 54"" ","022° 38' 21""",32.765,22.639,,,Libyan Cement Co.,nan,nan,active,,t / yr,,851
+702,5729,2003,Libya,cement,Libda (Homs 2),nan,"Mill, Kiln","32° 39' 00"" ","014° 16' 00""",32.65,14.267,,,Arab Cement Co.,nan,nan,active,,t / yr,,851
+703,5730,2003,Libya,cement,"Souk el Khamis, Tripoli",nan,"Mill, Kiln","31° 00' 00"" ","015° 00' 00""",31.0,15.0,,,Arab Cement Co.,nan,nan,active,,t / yr,,851
+704,5731,2003,Libya,cement clinker,Zliten,nan,Mill,"32° 28' 00"" ","014° 34' 00""",32.467,14.567,,,Arab Cement Co.,nan,nan,active,,t / yr,,851
+705,5732,2003,Libya,iron - hot briquetted,Misurata,nan,Plant,"32° 22' 42"" ","015° 05' 26""",32.378,15.091,,,Libyan Iron and Steel Co.,nan,nan,active,,t / yr,,851
+706,5733,2003,Libya,natural gas - liquified,Marsa el Brega,nan,Plant,"30° 25' 00"" ","019° 34' 43""",30.417,19.579,,,Sirte Oil Co. for Production and Processing of Oil and Gas,nan,nan,active,,t / yr,,851
+707,5734,2003,Libya,methanol,Marsa el Brega,nan,Plant,"30° 25' 00"" ","019° 34' 43""",30.417,19.579,,,Sirte Oil Co. for Production and Processing of Oil and Gas,nan,nan,active,,t / yr,,851
+708,5735,2003,Libya,petroleum - refined,Az Zawiya,nan,Plant,"30° 45' 00"" ","013° 46' 00""",30.517,13.767,,,Az Zawiya Oil Refining Co.,nan,nan,active,,42 gallon barrels / day,,851
+709,5736,2003,Libya,petroleum - refined,Marsa el Brega,nan,Plant,"30° 25' 00"" ","019° 34' 43""",30.417,19.579,,,Libyan National Oil Co.,nan,nan,active,,42 gallon barrels / day,,851
+710,5737,2003,Libya,petroleum - refined,Ras Lanuf,nan,Plant,"30° 31' 00"" ","018° 34' 00""",30.517,18.567,,,Ras Lanuf Oil and gas Processing Co.,nan,nan,active,,42 gallon barrels / day,,851
+711,5738,2003,Libya,petroleum - refined,Sarir,nan,Plant,"27° 30' 00"" ","022° 30' 00""",27.5,22.5,,,Arabian Gulf Oil Co.,nan,nan,active,,42 gallon barrels / day,,851
+712,5739,2003,Libya,petroleum - refined,Tobruk,nan,Plant,"32° 05' 01"" ","023° 58' 35""",32.084,23.976,,,Arabian Gulf Oil Co.,nan,nan,active,,42 gallon barrels / day,,851
+713,5740,2003,Libya,sponge iron,Misurata,nan,Plant,"32° 22' 42"" ","015° 05' 26""",32.378,15.091,,,Libyan Iron and Steel Co.,nan,nan,active,,t / yr,,851
+714,5741,2003,Libya,"steel - bar, rod",Misurata,nan,Plant,"32° 22' 42"" ","015° 05' 26""",32.378,15.091,,,Libyan Iron and Steel Co.,nan,nan,active,,t / yr,,851
+715,5742,2003,Libya,steel - cold rolling,Misurata,nan,Plant,"32° 22' 42"" ","015° 05' 26""",32.378,15.091,,,Libyan Iron and Steel Co.,nan,nan,active,,t / yr,,851
+716,5743,2003,Libya,steel - crude,Misurata,nan,Plant,"32° 22' 42"" ","015° 05' 26""",32.378,15.091,,,Libyan Iron and Steel Co.,nan,nan,active,,t / yr,,851
+717,5744,2003,Libya,steel - hot strip,Misurata,nan,Plant,"32° 22' 42"" ","015° 05' 26""",32.378,15.091,,,Libyan Iron and Steel Co.,nan,nan,active,,t / yr,,851
+718,5745,2003,Libya,fertilizer - urea,Marsa el Brega,nan,Plant,"30° 26' 00"" ","019° 35' 00""",30.433,19.583,,,Sirte Oil Co. for Production and Processing of Oil and Gas,nan,nan,active,,t / yr,,851
+758,5785,2003,Morocco,arsenic,"Guemassa, Marrakech",nan,Mine,"31° 24' 36"" ","008° 24' 00""",31.41,-8.4,,,Compagnie de Tifnout Tiranimine (CTT),nan,nan,active,,t / yr,,851
+759,5786,2003,Morocco,gold,"Iourim, Tiznit",nan,Mine,"29° 42' 36"" ","009° 42' 36""",29.71,-9.71,,,"Akka Gold Mining Company (Managem S.A., 70%)",nan,nan,active,3.0,t / yr,,851
+760,5787,2003,Morocco,barite,Argana,nan,Mine,,,30.78,-8.12,,,Ste. Nord Africaine des Recherches et d'Exploitation,nan,nan,active,,t / yr,,851
+761,5788,2003,Morocco,barite,Argana,nan,Mine,"30° 46' 48"" ","009° 06' 36""",30.78,-9.11,,,Société Nord Africaine de Recherches et d'Exploitation des Mines d'Argana (SNAREMA),nan,nan,active,,t / yr,,851
+762,5789,2003,Morocco,barite,"Chemaia, Safi",nan,Mine,"32° 04' 48"" ","008° 36' 36""",32.08,-8.61,,,Morocco Minerals Co.,nan,nan,active,,t / yr,,851
+763,5790,2003,Morocco,barite,"Errachidia, Figuig, and Ouarzazate",nan,Mine,"30° 55' 12"" ","006° 54' 36""",30.92,-6.91,,,Central d'Achat et de Développement de la Région Minière du Tafilalet et de Figuig (CADETAF) (artisanal miners),nan,nan,active,,t / yr,,851
+764,5791,2003,Morocco,barite,"Jbel Abdellah, Errachidia",nan,Mine,"31° 39' 36"" ","007° 13' 48""",31.66,-7.23,,,Société Nouvelle Union des Metaux Maroc (SNUMM),nan,nan,active,,t / yr,,851
+765,5792,2003,Morocco,barite,Safi,nan,Mine,,,32.3,-8.23,,,Cie. Marocaine des Barytes,nan,nan,active,,t / yr,,851
+766,5793,2003,Morocco,barite,"Seksaoua, Marrakech",nan,Mine,"31° 37' 48"" ","008° 00' 00""",31.63,-8.0,,,Do. Société Nord Africaine de Recherches et d'Exploitation des Mines d'Argana (SNAREMA),nan,nan,active,,t / yr,,851
+767,5794,2003,Morocco,barite,"Tazzarine, Ouarzazate",nan,Mine,"30° 48' 00"" ","005° 33' 36""",30.8,-5.56,,,Ouiselsat Mines S.A.,nan,nan,active,,t / yr,,851
+768,5795,2003,Morocco,barite,Tichka,nan,Mine,"31° 21' 00"" ","007° 37' 48""",31.35,-7.63,,,Société Commerciale et Miniere du Sahara (SOCOMIS),nan,nan,active,,t / yr,,851
+769,5796,2003,Morocco,barite,"Tichka, Marrakech",nan,Plant,"31° 37' 48"" ","008° 00' 00""",31.63,-8.0,,,Société Industrie Miniere Marocaine (IMM),nan,nan,active,,t / yr,,851
+770,5797,2003,Morocco,barite,"Tinitine, Marrakech",nan,Mine,"31° 10' 48"" ","007° 55' 48""",31.18,-7.93,,,Société de Recherches et d'Exploitation Minieres Nadia,nan,nan,active,,t / yr,,851
+771,5798,2003,Morocco,barite,"Tinjdad, Errachidia",nan,Mine,"31° 30' 00"" ","005° 01' 12""",31.5,-5.02,,,Société Zenaga,nan,nan,active,,t / yr,,851
+772,5799,2003,Morocco,barite,"Zelmou, Figuig",nan,Mine,"32° 06' 00"" ","002° 51' 00""",32.1,-2.85,,,"Compagnie Marocaine des Barytes (COMABAR; Norbar Minerals AS, 55%)",nan,nan,active,,t / yr,,851
+775,5802,2003,Morocco,bentonite,Azzouzet-Tidiennit,nan,Mine,"35° 08' 24"" ","003° 06' 36""",35.14,-3.11,,,"Compagnie Marocaine des Barytes (COMABAR) (Norbar Minerals AS, 55%)",nan,nan,active,,t / yr,,851
+777,5804,2003,Morocco,celestite,"Jbel Kifane, Taounate",nan,Mine,"35° 18' 00"" ","005° 51' 00""",35.3,-5.85,,,Société Karia Mines,nan,nan,active,,t / yr,,851
+778,5805,2003,Morocco,cement - portland,Agadir,nan,Mill,"30° 34' 48"" ","009° 09' 36""",30.58,-9.16,,,Société les Ciments du Maroc S.A. (CIMAR),nan,nan,active,,t / yr,,851
+779,5806,2003,Morocco,cement - portland,Safi,nan,Mill,"29° 36' 36"" ","009° 10' 48""",29.61,-9.18,,,Société les Ciments du Maroc S.A. (CIMAR),nan,nan,active,,t / yr,,851
+780,5807,2003,Morocco,cement - portland,"Cadem, at Meknes",nan,Mill,"33° 54' 00"" ","005° 33' 00""",33.9,-5.55,,,Asment de Temara,nan,nan,active,,t / yr,,851
+781,5808,2003,Morocco,cement - portland,"Douar Laaouameur, south of Casablanca",nan,Mill,"33° 35' 24"" ","007° 36' 36""",33.59,-7.61,,,"Société Lafarge Ciments S.A. (Lafarge Maroc, 69.2%)",nan,nan,active,,t / yr,,851
+783,5810,2003,Morocco,cement - portland,"Fès, at Ras El Ma",nan,Mill,"35° 07' 48"" ","002° 34' 48""",35.13,-2.58,,,Société Holcim (Maroc) S.A,nan,nan,active,,t / yr,,851
+784,5811,2003,Morocco,cement - portland,Kiln and mill at Oujda,nan,Mill,"34° 40' 48"" ","001° 54' 36""",34.68,-1.91,,,"Société Holcim (Maroc) S.A. (Holcim Ltd. of Switzerland, 51%)",nan,nan,active,,t / yr,,851
+786,5813,2003,Morocco,cement - portland,Marrakech,nan,Mill,"31° 37' 48"" ","008° 00' 00""",31.63,-8.0,,,Société les Ciments du Maroc S.A. (CIMAR),nan,nan,active,,t / yr,,851
+787,5814,2003,Morocco,cement - portland,Nador,nan,Mill,"33° 36' 36"" ","003° 43' 48""",33.61,-3.73,,,Société Holcim (Maroc) S.A,nan,nan,active,,t / yr,,851
+788,5815,2003,Morocco,cement - portland,"Tamuda, at Tétouan",nan,Mill,"35° 33' 00"" ","005° 24' 36""",35.55,-5.41,,,Asment de Temara,nan,nan,active,,t / yr,,851
+789,5816,2003,Morocco,cement - portland,Tangier,nan,Mill,"35° 46' 48"" ","005° 48' 36""",35.78,-5.81,,,Asment de Temara,nan,nan,active,,t / yr,,851
+790,5817,2003,Morocco,cement - portland,Temara,nan,Mill,"33° 55' 48"" ","006° 54' 36""",33.93,-6.91,,,"Asment de Temara (Cimentos de Portugal, 57.4%)",nan,nan,active,,t / yr,,851
+792,5819,2003,Morocco,clay,"Haddou Ammar, Nador",nan,Mine,"33° 36' 36"" ","003° 43' 48""",33.61,-3.73,,,Antonio Reyes Mine,nan,nan,active,,t / yr,,851
+793,5820,2003,Morocco,clay,Tamdafelt,nan,nan,"32° 51' 36"" ","004° 12' 00""",32.86,-4.2,,,Société du Ghassoul et de ses Derives SEFRIOUI SA,nan,nan,active,,t / yr,,851
+794,5821,2003,Morocco,cobalt,Bou Azzer,nan,Mine,,,30.57,-5.86,,,Cie de Tifnout Tiranimine,nan,nan,active,,t / yr,,851
+795,5822,2003,Morocco,cobalt,"Douar Hajar Mine, Guemassa, Marrakech",nan,Plant,"31° 22' 48"" ","008° 04' 48""",31.38,-8.08,,,"Compagnie Minière de Guemassa (CMG)  (Managem S.A., 74%)",nan,nan,active,,t / yr,,851
+796,5823,2003,Morocco,cobalt,"Guemassa, Marrakech",nan,nan,"31° 24' 36"" ","008° 24' 00""",31.41,-8.4,,,"Charbonnages du Maroc (BRPM, 98.89%)",nan,nan,active,,t / yr,,851
+797,5824,2003,Morocco,cobalt,Tiouit,nan,nan,"31° 09' 36"" ","005° 47' 24""",31.16,-5.79,,,"Société de Développement du Cuivre de l'Anti-Atlas (SODECAT) (BRPM, 100%)",nan,nan,active,,t / yr,,851
+798,5825,2003,Morocco,coal - anthracite,Jérada,nan,nan,"34° 18' 36"" ","002° 09' 36""",34.31,-2.16,,,"Charbonnages du Maroc (BRPM, 98.89%)",nan,nan,active,,t / yr,,851
+799,5826,2003,Morocco,copper,Bleida,nan,Mine,,,30.38,-5.44,,,Ste. Minieire de Bou Gaffer,nan,nan,active,,t / yr,,851
+800,5827,2003,Morocco,fluorine,Meknes,nan,Mine,,,33.9,-4.55,,,Ste. Anonyme d'Enterprises Minieres,nan,nan,active,,t / yr,,851
+801,5828,2003,Morocco,fluorspar,"Hammam, Khémisset",nan,Mine,,,35.16,-3.18,,,"Société Anonyme d'Entreprises Minieres (SAMINE) El Hamman (Managem S.A.,58%)",nan,nan,active,,t / yr,,851
+802,5829,2003,Morocco,manganese,"Imini, Ouarzazate",nan,Mine,"30° 55' 12"" ","006° 54' 36""",30.92,-6.91,,,Ste. Anonyme Cherifienne d'Etude Minieres,nan,nan,active,,t / yr,,851
+803,5830,2003,Morocco,phosphate,Benguerir,nan,Mine,,,32.77,-5.8,,,Office Chérifien des Phosphates (OCP),nan,nan,active,,t / yr,,851
+804,5831,2003,Morocco,phosphate,Khouribga,nan,Mine,,,32.87,-5.63,,,Office Chérifien des Phosphates (OCP),nan,nan,active,,t / yr,,851
+805,5832,2003,Morocco,phosphate,Sidi Daoui,nan,Mine,,,32.68,-5.72,,,Office Chérifien des Phosphates (OCP),nan,nan,active,,t / yr,,851
+806,5833,2003,Morocco,phosphate,Youssoufia,nan,Mine,,,32.18,-7.5,,,Office Chérifien des Phosphates (OCP),nan,nan,active,,t / yr,,851
+807,5834,2003,Morocco,lead,Oued El Heimer,nan,nan,"34° 27' 00"" ","001° 54' 00""",34.45,-1.9,,,"Société des Fonderies de Plomb de Zellidja (SFPZ) (Zellidja S.A., 50.4%)",nan,nan,active,,t / yr,,851
+808,5835,2003,Morocco,lead,"Touissit, Jérada",nan,Mine,"34° 28' 12"" ","001° 45' 36""",34.47,-1.76,,,Cie. Miniere de Touissit,nan,nan,active,,t / yr,,851
+809,5836,2003,Morocco,lead,"Hajar, Guemassa",nan,Mine,,,31.23,-6.92,,,Cie. Miniere de Guemassa,nan,nan,active,,t / yr,,851
+810,5837,2003,Morocco,perlite,"Berrechid, near Casablanca",nan,nan,"33° 15' 36"" ","007° 34' 48""",33.26,-7.58,,,Perlite Inc. (Roche Investments),nan,nan,active,,t / yr,,851
+811,5838,2003,Morocco,perlite,Tidiennit,nan,nan,"35° 08' 24"" ","003° 06' 36""",35.14,-3.11,,,"Perlite Roche (Roche Investments, 70%; BRPM, 20%)",nan,nan,active,,t / yr,,851
+812,5839,2003,Morocco,petroleum gas - liquified,"Bouhoua, Nador",nan,Plant,"32° 27' 36"" ","006° 46' 48""",32.46,-8.78,,,"Société d'Exploitation des Mines du Rif  (SEFERIF) (BRPM, 100%)",nan,nan,active,12.0,t / yr,,851
+813,5840,2003,Morocco,petroleum refinery products,Mohammedia,nan,Refinery,"33° 41' 24"" ","007° 23' 24""",33.69,-7.39,,,"Société Anonyme Marocaine de l'Industrie du Raffinage (SAMIR) (Group Corral Petroleum, 64.7%)",nan,nan,active,,thousand 42 gallon barrels / yr,,851
+814,5841,2003,Morocco,petroleum refinery products,Sidi Kacem,nan,nan,"34° 12' 36"" ","005° 42' 00""",34.21,-5.7,,,SAMIR,nan,nan,active,,thousand 42 gallon barrels / yr,,851
+815,5842,2003,Morocco,"phosphoric acid - purified, P2O5 content",Jorf Lasfar,nan,nan,"33° 09' 36"" ","008° 37' 48""",33.16,-8.63,,,"Euro-Maroc Phosphore Co. (OCP, 33%; Société Chimique Prayon-Rupel of Belgium, 33%; Chemische Frabrik Budenheim KG of Germany, 33%)",nan,nan,active,,t / yr,,851
+816,5843,2003,Morocco,"phosphoric acid, P2O5 content",Safi,nan,nan,"32° 18' 00"" ","009° 13' 48""",32.3,-9.23,,,Office Chérifien des Phosphates  (OCP),nan,nan,active,,t / yr,,851
+817,5844,2003,Morocco,"phosphoric acid, P2O5 content",Jorf Lasfar,nan,nan,"33° 09' 36"" ","008° 37' 48""",33.16,-8.63,,,"Indio Maroc Phosphore S.A. (OCP, 50%; K.K. Birla Group of India, 50%)",nan,nan,active,,t / yr,,851
+818,5845,2003,Morocco,"phosphoric acid, P2O5 content",Jorf Lasfar,nan,nan,"33° 09' 36"" ","008° 37' 48""",33.16,-8.63,,,Office Chérifien des Phosphates  (OCP),nan,nan,active,,t / yr,,851
+819,5846,2003,Morocco,"phosphoric acid, P2O5 content",Safi,nan,nan,"32° 18' 00"" ","009° 13' 48""",32.3,-9.23,,,Office Chérifien des Phosphates  (OCP),nan,nan,active,,t / yr,,851
+821,5848,2003,Morocco,salt - marine,"Lac Zima, Safi",nan,nan,"32° 04' 48"" ","008° 39' 36""",32.08,-8.66,,,"Société Chérifienne des Sels (SCS) [BRPM, 50%; Société Nouvelle des Salins du Sine Saloum (SNSSS), 50%]",nan,nan,active,,t / yr,,851
+822,5849,2003,Morocco,salt - rock,"Aîn Tekki, Mohammedia",nan,nan,"33° 41' 24"" ","007° 23' 24""",33.69,-7.39,,,"Société de Sel de Mohammedia (SSM) (BRPM, 100%)",nan,nan,active,,t / yr,,851
+823,5850,2003,Morocco,steel,Jorf Lasfar,nan,nan,"33° 09' 36"" ","008° 37' 48""",33.16,-8.63,,,"Société Nationale de Sidérurgie (Sonasid) (general public, 31.14%)",nan,nan,active,,t / yr,,851
+824,5851,2003,Morocco,steel,Nador,nan,nan,"35° 10' 12"" ","002° 55' 48""",35.17,-2.93,,,Société Nationale de Sidérurgie (Sonasid),nan,nan,active,,t / yr,,851
+825,5852,2003,Morocco,steel - rebar,Casablanca,nan,nan,"33° 35' 24"" ","007° 36' 36""",33.59,-7.61,,,Société Nationale de Sidérurgie (Sonasid),nan,nan,active,,t / yr,,851
+826,5853,2003,Morocco,steel - rolling,Casablanca,nan,nan,"33° 35' 24"" ","007° 36' 36""",33.59,-7.61,,,Maghreb Steel S.A.,nan,nan,active,,t / yr,,851
+827,5854,2003,Morocco,talc,"Taliouine, Ouarzazate",nan,nan,"30° 41' 24"" ","006° 25' 12""",30.69,-6.42,,,Société Zenaga,nan,nan,active,,t / yr,,851
+828,5855,2003,Morocco,talc,"Tinjdad, Errachidia",nan,nan,"31° 30' 00"" ","005° 01' 12""",31.5,-5.02,,,Société Zenaga,nan,nan,active,,t / yr,,851
+829,5856,2003,Morocco,zinc,Doyar,nan,Mine,,,31.23,-6.92,,,Cie. Miniere de Guemassa,nan,nan,active,,t / yr,,851
+830,5857,2003,Morocco,zinc - concentrate,"Aguerd N'Tazoult, Azilal",nan,Mine,"31° 57' 36"" ","006° 33' 36""",31.96,-6.56,,,Société des Mines de Tennous (SOMITE),nan,nan,active,,t / yr,,851
+831,5858,2003,Morocco,zinc - concentrate,Drâa Sfar,nan,nan,"35° 06' 36"" ","003° 16' 48""",35.11,-3.28,,,Compagnie Minière de Guemassa (CMG),nan,nan,active,,t / yr,,851
+832,5859,2003,Morocco,zinc - concentrate,"Lalla Mimouna, Taza",nan,nan,"34° 51' 00"" ","006° 03' 36""",34.85,-6.06,,,Société Mineral et Substances,nan,nan,active,,t / yr,,851
+833,5860,2003,Mozambique,aluminum,Maputo,nan,nan,"14° 50' 51"" ","040° 43' 13""",-14.848,40.72,,,"Mozal SARL (BHP Billiton plc, 47.11%)",nan,nan,active,,t / yr,,851
+834,5861,2003,Mozambique,bauxite,Monte Snuta,nan,nan,"18° 50' 00"" ","032° 42' 00""",-18.833,32.8,,,E.C. Meikles (Pty) Ltd. of Zimbabwe,nan,nan,active,,t / yr,,851
+835,5862,2003,Mozambique,bentonite,Boane,nan,Mine,"26° 02' 30"" ","032° 19' 31""",-26.042,32.325,,,Cia Desenvolvimento Mineira,nan,nan,active,,t / yr,,851
+836,5863,2003,Mozambique,cement,Matola,nan,nan,"25° 57' 44"" ","032° 27' 32""",-25.962,32.459,,,"Cimentos de Mocambique, SARL",nan,nan,active,,t / yr,,851
+837,5864,2003,Mozambique,cement,Nacala,nan,nan,"15° 41' 53"" ","038° 17' 01""",-15.698,38.284,,,"Cimentos de Mocambique, SARL",nan,nan,active,,t / yr,,851
+838,5865,2003,Mozambique,cement,Dondo,nan,nan,"19° 36' 34"" ","034° 44' 35""",-19.609,34.743,,,"Cimentos de Mocambique, SARL",nan,nan,active,,t / yr,,851
+839,5866,2003,Mozambique,coal - bituminous,Moatize,nan,nan,"16° 06' 55"" ","033° 43' 46""",-16.115,33.729,,,Carbomoc,nan,nan,active,,t / yr,,851
+840,5867,2003,Mozambique,graphite,Ancuabe,nan,Mine,"12° 58' 36"" ","039° 51' 18""",-12.977,39.855,,,Grafites de Ancuabe Lda. (Kenmare Resources),nan,nan,closed,,t / yr,,851
+841,5868,2003,Mozambique,marble - block,Montepuez,nan,nan,"12° 33' 02"" ","040° 16' 39""",-12.551,40.278,,,Marmonte E.E.,nan,nan,active,,t / yr,,851
+842,5869,2003,Mozambique,natural gas,Temane,nan,Plant,"21° 43' 11"" ","034° 59' 30""",-21.72,34.992,,,Sasol Ltd. (50%),nan,nan,active,,million cubic meters / yr,,851
+843,5870,2003,Mozambique,tantalite,Marropino,nan,nan,"16° 30' 33"" ","037° 54' 08""",-16.509,37.902,,,Fleming Family & Partners,nan,nan,active,,kg / yr,,851
+891,5918,2003,Nigeria,aluminum,Ikot Abasi,nan,Smelter,,,4.683,7.917,,,Aluminum Sleter Co. of Nigeria,nan,nan,closed,,t / yr,,851
+892,5919,2003,Nigeria,ammonia,Onne,nan,Plant,"04° 43' 00"" ","007° 09' 00""",4.717,7.15,,,National Fertilizer Co. of Nigieria Ltd.,nan,nan,closed,,t / yr,,851
+893,5920,2003,Nigeria,cement,Ashanka,nan,Plant,,,10.889,11.516,,,Ashanka Cement Co. plc,nan,nan,active,,t / yr,,851
+894,5921,2003,Nigeria,cement,Benue State,nan,Plant,"07° 20' 00"" ","008° 45' 00""",7.333,8.75,,,Benue Cement Co. p.l.c.,nan,nan,active,,t / yr,,851
+895,5922,2003,Nigeria,cement,Calbar,nan,Plant,5° 5' N,8° 31' E,5.083,8.517,,,United Cement Co of Nigieria,nan,nan,closed,,t / yr,,851
+896,5923,2003,Nigeria,cement,Ewekoro,nan,Plant,"06° 54' 00"" ","003° 13' 00""",6.9,3.217,,,West Africa Portland Cement Co.,nan,nan,active,,t / yr,,851
+897,5924,2003,Nigeria,cement,Ibese,nan,Plant,"06° 33' 11"" ","003° 28' 27""",6.553,3.474,,,Dangote Cement Works,nan,nan,closed,,t / yr,,851
+898,5925,2003,Nigeria,cement,Nkalagu,nan,Plant,"06° 29' 00"" ","007° 46' 00""",6.483,7.767,,,Nigeria Cement Co.,nan,nan,closed,,t / yr,,851
+900,5927,2003,Nigeria,cement,Shagamu,nan,Plant,"06° 51' 00"" ","003° 39' 00""",6.85,3.65,,,West Africa Portland Cement Co.,nan,nan,active,,t / yr,,851
+901,5928,2003,Nigeria,cement,Sokoto,nan,Plant,"08° 27' 00"" ","004° 26' 00""",8.45,4.433,,,Cement Co. of Northern Nigeria,nan,nan,active,,t / yr,,851
+902,5929,2003,Nigeria,coal,Enugu,nan,Mine,"06° 26' 00"" ","007° 29' 00""",6.433,7.483,,,Nigerian Coal Corp.,nan,nan,active,,t / yr,,851
+903,5930,2003,Nigeria,petroleum - crude,Niger Delta,nan,Well,,,6.3,4.9,,,Various joint ventures with Nigerian National Petroleum Corp.,nan,nan,active,910.0,million 42 gallon barrels / yr,,851
+904,5931,2003,Nigeria,iron,Itakpe,nan,Mine,,,7.6,7.3,,S,National Iron Mining Co.,nan,nan,active,,t / yr,,851
+905,5932,2003,Nigeria,natural gas - liquified,"Finima, Bonny Island",nan,Plant,"04° 25' 00"" ","007° 09' 00""",4.417,7.15,,,Nigeria Liquified Natural Gas Ltd.,nan,nan,active,,t / yr,,851
+906,5933,2003,Nigeria,"nitrogen, tantalum",Jos region,nan,Mine,,,10.0,10.5,,S,artisanal,nan,nan,active,70.0,t / yr,,851
+907,5934,2003,Nigeria,petroleum products,Kaduna refinery,nan,Refinery,"07° 11' 00"" ","010° 04' 00""",7.183,10.067,,,Kaduna Refinery and Petrochemicals Co. Ltd.,nan,nan,active,38.0,million 42 gallon barrels / yr,,851
+908,5935,2003,Nigeria,petroleum products,Warri refinery,nan,Refinery,"05° 31' 00"" ","005° 45' 00""",5.517,5.75,,,Warri Refinery and Petrochemicals Co. Ltd.,nan,nan,active,43.0,million 42 gallon barrels / yr,,851
+909,5936,2003,Nigeria,petroleum products - refined,New Port Harcourt,nan,Refinery,,,4.778,7.012,,,nan,nan,nan,active,55.0,million 42 gallon barrels / yr,,851
+910,5937,2003,Nigeria,petroleum products - refined,Old Port Harcourt,nan,Refinery,,,4.778,7.012,,,nan,nan,nan,active,22.0,million 42 gallon barrels / yr,,851
+911,5938,2003,Nigeria,tin,"Anglo Jos, Dadin Cowa",nan,Smelter,,,9.9,9.9,,,Minor metals and Minerals Ltd.,nan,nan,active,700.0,t / yr,,851
+912,5939,2003,Nigeria,tin,Dutse Nkura,nan,Mine,,,10.75,7.42,,S,artisanal,nan,nan,active,30.0,t / yr,,851
+913,5940,2003,Nigeria,tin,Jos,nan,Refinery,,,9.9,9.88,,,Makeri Smelting Co. Ltd.,nan,nan,closed,,t / yr,,851
+914,5941,2003,Nigeria,tin,Jos (Gurum),nan,Mine,,,9.92,9.9,,S,nan,nan,nan,active,30.0,t / yr,,851
+915,5942,2003,Nigeria,steel,Ajaokuta,nan,Plant,,,7.43,7.41,,,Ajaokuta Steel Co. Ltd.,nan,nan,closed,,t / yr,,851
+916,5943,2003,Nigeria,steel,Ajaokuta,nan,Mill (rolling),,,7.457,6.461,,,Ajaokuta Steel Co. Ltd.,nan,nan,active,,t / yr,,851
+917,5944,2003,Nigeria,steel,Aladja,nan,Plant,,,5.33,7.18,,,Delta Steel Co. Ltd.,nan,nan,closed,,t / yr,,851
+918,5945,2003,Nigeria,steel,Ikorodu,nan,Plant,"06° 37' 00"" ","003° 31' 00""",6.617,3.517,,,African Steel Mills Ltd.,nan,nan,active,,t / yr,,851
+919,5946,2003,Nigeria,steel,Ikorodu,nan,Mill (rolling),"06° 37' 00"" ","003° 31' 00""",6.617,3.352,,,African Steel Mills Ltd.,nan,nan,active,,t / yr,,851
+920,5947,2003,Nigeria,steel,Jos,nan,Mill (rolling),"09° 55' 00"" ","008° 54' 00""",9.917,8.9,,,Jos Steel Rolling Co. Ltd.,nan,nan,closed,,t / yr,,851
+921,5948,2003,Nigeria,steel,Katsina,nan,Mill (rolling),"08° 10' 00"" ","010° 40' 00""",8.167,10.667,,,Katasina Steel Rolling Co. Ltd.,nan,nan,closed,,t / yr,,851
+922,5949,2003,Nigeria,steel,Lagos,nan,Mill (rolling),"06° 35' 00"" ","003° 45' 00""",6.583,3.75,,,Sunflag Steel (Nigeria) Ltd.,nan,nan,active,,t / yr,,851
+923,5950,2003,Nigeria,steel,Oshogbo,nan,Mill (rolling),"07° 46' 00"" ","004° 34' 00""",7.767,4.567,,,Oshogbo Steel Rolling Co. Ltd.,nan,nan,active,,t / yr,,851
+924,5951,2003,Oman,Silver,Rakah near Yankul,nan,Mine,,,23.564,56.532,,,Oman Mining Co. LLC,nan,nan,active,,t / yr,,851
+925,5952,2003,Oman,gold,Rakah near Yankul,nan,Mine,,,23.564,56.532,,U,Oman Mining Co. LLC,nan,nan,active,2.0,t / yr,,851
+926,5953,2003,Oman,cement,Kilns and mills at Rusayl,nan,Mill,,,23.539,58.189,,,Oman Cement Co.,nan,nan,active,,t / yr,,851
+927,5954,2003,Oman,cement,Kilns and mills at Salalah,nan,Mill,,,17.018,54.083,,,Raysut Cement Co.,nan,nan,active,750.0,t / yr,,851
+928,5955,2003,Oman,chromite,Mine at the Ghashabi-2 deposit,nan,Mine,,,24.5,56.26,,,Oman Chromite Co.,nan,nan,active,29.0,t / yr,,851
+929,5956,2003,Oman,copper,Smelter and refinery near Sohar,nan,"Refinery, Smelter",,,24.369,56.744,,U,Oman Mining Co. LLC,nan,nan,active,24.0,t / yr,,851
+930,5957,2003,Oman,stone - marble,Quarries at Ibri,nan,Mine,,,22.69,58.547,,,Omani Marble Co. LLC (Omar Zawawi Establishment),nan,nan,active,,t / yr,,851
+931,5958,2003,Qatar,cement,Clinker grinding mill at Doha,nan,Mill,,,25.287,51.533,,,Al-Jabor Cement Industries Co.,nan,nan,active,165.0,t / yr,,851
+932,5959,2003,Qatar,cement,Kilns and mills at Umm Bab,nan,Mill,,,25.214,50.807,,,Qatar National Cement Co.,nan,nan,active,908.0,t / yr,,851
+933,5960,2003,Qatar,iron - direct reduced,Mesaieed,nan,Mill,,,25.287,51.533,,S,"Qatar Steel Co. Ltd. (Government, 100%)",nan,nan,active,730.0,t / yr,,851
+934,5961,2003,Qatar,fertilizer - ammonia,"QAFCO I, Mesaieed",nan,Plant,,,25.287,51.533,,S,"Qatar Fertilizer Co. Ltd. (Qatar Petroleum, 75%; Norsk  Hydro ASA, 25%).",nan,nan,active,416.0,t / yr,,851
+935,5962,2003,Qatar,fertilizer - ammonia,"QAFCO II, Mesaieed",nan,Plant,,,25.287,51.533,,S,"Qatar Fertilizer Co. Ltd. (Qatar Petroleum, 75%; Norsk  Hydro ASA, 25%).",nan,nan,active,420.0,t / yr,,851
+936,5963,2003,Qatar,fertilizer - ammonia,"QAFCO III, Mesaieed",nan,Plant,,,25.287,51.533,,S,"Qatar Fertilizer Co. Ltd. (Qatar Petroleum, 75%; Norsk  Hydro ASA, 25%).",nan,nan,active,548.0,t / yr,,851
+937,5964,2003,Qatar,fertilizer - ammonia,"QAFCO IV, Mesaieed",nan,Plant,,,25.287,51.533,,S,"Qatar Fertilizer Co. Ltd. (Qatar Petroleum, 75%; Norsk  Hydro ASA, 25%).",nan,nan,active,730.0,t / yr,,851
+938,5965,2003,Qatar,fertilizer - urea,"QAFCO I, Mesaieed",nan,Plant,,,25.287,51.533,,S,"Qatar Fertilizer Co. Ltd. (Qatar Petroleum, 75%; Norsk   Hydro ASA, 25%).",nan,nan,active,447.0,t / yr,,851
+939,5966,2003,Qatar,fertilizer - urea,"QAFCO II, Mesaieed",nan,Plant,,,25.287,51.533,,S,"Qatar Fertilizer Co. Ltd. (Qatar Petroleum, 75%; Norsk    Hydro ASA, 25%).",nan,nan,active,511.0,t / yr,,851
+940,5967,2003,Qatar,fertilizer - urea,"QAFCO III, Mesaieed",nan,Plant,,,25.287,51.533,,S,"Qatar Fertilizer Co. Ltd. (Qatar Petroleum, 75%; Norsk   Hydro ASA, 25%).",nan,nan,active,730.0,t / yr,,851
+941,5968,2003,Qatar,fertilizer - urea,"QAFCO IV, Mesaieed",nan,Plant,,,25.287,51.533,,S,"Qatar Fertilizer Co. Ltd. (Qatar Petroleum, 75%; Norsk   Hydro ASA, 25%).",nan,nan,active,,t / yr,,851
+942,5969,2003,Qatar,methanol,Mesaieed,nan,Plant,,,25.287,51.533,,,Qatar Fuel Additives Co. Ltd.,nan,nan,active,825.0,t / yr,,851
+943,5970,2003,Qatar,sulfur,Mesaieed,nan,Plant,,,25.287,51.533,,,Qatar Petroleum,nan,nan,active,95.0,t / yr,,851
+944,5971,2003,Qatar,sulfur,Ras Laffan,nan,Plant,,,25.933,51.617,,,Qatar Liquefied Gas Co. Ltd.,nan,nan,active,55.0,t / yr,,851
+945,5972,2003,Qatar,sulfur,Ras Laffan,nan,Plant,,,25.933,51.617,,,Ras Laffan LNG Co.,nan,nan,active,45.0,t / yr,,851
+946,5973,2003,Qatar,sulfur,Umm Said,nan,Plant,,,24.996,51.549,,,Qatar Petrochemical Co. Ltd.,nan,nan,active,70.0,t / yr,,851
+947,5974,2003,Qatar,steel,Plant at Mesaieed,nan,Plant,,,25.287,51.533,,,"Qatar Steel Co. Ltd. (Government, 100%).",nan,nan,active,920.0,t / yr,,851
+948,5975,2003,Qatar,steel,Rolling mill at Mesaieed,nan,Mill,,,25.287,51.533,,,"Qatar Steel Co. Ltd. (Government, 100%).",nan,nan,active,609.0,t / yr,,851
+949,5976,2003,Qatar,stone - limestone,Kilns at Umm Bab,nan,Plant,,,25.214,50.807,,,Qatar National Cement Co.,nan,nan,active,,t / yr,,851
+959,5986,2003,Saudi Arabia,gold,Mahd Adh Dhahab,nan,Mill,,,23.5,40.867,,U,"Mahd Adh Dhahab Mining Company (Ma'aden, 100%)",nan,nan,active,,kg / yr,,851
+960,5987,2003,Saudi Arabia,gold,Sukhaybirat,nan,Mill,,,24.337,41.275,,U,"The Saudi Company for Precious Metals, Ltd. (SCPM)",nan,nan,active,,kg / yr,,851
+961,5988,2003,Saudi Arabia,gold,Mahd Adh Dhahab,nan,Mill,,,23.5,40.867,,U,"Mahd Adh Dhahab Mining Company (Ma'aden, 100%)",nan,nan,active,180.0,kg / yr,,851
+962,5989,2003,Saudi Arabia,gold,Sukhaybirat,nan,Mill,,,24.337,41.275,,U,"The Saudi Company for Precious Metals, Ltd. (SCPM)",nan,nan,active,,kg / yr,,851
+963,5990,2003,Saudi Arabia,gold,Jiddah,nan,Refinery,,,21.517,39.219,,S,"Dahab Company Ltd. (Saudi private interests, 51%; Thomson-C.S.F., 49%)",nan,nan,active,110.0,kg / yr,,851
+964,5991,2003,Saudi Arabia,cement,Al Hufuf,nan,Plant,,,25.378,49.587,,,Saudi Consolidated Cement Co. (Gvt. Majority shareholder),nan,nan,active,,t / yr,,851
+965,5992,2003,Saudi Arabia,cement,Ayn Dar,nan,Plant,,,25.946,49.425,,,Saudi Consolidated Cement Co. (Gvt. Majority shareholder),nan,nan,active,,t / yr,,851
+966,5993,2003,Saudi Arabia,cement,Bishah,nan,Plant,,,21.517,39.219,,,"Southern Province Cement Co. (Gvt., 100%)",nan,nan,active,,t / yr,,851
+967,5994,2003,Saudi Arabia,cement,Buraydah,nan,Plant,,,26.332,43.972,,,"Qasim Cement Co. (Gvt., 100%)",nan,nan,active,,t / yr,,851
+968,5995,2003,Saudi Arabia,cement,Rabigh,nan,Plant,,,22.799,39.032,,,"Arabian Cement Co. Ltd. (Gvt., 100%)",nan,nan,active,,t / yr,,851
+969,5996,2003,Saudi Arabia,cement,Riyadh,nan,Plant,,,24.641,46.773,,,"Yamama Cement Co. (Gvt., 100%)",nan,nan,active,,t / yr,,851
+970,5997,2003,Saudi Arabia,cement,Suq Al Ahad,nan,Plant,,,19.188,41.202,,,"Southern Province Cement Co. (Gvt., 100%)",nan,nan,active,,t / yr,,851
+971,5998,2003,Saudi Arabia,cement,Tabuk,nan,Plant,,,28.383,36.583,,,"Tabuk Cement Co. (Gvt., 100%)",nan,nan,active,,t / yr,,851
+972,5999,2003,Saudi Arabia,cement,Yanbu,nan,Plant,,,24.085,38.049,,,"Yanbu Cement Co. (Gvt., 100%)",nan,nan,active,,t / yr,,851
+973,6000,2003,Saudi Arabia,ferroalloys,Al Jubayl,nan,Plant,,,27.047,49.661,,,Gulf Ferroalloys Co. (SABAYEK),nan,nan,active,105.0,t / yr,,851
+974,6001,2003,Saudi Arabia,fertilizer,Al Jubayl,nan,Plant,,,27.047,49.661,,S,National Chemical Fertlizer Co. (IBN AL BAYTAR),nan,nan,active,500.0,t / yr,,851
+975,6002,2003,Saudi Arabia,fertilizer,Al Jubayl,nan,Plant,,,27.047,49.661,,S,National Chemical Fertlizer Co. (IBN AL BAYTAR),nan,nan,active,200.0,t / yr,,851
+976,6003,2003,Saudi Arabia,fertilizer,Al Jubayl,nan,Plant,,,27.047,49.661,,S,National Chemical Fertlizer Co. (IBN AL BAYTAR),nan,nan,active,100.0,t / yr,,851
+977,6004,2003,Saudi Arabia,fertilizer - ammonia,Al Jubayl,nan,Plant,,,27.047,49.661,,S,Al Jubayl Fertilizer Co. (SAMAD),nan,nan,active,300.0,t / yr,,851
+978,6005,2003,Saudi Arabia,fertilizer - ammonia,Al Jubayl,nan,Plant,,,27.047,49.661,,S,National Chemical Fertlizer Co. (IBN AL BAYTAR),nan,nan,active,500.0,t / yr,,851
+979,6006,2003,Saudi Arabia,fertilizer - ammonia,Al Jubayl,nan,Plant,,,27.047,49.661,,S,Saudi Arabian Fertilizer Co. (SAFCO),nan,nan,active,500.0,t / yr,,851
+980,6007,2003,Saudi Arabia,fertilizer - ammonia,Dammam,nan,Plant,,,26.426,50.114,,S,Saudi Arabian Fertilizer Co. (SAFCO),nan,nan,active,200.0,t / yr,,851
+981,6008,2003,Saudi Arabia,fertilizer - urea,Al Jubayl,nan,Plant,,,27.047,49.661,,S,Saudi Arabian Fertilizer Co. (SAFCO),nan,nan,active,600.0,t / yr,,851
+982,6009,2003,Saudi Arabia,fertilizer - urea,Al Jubayl,nan,Plant,,,27.047,49.661,,S,Al Jubayl Fertilizer Co. (SAMAD),nan,nan,active,632.0,t / yr,,851
+983,6010,2003,Saudi Arabia,fertilizer - urea,Al Jubayl,nan,Plant,,,27.047,49.661,,S,National Chemical Fertlizer Co. (IBN AL BAYTAR),nan,nan,active,500.0,t / yr,,851
+984,6011,2003,Saudi Arabia,fertilizer - urea,Dammam,nan,Plant,,,26.426,50.114,,S,Saudi Arabian Fertilizer Co. (SAFCO),nan,nan,active,330.0,t / yr,,851
+985,6012,2003,Saudi Arabia,steel,Al Jubayl,nan,Mill,,,27.047,49.661,,,"Saudi Iron and Steel Co. (Hadeed)(SABIC, 95%)",nan,nan,active,,t / yr,,851
+986,6013,2003,Saudi Arabia,steel,Jiddah,nan,Mill,,,21.517,39.219,,,"Jiddah Steel Rolling Mill (Sulb)(Government, 100%)",nan,nan,active,245.0,t / yr,,851
+987,6014,2003,Saudi Arabia,sulfuric acid,Dammam,nan,Plant,,,26.426,50.114,,S,Saudi Arabian Fertilizer Co. (SAFCO),nan,nan,active,100.0,t / yr,,851
+988,6015,2003,Saudi Arabia,titanium oxide,Yanbu,nan,Plant,,,24.085,38.049,,,The National Titanium Dioxide Co. (Cristal),nan,nan,active,52.0,t / yr,,851
+989,6016,2003,Saudi Arabia,zinc,Al Masdane,nan,Mine,,,18.15,44.1,,,Arabian Shield Company for Mining Industries,nan,nan,active,,t / yr,,851
+1004,6031,2003,South Africa,aluminum,Bayside,nan,Smelter,"28° 43' 00"" ","032° 00' 00""",-28.717,32.0,,,Billiton Aluminium South Africa (Pty.) Ltd.,nan,nan,active,,t / yr,,851
+1005,6032,2003,South Africa,aluminum,Hillside,nan,Smelter,"31° 16' 00"" ","029° 28' 00""",-31.267,29.467,,,Billiton Aluminium South Africa (Pty.) Ltd.,nan,nan,active,,t / yr,,851
+1006,6033,2003,South Africa,andalusite,Andalusite Refractories,nan,Mine,,,-25.6,27.42,,S,"Samrec Pty. Ltd. of France (private, 100%)",nan,nan,closed,,t / yr,,851
+1007,6034,2003,South Africa,andalusite,Annesley &Havercroft,nan,Mine,,,-24.37,31.3,,S,"Samrec Pty. Ltd. of France (private, 100%)",nan,nan,closed,,t / yr,,851
+1008,6035,2003,South Africa,andalusite,Havercroft Mine at Penge,nan,Mine,,,-24.37,31.3,,S,Rhino Minerals (Pty.) Ltd.,nan,nan,active,,t / yr,,851
+1009,6036,2003,South Africa,andalusite,Hoogenoeg,nan,Mine,,,-25.4,30.72,,S,Hoogenoeg Andalusite (Pty.) Ltd.,nan,nan,closed,,t / yr,,851
+1010,6037,2003,South Africa,andalusite,"Krugerspost Mine,West Wits",nan,Mine,,,-24.37,31.25,,S,"Samrec Pty. Ltd. of France (private, 100%)",nan,nan,active,,t / yr,,851
+1011,6038,2003,South Africa,andalusite,"Maroeloesfontein, Thabazimbi area, Northern Province",nan,Mine,"24° 45' 00"" ","027° 11' 00""",-24.75,27.183,,,Andalusite Resources (Pty.) Ltd. [African Mineral Trading and Exploration (Pty.) Ltd.],nan,nan,active,,t / yr,,851
+1012,6039,2003,South Africa,andalusite,Rhino,nan,Mine,,,-24.42,28.17,,S,Rhino Minerals (Pty.) Ltd.,nan,nan,active,,t / yr,,851
+1013,6040,2003,South Africa,asbestos,Kuruman,nan,Mine,"27° 27' 00"" ","023° 26' 00""",-27.45,23.433,,,Griqualand Exploration and Finance Corp.,nan,nan,closed,,t / yr,,851
+1014,6041,2003,South Africa,asbestos,Msauli,nan,Mine,,,-25.78,31.88,,S,African Chrysotile Asbestos Ltd.,nan,nan,closed,,t / yr,,851
+1015,6042,2003,South Africa,asbestos,"New Amianthus, Nkomati",nan,Mine,,,-26.0,31.0,,S,Kaapsehoop Asbestos Pty. Ltd.,nan,nan,closed,,t / yr,,851
+1016,6043,2003,South Africa,asbestos,Stella,nan,Mine,,,-27.78,32.15,,S,Anglo Dutch  Exploration & Mining Co.  (Pty.) Ltd.,nan,nan,closed,,t / yr,,851
+1017,6044,2003,South Africa,"gold, antimony",Murchison,nan,Mine,"23° 51' 00"" ","030° 46' 00""",-23.85,30.767,,,"Consolidated Murchison Ltd. [Metorex Pty. Ltd., 34.3%]",nan,nan,active,,kg / yr,,851
+1019,6046,2003,South Africa,cement,"Dudfield, Lichtenburg area, Roodepoort",nan,Plant,"26° 09' 00"" ","026° 10' 00""",-26.15,26.167,,,Alpha Ltd. [Holcim Ltd. (Switzerland)],nan,nan,active,,t / yr,,851
+1020,6047,2003,South Africa,cement,Durban area,nan,Plant,"26° 11' 00"" ","027° 50' 00""",-26.183,27.833,,,Lafarge South Africa Ltd. [Lafarge (France)],nan,nan,active,,t / yr,,851
+1021,6048,2003,South Africa,cement,"Lichtenburg, North West Province",nan,Plant,"26° 09' 00"" ","026° 10' 00""",-26.15,26.167,,,Lafarge South Africa Ltd. [Lafarge (France)],nan,nan,active,,t / yr,,851
+1022,6049,2003,South Africa,cement,"Simumu plant, 125 kilometers southwest of Durban; also grinding mills at Durban and Newcastle",nan,Plant,"23° 40' 00"" ","028° 02' 00""",-23.667,28.033,,,"Natal Portland Cement Co. (Pty.) Ltd. [Cimentos de Portugal SGPS, S.A. (CIMPOR)]",nan,nan,active,,t / yr,,851
+1023,6050,2003,South Africa,cement,Ulco,nan,Plant,"28° 44' 00"" ","024° 46' 00""",-28.733,24.767,,,Alpha Ltd. [Holcim Ltd. (Switzerland)],nan,nan,active,,t / yr,,851
+1027,6054,2003,South Africa,coal,Douglas,nan,Mine,"25° 49' 00"" ","029° 10' 00""",-25.817,29.167,,"S,U",Ingwe Collieries Ltd. (BHP Billiton Plc),nan,nan,active,,t / yr,,851
+1028,6055,2003,South Africa,coal,Durnacol Mine at Dannhauser,nan,Mine,"28° 00' 00"" ","030° 03' 00""",-28.0,30.05,,,Kumba Resources Ltd.,nan,nan,closed,,t / yr,,851
+1029,6056,2003,South Africa,coal,"Duvha Colliery, Witbank area",nan,Mine,"25° 54' 00"" ","029° 14' 00""",-25.9,29.233,,,Duvha Opencast Services (Pty.) Ltd.,nan,nan,active,,t / yr,,851
+1030,6057,2003,South Africa,coal,"Elandsfontein, Golfview, Van Oudshoornstrom, Woestalleen collieries",nan,Mine,"25° 55' 00"" ","029° 36' 00""",-25.917,29.6,,,Anker Holdings B.V. (Netherlands),nan,nan,active,,t / yr,,851
+1032,6059,2003,South Africa,coal,Grootegeluk,nan,Mine,"23° 40' 00"" ","027° 30' 00""",-23.667,27.5,,,Kumba Resources Ltd.,nan,nan,active,,t / yr,,851
+1033,6060,2003,South Africa,coal,"Ikhewezi mine, Delmas area",nan,Mine,"26° 16' 00"" ","028° 49' 00""",-26.267,28.817,,,Kuyasa Mining (Pty.) Ltd.,nan,nan,active,,t / yr,,851
+1036,6063,2003,South Africa,coal,Koornfontein,nan,Mine,"26° 05' 00"" ","029° 27' 00""",-26.083,29.45,,"S,U",Ingwe Collieries Ltd. (BHP Billiton Plc),nan,nan,active,,t / yr,,851
+1037,6064,2003,South Africa,coal,"Leeuwfontein, Bankfontein, Side, Middleburg collieries at Witbank Coalfield",nan,Mine,"25° 59' 00"" ","029° 16' 00""",-25.983,29.267,,,"Wakefield Coal Division [Metorex Pty. Ltd. (Canada), 40.07%]",nan,nan,active,,t / yr,,851
+1038,6065,2003,South Africa,coal,Leeuwpan Colliery in Mpumalanga,nan,Mine,"26° 00' 00"" ","030° 00' 00""",-26.0,30.0,,,Kumba Resources Ltd.,nan,nan,active,,t / yr,,851
+1039,6066,2003,South Africa,coal,"Matla, Arnot underground, Glisa, Mafube",nan,Mine,"30° 09' 00"" ","029° 00' 00""",-30.15,29.0,,,Eyesizwe Coal (Pty) Ltd.,nan,nan,active,,t / yr,,851
+1040,6067,2003,South Africa,coal,Middleburg,nan,Mine,"30° 03' 00"" ","026° 37' 00""",-30.05,26.617,,S,Ingwe Collieries Ltd. (BHP Billiton Plc),nan,nan,active,,t / yr,,851
+1041,6068,2003,South Africa,coal,"Mpumalanga Division (Tselentis, Spitzkop)",nan,Mine,"29° 49' 00"" ","030° 37' 00""",-29.817,30.617,,,"Xstrata Coal South Africa (Xstrata plc, 100%)",nan,nan,active,,t / yr,,851
+1042,6069,2003,South Africa,coal,New Clydesdale collieries,nan,Mine,"26° 08' 00"" ","029° 20' 00""",-26.133,29.333,,,Eyesizwe Coal (Pty) Ltd.,nan,nan,active,,t / yr,,851
+1045,6072,2003,South Africa,coal,"Savamore, Taaboschpruit, and Welgedacht collieries",nan,Mine,"30° 51' 00"" ","026° 31' 00""",-30.85,26.517,,,Kangra Group Pty. Ltd.,nan,nan,active,,t / yr,,851
+1046,6073,2003,South Africa,coal,Secunda Collieries,nan,Mine,"26° 33' 00"" ","029° 10' 00""",-26.55,29.167,,,nan,nan,nan,active,,t / yr,,851
+1048,6075,2003,South Africa,coal,"Tshikondeni, Venda",nan,Mine,"22° 27' 00"" ","030° 57' 00""",-22.45,30.95,,,Kumba Resources Ltd.,nan,nan,active,,t / yr,,851
+1049,6076,2003,South Africa,coal,"Tweefontein Division (Waterpan, Boschmans,  Witcons, Goedgevonden, South Witbank)",nan,Mine,"26° 02' 00"" ","029° 10' 00""",-26.033,29.167,,,"Xstrata Coal South Africa (Xstrata plc, 100%)",nan,nan,active,,t / yr,,851
+1050,6077,2003,South Africa,coal,Vaalkrantz,nan,Mine,"33° 31' 00"" ","025° 11' 00""",-33.517,25.183,,,Leeuw Mining and Exploration (Pty) Ltd.,nan,nan,active,,t / yr,,851
+1051,6078,2003,South Africa,coal,"Zululand, KwaZulu Natal Province",nan,Mine,"29° 00' 00"" ","030° 00' 00""",-29.0,30.0,,,Ingwe Collieries Ltd. (BHP Billiton Plc),nan,nan,active,,t / yr,,851
+1052,6079,2003,South Africa,chrome,Boshoek,nan,Mine,"27° 35' 00"" ","031° 21' 00""",-27.583,31.35,,,Xstrata South Africa (Pty) Ltd. (82.5%),nan,nan,active,,t / yr,,851
+1056,6083,2003,South Africa,chrome,Eastern Chrome,nan,Mine,,,-24.53,31.13,,U,Samancor Ltd.  (Billiton),nan,nan,active,,t / yr,,851
+1057,6084,2003,South Africa,chrome,Grootboom,nan,Mine,"24° 47' 00"" ","030° 11' 00""",-24.783,30.183,,U,Lavino South Africa (Pty.) Ltd. (Avmin),nan,nan,active,,t / yr,,851
+1060,6087,2003,South Africa,chrome,Kroondal Mine at Rustenburg,nan,Mine,,,-25.75,28.32,,"S,U",Xstrata South Africa (Pty) Ltd. (82.5%),nan,nan,active,,t / yr,,851
+1061,6088,2003,South Africa,chrome,Rustenburg Chrome,nan,Mine,,,-25.67,28.25,,U,Bayer Pty. Ltd.,nan,nan,active,,t / yr,,851
+1063,6090,2003,South Africa,chrome,Waterval Mine at Rustenburg,nan,Mine,,,-25.67,28.25,,,Xstrata South Africa (Pty) Ltd. (82.5%),nan,nan,active,,t / yr,,851
+1065,6092,2003,South Africa,copper,Maranda,nan,Mine,"23° 58' 00"" ","030° 29' 00""",-23.967,30.483,,,Maranda Mining Co.,nan,nan,closed,,t / yr,,851
+1066,6093,2003,South Africa,copper,Nigramoep & O'okiep,nan,Mine,,,-29.58,18.78,,U,Metorex (Pty) Ltd.,nan,nan,closed,,t / yr,,851
+1067,6094,2003,South Africa,copper,Nigramoep & O'okiep,nan,Smelter,,,-29.58,18.78,,,Metorex (Pty) Ltd.,nan,nan,closed,,t / yr,,851
+1068,6095,2003,South Africa,copper,Palabora,nan,Mine,"23° 57' 00"" ","031° 07' 00""",-23.95,31.117,,"S,U",Palabora Mining Co. Ltd. (Rio Tinto),nan,nan,active,,t / yr,,851
+1069,6096,2003,South Africa,copper,Palabora,nan,Smelter,"23° 57' 00"" ","031° 07' 00""",-23.95,31.117,,,Palabora Mining Co. Ltd. (Rio Tinto),nan,nan,active,,t / yr,,851
+1070,6097,2003,South Africa,copper,Palabora,nan,Refinery,"23° 57' 00"" ","031° 07' 00""",-23.95,31.117,,,Palabora Mining Co. Ltd. (Rio Tinto),nan,nan,active,,t / yr,,851
+1071,6098,2003,South Africa,"copper, lead, zinc, silver",Black Mountain,nan,Mine,,,-29.2,19.87,,U,Black Mountain Mineral Development Co. (Anglo American),nan,nan,active,,t / yr,,851
+1072,6099,2003,South Africa,diamond,Baken,nan,Mine,,,-29.5,19.92,,S,Trans Hex Group Ltd.,nan,nan,active,,carats / yr,,851
+1073,6100,2003,South Africa,diamond,Finsch,nan,Mine,,,-28.38,24.45,,U,"De Beers Consolidated Mines Ltd.,",nan,nan,active,,carats / yr,,851
+1074,6101,2003,South Africa,diamond,Kimberley,nan,Mine,,,-28.75,25.78,,U,"De Beers Consolidated Mines Ltd.,",nan,nan,active,,carats / yr,,851
+1075,6102,2003,South Africa,diamond,Klipspringer,nan,Mine,,,-24.25,30.48,,U,"SouthernEra Resources, Ltd.",nan,nan,closed,,carats / yr,,851
+1076,6103,2003,South Africa,diamond,Koffiefontein,nan,Mine,,,-29.42,26.0,,S,"De Beers Consolidated Mines Ltd.,",nan,nan,active,,carats / yr,,851
+1077,6104,2003,South Africa,diamond,Marsfontein,nan,Mine,,,-24.16,30.16,,U,"New Diamond Carfs + DeBeers(60%), Southern ERA(40%)",nan,nan,closed,,carats / yr,,851
+1079,6106,2003,South Africa,diamond,Namaqualand coast,nan,Mine,,,-30.32,18.25,,S,Benguela Concessions Ltd. (De Beers),nan,nan,active,,carats / yr,,851
+1082,6109,2003,South Africa,diamond,Premier,nan,Mine,,,-25.7,29.5,,S,"De Beers Consolidated Mines Ltd.,",nan,nan,active,,carats / yr,,851
+1084,6111,2003,South Africa,diamond,Venetia,nan,Mine,,,-22.43,30.32,,S,"De Beers Consolidated Mines Ltd.,",nan,nan,active,,carats / yr,,851
+1086,6113,2003,South Africa,fluorine,Van Den Heever,nan,Mine,,,-26.77,28.65,,S,Van den Heever Fluorspar Works,nan,nan,closed,,t / yr,,851
+1087,6114,2003,South Africa,fluorine,Vergenoeg,nan,Mine,,,-25.28,29.28,,S,Metorex (Pty) Ltd.,nan,nan,active,,t / yr,,851
+1088,6115,2003,South Africa,fluorine,Witkop,nan,Mine,,,-26.77,28.5,,S,"South Africa Land  & Exploration Co.,",nan,nan,active,,t / yr,,851
+1089,6116,2003,South Africa,iron,"Beeshoek, Postmasburg area",nan,Mine,"28° 17' 00"" ","023° 00' 00""",-28.283,23.0,,,"Associated Manganese Mines of South Africa Ltd. (African Rainbow Minerals Ltd., 50%)",nan,nan,active,,t / yr,,851
+1090,6117,2003,South Africa,iron,Mapochs,nan,Mine,,,-25.2,30.92,,,Highveld Steel and Vanadium  Corp. Ltd.,nan,nan,active,,t / yr,,851
+1091,6118,2003,South Africa,iron,Sishen,nan,Mine,,,-27.8,24.0,,S,Kumba Resources Ltd.,nan,nan,active,,t / yr,,851
+1092,6119,2003,South Africa,iron,Thabazimbi,nan,Mine,,,-24.63,28.37,,S,Kumba Resources Ltd.,nan,nan,active,,t / yr,,851
+1093,6120,2003,South Africa,ferroalloys,Bathlako,nan,Smelter,,,-25.18,27.9,,,Samancor Chrome Division (Billiton),nan,nan,active,,t / yr,,851
+1094,6121,2003,South Africa,ferroalloys,Boshoek,nan,Plant,"27° 35' 00"" ","031° 21' 00""",-27.583,31.35,,,South African Chrome and Alloys Ltd.,nan,nan,active,520.0,t / yr,,851
+1095,6122,2003,South Africa,ferroalloys,"Boshoek, North West Province",nan,Plant,"27° 35' 00"" ","031° 21' 00""",-27.583,31.35,,,Xstrata South Africa (Pty) Ltd. (82.5%),nan,nan,active,,t / yr,,851
+1096,6123,2003,South Africa,ferroalloys,Brits area,nan,Plant,"25° 38' 00"" ","027° 47' 00""",-25.633,27.783,,,Hernic Ferrochrome Pty. Ltd.,nan,nan,active,,t / yr,,851
+1097,6124,2003,South Africa,ferroalloys,Brits Ferrovanadium,nan,Smelter,,,-25.63,28.78,,,Vametco Minerals Corp.,nan,nan,active,,t / yr,,851
+1098,6125,2003,South Africa,ferroalloys,Cato Ridge,nan,Refinery,"29° 44' 00"" ","030° 35' 00""",-29.733,30.583,,,"Associated Manganese Mines of South Africa Ltd. (African Rainbow Minerals Ltd., 50%)",nan,nan,active,,t / yr,,851
+1099,6126,2003,South Africa,ferroalloys,Cato Ridge,nan,Smelter,"29° 51' 00"" ","031° 01' 00""",-29.85,31.017,,,"Associated Manganese Mines of South Africa Ltd. (African Rainbow Minerals Ltd., 50%)",nan,nan,active,,t / yr,,851
+1100,6127,2003,South Africa,ferroalloys,Gemini at Marikana,nan,Smelter,,,-27.85,28.42,,,Xstrata South Africa (Pty) Ltd. (50%),nan,nan,active,,t / yr,,851
+1102,6129,2003,South Africa,ferroalloys,Machadadorp,nan,Smelter,,,-25.67,31.25,,,"Associated Manganese Mines of South Africa Ltd. (African Rainbow Minerals Ltd., 50%)",nan,nan,active,,t / yr,,851
+1103,6130,2003,South Africa,ferroalloys,Meyerton,nan,Plant,"26° 34' 00"" ","028° 01' 00""",-26.567,28.017,,,Advalloy (Pty.) Ltd.,nan,nan,active,,t / yr,,851
+1104,6131,2003,South Africa,ferroalloys,Meyerton,nan,Smelter,,,-26.57,29.02,,,Samancor Chrome Division (Kermas Group),nan,nan,active,,t / yr,,851
+1105,6132,2003,South Africa,ferroalloys,Middelburg,nan,Smelter,,,-25.78,20.47,,,Samancor Chrome Division (Kermas Group),nan,nan,active,,t / yr,,851
+1106,6133,2003,South Africa,ferroalloys,Pietersburg,nan,Smelter,,,-23.9,30.45,,,ASA Metals Pty. Ltd.,nan,nan,active,,t / yr,,851
+1107,6134,2003,South Africa,ferroalloys,Rustenburg,nan,Smelter,,,-25.67,28.25,,,Xstrata South Africa (Pty) Ltd. (82.5%),nan,nan,active,,t / yr,,851
+1108,6135,2003,South Africa,ferroalloys,Silicon,nan,Smelter,,,-27.92,30.95,,,Xstrata South Africa (Pty) Ltd.,nan,nan,active,,t / yr,,851
+1109,6136,2003,South Africa,ferroalloys,Tubatse,nan,Smelter,,,-24.72,31.3,,,Samancor Chrome Division (Kermas Group),nan,nan,active,,t / yr,,851
+1110,6137,2003,South Africa,ferroalloys,Witbank,nan,Plant,,,-26.48,29.77,,,"Transalloys Division (Highveld, 100%)",nan,nan,active,,t / yr,,851
+1111,6138,2003,South Africa,ferroalloys,Witbank,nan,Plant,,,-26.48,29.77,,,"Transalloys Division (Highveld, 100%)",nan,nan,active,,t / yr,,851
+1112,6139,2003,South Africa,ferroalloys,Witbank,nan,Smelter,,,-26.48,29.77,,,Samancor Chrome Division (Kermas Group),nan,nan,active,,t / yr,,851
+1113,6140,2003,South Africa,ferroalloys,Witbank,nan,Smelter,,,-26.48,29.77,,,Highveld Steel and  Vanadium Corp. Ltd.,nan,nan,active,,t / yr,,851
+1114,6141,2003,South Africa,ferroalloys,"Witbank, Mpumalanga Province",nan,Plant,"27° 53' 00"" ","031° 32' 00""",-27.883,31.533,,,"Rand Carbide Division (Highveld Steel and Vanadium Corp. Ltd., 100%)",nan,nan,active,,t / yr,,851
+1115,6142,2003,South Africa,ferroalloys,Wonderkop at Marikana,nan,Smelter,,,-27.85,28.42,,,Xstrata South Africa (Pty) Ltd. (82.5%),nan,nan,active,,t / yr,,851
+1116,6143,2003,South Africa,gold,Doornfontein section,nan,Mine,"26° 24' 00"" ","027° 20' 00""",-26.4,27.333,,,Durban Roodeport Deep Ltd.,nan,nan,closed,,kg / yr,,851
+1117,6144,2003,South Africa,gold,Welkom,nan,Mine,"31° 21' 00"" ","025° 39' 00""",-31.35,25.65,,,Harmony Gold Mining Co. Ltd.,nan,nan,active,,kg / yr,,851
+1118,6145,2003,South Africa,gold,Blyvooruitzicht section,nan,Mine,"26° 24' 00"" ","027° 24' 00""",-26.4,27.4,,,Durban Roodeport Deep Ltd.,nan,nan,active,,kg / yr,,851
+1119,6146,2003,South Africa,gold,"Cooke (1, 2, 3),  Doornkop, at Randfontein",nan,Plant,"26° 15' 00"" ","027° 40' 00""",-26.25,27.667,,,Harmony Gold Mining Co. Ltd.,nan,nan,active,,kg / yr,,851
+1121,6148,2003,South Africa,gold,Driefontein Mine,nan,Mine,"26° 12' 00"" ","028° 12' 00""",-26.2,28.2,,,Gold Fields Ltd.,nan,nan,active,,kg / yr,,851
+1123,6150,2003,South Africa,gold,"Eastern Transvaal Consolidated Division (Fairview, New Consort, and Sheba Mines), Klerksdorp area",nan,Mine,"26° 52' 00"" ","026° 40' 00""",-26.867,26.667,,,"Barberton Mines Ltd. [Metorex Ltd., 54%;  Shanduka Resources (Pty) Ltd., 26%;  Crew Development Corp. (Canada), 20%]",nan,nan,active,,kg / yr,,851
+1124,6151,2003,South Africa,gold,Elandskraal Mine (includes Deelkraal),nan,Mine,"25° 43' 00"" ","027° 36' 00""",-25.717,27.6,,,Harmony Gold Mining Co. Ltd.,nan,nan,active,,kg / yr,,851
+1125,6152,2003,South Africa,gold,"Germiston, Gauteng Province",nan,Refinery,"26° 13' 00"" ","028° 11' 00""",-26.217,28.183,,,Rand Refinery Ltd.,nan,nan,active,,t / yr,,851
+1127,6154,2003,South Africa,gold,"Harmony 2; Merriespruit (1, 7, and 3), Virginia,  Unisel, Masimong (4, 5), Brand (2, 3, 5), Central, Saaiplaas Virginia, Central in Free State",nan,"Plant, Refinery","23° 53' 00"" ","030° 43' 00""",-23.883,30.717,,,Harmony Gold Mining Co. Ltd.,nan,nan,active,,kg / yr,,851
+1128,6155,2003,South Africa,gold,Johannesburg area,nan,Mine,,,-26.184,28.984,,,Gold Fields Ltd.,nan,nan,active,,kg / yr,,851
+1129,6156,2003,South Africa,gold,"Kalgold at Mafikeng, Northwest Province",nan,nan,"25° 52' 00"" ","025° 39' 00""",-25.867,25.65,,,Harmony Gold Mining Co. Ltd.,nan,nan,active,,kg / yr,,851
+1130,6157,2003,South Africa,gold,"Kinross, Leslie, and Winkelhaak at Evander",nan,Plant,"26° 27' 00"" ","029° 07' 00""",-26.45,29.117,,,Harmony Gold Mining Co. Ltd.,nan,nan,active,,kg / yr,,851
+1131,6158,2003,South Africa,gold,Kloof Mine,nan,Mine,"26° 24' 00"" ","027° 36' 00""",-26.4,27.6,,,Gold Fields Ltd.,nan,nan,active,,kg / yr,,851
+1133,6160,2003,South Africa,gold,"Northwest operations (Buffelsfontein, Hartebeestfontein Mines)",nan,Mine,"26° 54' 00"" ","026° 48' 00""",-26.9,26.8,,,Durban Roodeport Deep Ltd.,nan,nan,closed,,kg / yr,,851
+1134,6161,2003,South Africa,gold,Orkney,nan,Mine,"26° 59' 00"" ","026° 40' 00""",-26.983,26.667,,,Harmony Gold Mining Co. Ltd.,nan,nan,active,,kg / yr,,851
+1135,6162,2003,South Africa,gold,"President Steyn Gold Mines, Free State",nan,Mine,"23° 53' 00"" ","030° 43' 00""",-23.883,30.717,,,"Thistle Mining, Inc.",nan,nan,active,,kg / yr,,851
+1137,6164,2003,South Africa,gold,"St. Helena Mine plus ex-AngloGold Free State operations:  Bambanani, Tshepong, Joel, and Matjhabeng (Eland Shaft) underground",nan,Mine,"23° 53' 00"" ","030° 43' 00""",-23.883,30.717,,"S,U",Harmony Gold Mining Co. Ltd.,nan,nan,active,,kg / yr,,851
+1140,6167,2003,South Africa,gold,"Vaal River, Moab Khotsong, Tau Tona, Savuk, a Mponeng, Ergo, Slimes",nan,Mine,"29° 04' 00"" ","023° 38' 00""",-29.067,23.633,,S,"AngloGold Ashanti Ltd. (Anglo American plc, 51.4%)",nan,nan,active,,kg / yr,,851
+1141,6168,2003,South Africa,manganese,"N'Chwaning, Gloria",nan,Mine,"27° 08' 00"" ","022° 53' 00""",-27.133,22.883,,U,"Associated Manganese Mines of South Africa Ltd. (African Rainbow Minerals Ltd., 50%)",nan,nan,active,,t / yr,,851
+1142,6169,2003,South Africa,manganese,Krugersdorp,nan,Plant,,,-26.1,28.77,,,Manganese Metal Co. Pty. Ltd. (Billiton),nan,nan,active,,t / yr,,851
+1143,6170,2003,South Africa,manganese,Mamatwan,nan,Mine,,,-27.38,24.0,,"S,U",Samancor Ltd. (Billiton) Hotazel Manganase Mines,nan,nan,active,,t / yr,,851
+1144,6171,2003,South Africa,manganese,Nelspruit,nan,Plant,,,-25.47,31.97,,,Manganese Metal Co. Pty. Ltd. (Billiton),nan,nan,active,,t / yr,,851
+1146,6173,2003,South Africa,manganese,Wessels,nan,Mine,,,-27.12,23.85,,U,Samancor Ltd. (Billiton) Hotazel Manganase Mines,nan,nan,active,,t / yr,,851
+1147,6174,2003,South Africa,nickel,Nkomati,nan,Mine,,,-26.0,31.0,,U,Anglovaal Mining Ltd.,nan,nan,active,,t / yr,,851
+1148,6175,2003,South Africa,phosphate,"Glenover,Thabazimbi area",nan,Mine,"23° 52' 00"" ","027° 10' 00""",-23.867,27.167,,,Fer-Min-Ore Ltd.,nan,nan,closed,,t / yr,,851
+1149,6176,2003,South Africa,phosphate,Plant at Phalaborwa,nan,Plant,"23° 57' 00"" ","031° 07' 00""",-23.95,31.117,,,Phosphate Development Corp. Ltd.,nan,nan,active,,t / yr,,851
+1150,6177,2003,South Africa,phosphate,Richards Bay,nan,Mine,,,-28.8,32.1,,S,"Foskor Ltd. (Industrial Development Corp of South Africa Ltd. [IDC]), 100%",nan,nan,active,,t / yr,,851
+1151,6178,2003,South Africa,phosphate,Richards Bay,nan,Plant,"28° 48' 00"" ","032° 06' 00""",-28.8,32.1,,,"Foskor Richards Bay (IDC, 100%)",nan,nan,active,,t / yr,,851
+1153,6180,2003,South Africa,"lead, zinc",Black Mountain (Pering Maranda),nan,Mine,,,-29.23,19.83,,U,Anglo American plc.,nan,nan,active,,t / yr,,851
+1154,6181,2003,South Africa,petroleum,Cape Town,nan,Refinery,"33° 55' 00"" ","018° 25' 00""",-33.917,18.417,,,"Caltex Oil SA Pty. Ltd. (private, 100%)",nan,nan,active,41.0,million 42 gallon barrels / yr,,851
+1155,6182,2003,South Africa,petroleum,"Gencor, Durban",nan,Refinery,"26° 11' 00"" ","027° 50' 00""",-26.183,27.833,,,Engen Ltd. (62%),nan,nan,active,38.0,million 42 gallon barrels / yr,,851
+1157,6184,2003,South Africa,petroleum,Mossel Bay,nan,nan,"34° 11' 00"" ","022° 08' 00""",-34.183,22.133,,,"Mossgas (Pty) Ltd. (Government, 100% through Central Energy Fund)",nan,nan,active,,million 42 gallon barrels / yr,,851
+1158,6185,2003,South Africa,petroleum,"Natref, Secunda",nan,Refinery,"26° 33' 00"" ","029° 10' 00""",-26.55,29.167,,,National Petroleum Refiners of South,nan,nan,active,32.0,million 42 gallon barrels / yr,,851
+1159,6186,2003,South Africa,petroleum,"Oribi field area, Mossel Bay",nan,nan,"34° 11' 00"" ","022° 08' 00""",-34.183,22.133,,,"Southern Oil Exploration Co. (Soeker)(Government, 100%)",nan,nan,active,,million 42 gallon barrels / yr,,851
+1161,6188,2003,South Africa,petroleum,"Sanref, Durban",nan,Refinery,"26° 11' 00"" ","027° 50' 00""",-26.183,27.833,,,"Shell and BP Refineries Pty. Ltd. (Shell International B.V., 50%; BP Plc, 50%)",nan,nan,active,60.0,million 42 gallon barrels / yr,,851
+1162,6189,2003,South Africa,platinum group metals,"Eastern Platinum, Western Platinum",nan,Mine,,,-25.67,28.35,,U,Lonmin Plc.,nan,nan,active,,kg / yr,,851
+1163,6190,2003,South Africa,platinum group metals,Lebowa Platinum,nan,Mine,,,-23.35,30.95,,U,Anglo American Platinum Corp. Ltd.,nan,nan,active,,kg / yr,,851
+1164,6191,2003,South Africa,platinum group metals,Potgietersrust,nan,Mine,,,-24.25,29.92,,S,Anglo American Platinum Corp. Ltd.,nan,nan,active,,kg / yr,,851
+1165,6192,2003,South Africa,platinum group metals,Amandelbult,nan,Mine,"24° 49' 00"" ","027° 17' 00""",-24.817,27.283,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,kg / yr,,851
+1166,6193,2003,South Africa,platinum group metals,Amandelbult,nan,Mill,"24° 49' 00"" ","027° 17' 00""",-24.817,27.283,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,t / yr,,851
+1167,6194,2003,South Africa,platinum group metals,Bafokeng Rasimone,nan,Mill,"25° 32' 00"" ","027° 12' 00""",-25.533,27.2,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,t / yr,,851
+1168,6195,2003,South Africa,platinum group metals,Bafokeng Rasimone,nan,Mine,"25° 32' 00"" ","027° 12' 00""",-25.533,27.2,,,"Bafokeng Rasimone Platinum Mine (Anglo  American Platinum Corp. Ltd., 50%;  Royal Bafokeng Nation, 50%)",nan,nan,active,,kg / yr,,851
+1169,6196,2003,South Africa,platinum group metals,East Daggafontein,nan,nan,"26° 17' 00"" ","028° 32' 00""",-26.283,28.533,,,East Daggafontein Ltd.,nan,nan,active,,kg / yr,,851
+1170,6197,2003,South Africa,platinum group metals,Impala Mines near Rustenburg,nan,Mine,,,-25.67,28.25,,U,Impala Platinum Ltd.,nan,nan,active,,kg / yr,,851
+1171,6198,2003,South Africa,platinum group metals,"Impala, Rustenburg area",nan,Mill,"25° 40' 00"" ","027° 15' 00""",-25.667,27.25,,,"Impala Platinum Ltd. (Impala Platinum Holdings Ltd., 100%)",nan,nan,active,,t / yr,,851
+1173,6200,2003,South Africa,platinum group metals,Kroondal,nan,Mine,,,-25.75,28.32,,"S,U","Kroondal Platinum Mines (Aquarius Platinum Ltd., 50%; Anglo American Platinum Corp. Ltd., 50%)",nan,nan,active,,kg / yr,,851
+1174,6201,2003,South Africa,platinum group metals,Lebowa Platinum,nan,Mill,"24° 12' 00"" ","029° 30' 00""",-24.2,29.5,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,t / yr,,851
+1176,6203,2003,South Africa,platinum group metals,Merensky,nan,Mill,"23° 47' 00"" ","030° 08' 00""",-23.783,30.133,,,Northam Platinum Ltd. (Mvelaphanda Platinum (Pty) Ltd.),nan,nan,active,,kg / yr,,851
+1177,6204,2003,South Africa,platinum group metals,Messina platinum Northam PGM Rustenburg,nan,Mine,,,-24.15,30.48,,U,SouthernEra Resources Ltd.,nan,nan,active,,kg / yr,,851
+1178,6205,2003,South Africa,platinum group metals,Modikwa,nan,Mine,"25° 26' 00"" ","023° 37' 00""",-25.433,23.617,,,"Modikwa Platinum Mine (Anglo American Platinum Corp. Ltd., 50%; and African Rainbow Minerals, 50%)",nan,nan,active,,kg / yr,,851
+1179,6206,2003,South Africa,platinum group metals,Northam,nan,Refinery,"24° 57' 00"" ","027° 16' 00""",-24.95,27.267,,,Northam Platinum Ltd. (Mvelaphanda Platinum (Pty) Ltd.),nan,nan,active,,kg / yr,,851
+1180,6207,2003,South Africa,platinum group metals,"Northam PGM ,Rustenburg Western,Platinum",nan,Mine,,,-24.95,28.27,,U,Northam Platinum Ltd. (Lornho),nan,nan,active,,kg / yr,,851
+1181,6208,2003,South Africa,platinum group metals,Polokwane,nan,Smelter,"23° 54' 00"" ","029° 27' 00""",-23.9,29.45,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,t / yr,,851
+1182,6209,2003,South Africa,platinum group metals,Potgietersrust Platinum,nan,Mill,"24° 11' 00"" ","029° 01' 00""",-24.183,29.017,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,t / yr,,851
+1183,6210,2003,South Africa,platinum group metals,Rustenburg,nan,Mill,"24° 55' 00"" ","027° 09' 00""",-24.917,27.15,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,t / yr,,851
+1184,6211,2003,South Africa,platinum group metals,Rustenburg,nan,Plant,"25° 40' 00"" ","027° 15' 00""",-24.667,27.25,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,kg / yr,,851
+1185,6212,2003,South Africa,platinum group metals,Rustenburg,nan,Refinery,"25° 40' 00"" ","027° 15' 00""",-25.667,27.25,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,kg / yr,,851
+1186,6213,2003,South Africa,platinum group metals,Rustenburg (UG2),nan,Mine,"25° 42' 00"" ","027° 22' 00""",-25.7,27.367,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,kg / yr,,851
+1187,6214,2003,South Africa,platinum group metals,Rustenburg section,nan,Mine,"24° 55' 00"" ","027° 09' 00""",-24.917,27.15,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,kg / yr,,851
+1188,6215,2003,South Africa,platinum group metals,Rustenburg UG2,nan,Mill,"25° 42' 00"" ","027° 22' 00""",-25.7,27.367,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,t / yr,,851
+1189,6216,2003,South Africa,platinum group metals,"Springs area, Gauteng Province",nan,Refinery,"26° 05' 00"" ","028° 15' 00""",-26.083,28.25,,,Impala Platinum Ltd.,nan,nan,active,,kg / yr,,851
+1191,6218,2003,South Africa,platinum group metals,Union,nan,Mill,"24° 12' 00"" ","029° 37' 00""",-24.2,29.617,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,t / yr,,851
+1192,6219,2003,South Africa,platinum group metals,Union,nan,Mine,"24° 12' 00"" ","029° 37' 00""",-24.2,29.617,,,Anglo American Platinum Corp. Ltd.,nan,nan,active,,kg / yr,,851
+1193,6220,2003,South Africa,platinum group metals,Western Platinum (Witpoort),nan,Smelter,,,-25.67,28.3,,,Lonmin Plc.,nan,nan,active,,kg / yr,,851
+1194,6221,2003,South Africa,pyrophilite,Idwala & Witpoort (Pyrophyllite),nan,Plant,,,-29.88,30.85,,,Alpha Ltd.,nan,nan,active,,t / yr,,851
+1195,6222,2003,South Africa,pyrophilite,Masala Pietersburg,nan,Mine,,,-25.08,30.85,,,G&W Base and Industrial Minerals Pty. Ltd.,nan,nan,active,,t / yr,,851
+1197,6224,2003,South Africa,"antimony, gold","Consolidated Murchison, Pietersburg",nan,Mine,"23° 51' 00"" ","030° 46' 00""",-23.85,30.767,,U,Consolidated Murchison Ltd. (Metorex),nan,nan,active,,t / yr,,851
+1198,6225,2003,South Africa,silicon,Polokwane Plant near Pietersburg,nan,Plant,"23° 54' 00"" ","029° 27' 00""",-23.9,29.45,,,Silicon Smelters Pty Ltd.,nan,nan,active,,t / yr,,851
+1199,6226,2003,South Africa,steel,Dinwiddie,nan,Plant,,,-26.22,29.18,,,"Anglo Operations Ltd., Scaw Metals Division",nan,nan,active,,t / yr,,851
+1200,6227,2003,South Africa,steel,Duferco & Saldanha Steel (Kuilsrivier ),nan,Plant,,,-33.02,18.95,,,Duferco Steel Processing Ltd.,nan,nan,active,,t / yr,,851
+1201,6228,2003,South Africa,steel,Kuilsrivier Newcastle,nan,Plant,,,-33.92,19.42,,,Cape Town Iron & Steel Works (Pty) Ltd. (CISCO),nan,nan,active,,t / yr,,851
+1202,6229,2003,South Africa,steel,Middleburg,nan,Plant,,,-25.78,30.47,,,"Columbus Stainless, Ltd. (Samancor, Highveld, IDC)",nan,nan,active,,t / yr,,851
+1203,6230,2003,South Africa,steel,Newcastle and Vereeniging,nan,Plant,,,-27.75,30.93,,,Mittal Steel South Africa Ltd.,nan,nan,active,,t / yr,,851
+1204,6231,2003,South Africa,steel,Newcastle and Vereeniging,nan,Plant,,,-26.67,28.93,,,Mittal Steel South Africa Ltd.,nan,nan,active,,t / yr,,851
+1205,6232,2003,South Africa,steel,Richards Bay (Witbank Ti),nan,Plant,,,-26.48,29.77,,,Highveld Steel and Vanadium Corp. Ltd.,nan,nan,active,,t / yr,,851
+1206,6233,2003,South Africa,steel,Saldanha Bay,nan,Plant,"33° 03' 00"" ","018° 00' 00""",-33.05,18.0,,,Mittal Steel South Africa Ltd.,nan,nan,active,,t / yr,,851
+1207,6234,2003,South Africa,steel,Saldanha Bay,nan,Plant,"33° 03' 00"" ","018° 00' 00""",-33.05,18.0,,,Mittal Steel South Africa Ltd.,nan,nan,active,,t / yr,,851
+1208,6235,2003,South Africa,steel,Vanderbijlpark (Witbank Steel),nan,Plant,,,-26.7,28.82,,,Mittal Steel South Africa Ltd.,nan,nan,active,,t / yr,,851
+1209,6236,2003,South Africa,steel,Vanderbijlpark (Witbank Steel),nan,Plant,,,-26.7,28.82,,,Mittal Steel South Africa Ltd.,nan,nan,active,,t / yr,,851
+1210,6237,2003,South Africa,steel,Vereeniging (Richards Bay),nan,Plant,,,-26.7,28.82,,,"Davsteel Division, Cape Gate Pty. Ltd.",nan,nan,active,,t / yr,,851
+1211,6238,2003,South Africa,"titanium, zirconium",Brand-se-Baai (Koekenaap Palabora),nan,Mine,,,-31.3,18.85,,S,Namakwa Sands Ltd. (Anglo Operations Ltd.),nan,nan,active,,t / yr,,851
+1212,6239,2003,South Africa,"titanium, zirconium, iron",Ba-Mogopa & Usko (Kennedy's Vale ),nan,Plant,,,-26.48,29.77,,,Highveld Steel and Vanadium Corp. Ltd.,nan,nan,active,,t / yr,,851
+1213,6240,2003,South Africa,"titanium, zirconium, iron","Namakwa Sands (Witbank, Usko)",nan,Smelter,,,-33.08,19.02,,,Namakwa Sands Ltd. (Anglo Operations Ltd.),nan,nan,active,,t / yr,,851
+1214,6241,2003,South Africa,"titanium, zirconium, iron","Palabora (New Consort, Fairview, & Sheba)",nan,Mine,"23° 57' 00"" ","031° 07' 00""",-23.95,31.117,,S,Tisand (Pty.) Ltd./Richards Bay Minerals,nan,nan,active,,t / yr,,851
+1215,6242,2003,South Africa,"titanium, zirconium, iron","Richards Bay (Namakwa Sands,Ba-Mogopa)",nan,Smelter,"28° 43' 00"" ","032° 00' 00""",-28.717,32.0,,,Richards Bay Iron and Titanium Corp./Richards Bay Minerals,nan,nan,active,,t / yr,,851
+1216,6243,2003,South Africa,"titanium, zirconium, iron",nan,nan,Mine,"23° 57' 00"" ","031° 07' 00""",-23.95,31.117,,,Phosphate Development Corp. Ltd.,nan,nan,active,,t / yr,,851
+1217,6244,2003,South Africa,vanadium,Ba-Mogopa & Usko (Kennedy's Vale ),nan,Mine,,,-26.1,30.82,,,Rhombus Vanadium Holdings Ltd. (Xstrata),nan,nan,active,,t / yr,,851
+1218,6245,2003,South Africa,vanadium,Kennedy's Vale (Krokodilkraal ),nan,Plant,,,-26.1,30.82,,,Rhombus Vanadium Holdings Ltd. (Xstrata),nan,nan,active,,t / yr,,851
+1219,6246,2003,South Africa,vanadium,Kennedy's Vale (Krokodilkraal ),nan,Mine,,,-24.83,31.12,,,Vanadium Technology Ltd.,nan,nan,active,,t / yr,,851
+1220,6247,2003,South Africa,vanadium,Krokodilkraal (Wapadskloof ),nan,Mine,,,-25.57,28.88,,,Vametco Minerals Corp.,nan,nan,active,,t / yr,,851
+1221,6248,2003,South Africa,vanadium,"Mapochs (Wapadskloof , Witbank)",nan,Mine,,,-25.17,30.9,,,Highveld Vanadium and Chemicals,nan,nan,active,,t / yr,,851
+1222,6249,2003,South Africa,vanadium,Palabora (Black Mountain ),nan,Plant,,,-26.48,29.77,,,Highveld Vanadium and Chemicals,nan,nan,active,,t / yr,,851
+1223,6250,2003,South Africa,vanadium,Wapadskloof  (Palabora),nan,Mine,,,-25.58,30.85,,,Transvaal Alloys Pty. Ltd.,nan,nan,active,,t / yr,,851
+1224,6251,2003,South Africa,vermiculite,nan,nan,Mine,"23° 57' 00"" ","031° 07' 00""",-23.95,31.117,,S,Palabora Mining Co. Ltd.,nan,nan,active,,t / yr,,851
+1225,6252,2003,South Africa,zinc,Pering  (Struisbult Springs Zinc),nan,Mine,,,-27.42,25.3,,S,Pering Mine  (Pty) Ltd. (Billiton),nan,nan,closed,,t / yr,,851
+1226,6253,2003,South Africa,zinc,Struisbult Springs Zinc,nan,Refinery,,,-26.25,29.47,,,"Zinc Corp. of South Africa Ltd. (""Zincor"") (Kumba Resources Ltd)",nan,nan,active,,t / yr,,851
+1227,6254,2003,South Africa,zirconium,Palabora (Koekenaap ),nan,Plant,"23° 57' 00"" ","031° 07' 00""",-23.95,31.117,,,Phosphate Development Corp. Ltd.,nan,nan,active,,t / yr,,851
+1228,6255,2003,South Africa,"zirconium, titanium","Koekenaap (New Consort, Fairview, & Sheba)",nan,Plant,,,-31.53,19.28,,,Namakwa Sands Ltd. (Anglo Operations Ltd.),nan,nan,active,,t / yr,,851
+1229,6256,2003,South Africa,zirconmium - oxide,Barberton Greenstone Belt (Fairview),nan,Plant,"25° 47' 00"" ","031° 03' 00""",-25.783,31.05,,,Palabora Mining Co. Ltd. (Rio Tinto),nan,nan,active,,t / yr,,851
+1231,6258,2003,Sudan,gold,Ariab Mbabane (Inguessana Hills),nan,Mine,,,18.7,37.6,,S,Compagnie Miniere Or,nan,nan,active,,kg / yr,,851
+1232,6259,2003,Sudan,cement,Atbara,nan,Plant,"17° 41' 50"" ","033° 58' 42""",17.697,33.978,,,Atbara Cement Company Ltd. (LaFarge Group of France and Dal Group of Sudan),nan,nan,active,,t / yr,,851
+1233,6260,2003,Sudan,cement,Rabak,nan,Plant,"13° 09' 00"" ","032° 44' 00""",13.15,32.733,,,"Nile Cement Company (Government, 100%)",nan,nan,active,,t / yr,,851
+1234,6261,2003,Sudan,chrome,Inguessana Hills (Bulembu Bulyanhulu),nan,Mine,,,11.96,35.03,,,Inguessana Hills Mining,nan,nan,active,,t / yr,,851
+1236,6263,2003,Sudan,limestone,Atbara,nan,Mine,"17° 41' 50"" ","033° 58' 42""",17.697,33.978,,,Atbara Cement Company Ltd.,nan,nan,active,,t / yr,,851
+1237,6264,2003,Sudan,limestone,Rabak,nan,Mine,"13° 09' 00"" ","032° 44' 00""",13.15,32.733,,,Nile Cement Company,nan,nan,active,,t / yr,,851
+1238,6265,2003,Sudan,marble,El Jebelein,nan,nan,"12° 36' 00"" ","032° 48' 00""",12.6,32.8,,,Al Masarra Co. Ltd.,nan,nan,active,,t / yr,,851
+1245,6272,2003,Sudan,petroleum - crude,Block 6 - Abu Gabra,nan,Field (oil),"11° 04' 00"" ","026° 51' 00""",11.067,26.85,,,China National Petroleum Corp.,nan,nan,active,730.0,thousand 42 gallon barrels / day,,851
+1246,6273,2003,Sudan,petroleum - refined,Abu Jabra,nan,nan,"11° 04' 00"" ","026° 51' 00""",11.067,26.85,,,Government,nan,nan,active,730.0,thousand 42 gallon barrels / day,,851
+1247,6274,2003,Sudan,petroleum - refined,El Obeid,nan,nan,"13° 11' 00"" ","030° 13' 00""",13.183,30.217,,,Government,nan,nan,active,,thousand 42 gallon barrels / day,,851
+1248,6275,2003,Sudan,petroleum - refined,Jali,nan,Refinery,"09° 53' 00"" ","030° 09' 00""",9.883,30.15,,,"Khartoum Oil Refinery (China National Petroleum Corp.,  50%; Sudan Petroleum Corp., 50%)",nan,nan,active,,thousand 42 gallon barrels / day,,851
+1249,6276,2003,Sudan,petroleum - refined,Port Sudan,nan,Refinery,"19° 36' 57"" ","037° 12' 59""",19.616,37.216,,,"Port Sudan Refining Ltd. (Government, 100%)",nan,nan,active,,thousand 42 gallon barrels / day,,851
+1257,6284,2003,Syria,cement,Adra,nan,Plant,,,33.617,36.5,,,"Adra Co. for Cement and Building (GOCBM, 100%)",nan,nan,active,850.0,t / yr,,851
+1258,6285,2003,Syria,cement,Aleppo,nan,Plant,,,36.203,37.159,,,"al-Chaba Cement & Building Materials (GOCBM, 100%)",nan,nan,active,920.0,t / yr,,851
+1259,6286,2003,Syria,cement,Aleppo,nan,Plant,,,36.203,37.159,,,"Arabian Cement Co. for Cement (GOCBM, 100%)",nan,nan,active,850.0,t / yr,,851
+1260,6287,2003,Syria,cement,Dummar,nan,Plant,,,33.533,36.233,,,"National Co. for Manufacturing of Cement (GOCBM, 100%",nan,nan,active,190.0,t / yr,,851
+1261,6288,2003,Syria,cement,Hama,nan,Plant,,,35.133,36.75,,,"Syrian Co. for Manufacturing Cement (GOCBM, 100%)",nan,nan,active,430.0,t / yr,,851
+1262,6289,2003,Syria,cement,Musselemieh,nan,Plant,,,36.317,37.2,,,"Military Housing Cement Group (Government, 100%)",nan,nan,active,,t / yr,,851
+1263,6290,2003,Syria,cement,Rastan,nan,Plant,,,34.917,36.733,,,"Rastan Co. for Cement and Building Materials (GOCBM, 100%)",nan,nan,active,120.0,t / yr,,851
+1264,6291,2003,Syria,cement,Tartous,nan,Plant,,,34.883,35.883,,,Tartous Company for Cement & Building Materials,nan,nan,active,,t / yr,,851
+1265,6292,2003,Syria,"fertilizer - ammonia, urea",Homs,nan,Plant,,,34.733,36.717,,,General Fertilizer Company (GFC),nan,nan,active,122.0,t / yr,,851
+1266,6293,2003,Syria,fertilizer,Homs,nan,Plant,,,34.733,36.717,,S,GFC,nan,nan,active,,t / yr,,851
+1267,6294,2003,Syria,phosphate rock,Kneifis,nan,Quarry,,,34.95,37.0,,S,"The General Company for Phosphate and Mines (GECOPHAM) (Government, 100%)",nan,nan,active,800.0,t / yr,,851
+1268,6295,2003,Syria,phosphoric acid,Homs,nan,Plant,,,34.733,36.717,,S,"The General Company for Phosphate and Mines (GECOPHAM) (Government, 100%)",nan,nan,active,,t / yr,,851
+1269,6296,2003,Syria,sulfur,Homs,nan,Mine,,,34.733,36.717,,,GECI,nan,nan,active,,t / yr,,851
+1270,6297,2003,Syria,salt,Bawara,nan,Plant,,,36.838,41.198,,S,"The General Company for Phosphate and Mines  (GECOPHAM) (Government, 100%)",nan,nan,active,,t / yr,,851
+1271,6298,2003,Syria,salt,Jabboul,nan,Plant,,,36.067,37.5,,S,Tartous Company for Cement & Building Materials,nan,nan,active,,t / yr,,851
+1272,6299,2003,Syria,salt,Jbisa,nan,Plant,,,36.061,40.669,,S,Tartous Company for Cement & Building Materials,nan,nan,active,,t / yr,,851
+1273,6300,2003,Syria,salt,Tibni,nan,Plant,,,35.6,39.833,,S,Tartous Company for Cement & Building Materials,nan,nan,active,,t / yr,,851
+1274,6301,2003,Syria,steel,Hama,nan,Plant,,,35.133,36.75,,S,"General Company for Iron and Steel Products (Government, 100%)",nan,nan,active,,t / yr,,851
+1275,6302,2003,Syria,sulfuric acid,Homs,nan,Plant,,,34.733,36.717,,S,GFC,nan,nan,active,,t / yr,,851
+1276,6303,2003,Tanzania,gold,Bulyanhulu Williamson,nan,Mine,,,-3.48,33.42,,,Barrick Gold Corp.,nan,nan,active,,kg / yr,,851
+1277,6304,2003,Tanzania,gold,Geita,nan,Mine,,,-2.87,33.17,,,Ashanti Goldfields and Anglo American,nan,nan,active,,kg / yr,,851
+1278,6305,2003,Tanzania,gold,Golden Pride,nan,Mine,,,-4.1,34.27,,,Resolute Ltd.,nan,nan,active,,kg / yr,,851
+1279,6306,2003,Tanzania,cement,Mbeya,nan,Plant,"08° 50' 00"" ","033° 22' 00""",-8.833,33.367,,,Mbeya Cement Co. Ltd. (LaFarge Group),nan,nan,active,,t / yr,,851
+1280,6307,2003,Tanzania,cement,Tanga,nan,Plant,"05° 25' 00"" ","039° 42' 00""",-5.417,39.7,,,"Tanga Cement Co. Ltd. (Holcim Ltd., 60%)",nan,nan,active,,t / yr,,851
+1282,6309,2003,Tanzania,coal - bituminous,Kiwira Mine,nan,Mine,"09° 10' 00"" ","033° 32' 00""",-9.167,33.533,,,"Tanzania-China Kiwira Coal and Power (Hunan International Economic and Technical Cooperation Co., 62%)",nan,nan,active,,t / yr,,851
+1283,6310,2003,Tanzania,copper - concentrates,"Bulyanhulu, Kahama area",nan,Mine,"03° 50' 00"" ","032° 36' 00""",-3.833,32.6,,U,"Kahama Mining Corp. Ltd. (Barrick Gold Corp., 100%)",nan,nan,active,,t / yr,,851
+1284,6311,2003,Tanzania,diamond,Mwadui area,nan,Mine,"03° 33' 00"" ","033° 36' 00""",-3.55,33.6,,,El Hillal Minerals Ltd.,nan,nan,active,,carats / yr,,851
+1285,6312,2003,Tanzania,diamond,"Mwadui, Shinyanga area",nan,Mine,"03° 40' 00"" ","033° 26' 00""",-3.667,33.433,,U,"Williamson Diamonds Ltd. (DeBeers Group, 75%)",nan,nan,active,,t / yr,,851
+1286,6313,2003,Tanzania,diamond,"Mwadui, Shinyanga area",nan,nan,"03° 40' 00"" ","033° 26' 00""",-3.667,33.433,,,"Williamson Diamonds Ltd. (DeBeers Group, 75%)",nan,nan,active,,carats / yr,,851
+1287,6314,2003,Tanzania,diamond,Williamson (Akoumape Djebel Djerissa),nan,Mine,,,-3.492,34.662,,,"De Beers Consolidated Mines, Ltd.",nan,nan,active,,carats / yr,,851
+1288,6315,2003,Tanzania,gold,Buhemba,nan,Mine,"01° 48' 00"" ","034° 06' 00""",-1.8,34.1,,S,Meremeta Ltd. (Government of Tanzania),nan,nan,active,,t / yr,,851
+1289,6316,2003,Tanzania,gold,Buhemba,nan,Mine,"01° 46' 00"" ","034° 05' 00""",-1.767,34.083,,,Meremeta Ltd. (Government of Tanzania),nan,nan,active,,kg / yr,,851
+1290,6317,2003,Tanzania,gold,"Bulyanhulu, Kahama near",nan,Mine,"03° 50' 00"" ","032° 36' 00""",-3.833,32.6,,U,Kahama Mining Corp. Ltd.,nan,nan,active,,t / yr,,851
+1291,6318,2003,Tanzania,gold,"Bulyanhulu, Kahama near",nan,Mine,"03° 50' 00"" ","032° 36' 00""",-3.833,32.6,,,Kahama Mining Corp. Ltd.,nan,nan,active,,kg / yr,,851
+1294,6321,2003,Tanzania,gold,"Golden Pride, Isanga area",nan,Mine,"07° 29' 00"" ","034° 01' 00""",-7.483,34.017,,S,Resolute Mining Ltd.,nan,nan,active,,t / yr,,851
+1295,6322,2003,Tanzania,gold,"Golden Pride, Isanga area",nan,Mine,"07° 29' 00"" ","034° 01' 00""",-7.483,34.017,,,Resolute Mining Ltd.,nan,nan,active,,kg / yr,,851
+1296,6323,2003,Tanzania,gold,North Mara,nan,Mine,"01° 45' 00"" ","034° 00' 00""",-1.75,34.0,,S,Placer Dome Gold Inc.,nan,nan,active,,t / yr,,851
+1297,6324,2003,Tanzania,gold,North Mara,nan,Mine,"01° 45' 00"" ","034° 00' 00""",-1.75,34.0,,,Placer Dome Gold Inc.,nan,nan,active,,kg / yr,,851
+1298,6325,2003,Tanzania,lime,Tanga,nan,Mine,"05° 25' 00"" ","039° 42' 00""",-5.417,39.7,,,Athi River Mining Ltd.,nan,nan,active,,t / yr,,851
+1299,6326,2003,Tanzania,natural gas,Songo Songo Island,nan,Field (gas),"08° 31' 00"" ","039° 29' 00""",-8.517,39.433,,,EastCoast Energy Corp.,nan,nan,active,720.0,million cubic meters,,851
+1300,6327,2003,Tanzania,petroleum products,Dar es Salaam,nan,Refinery,"05° 15' 00"" ","038° 50' 00""",-5.25,38.833,,,Tanzanian & Italian Petoleum Refining Co.,nan,nan,active,,thousand 42 gallon barrels / day,,851
+1301,6328,2003,Tanzania,phosphate rock,Minjingu,nan,Mine,"03° 42' 00"" ","035° 52' 00""",-3.7,35.867,,,Minjingu Phosphate Co. Ltd.,nan,nan,active,,t / yr,,851
+1302,6329,2003,Tanzania,steel,Dar es Salaam,nan,Plant,"06° 48' 00"" ","039° 17' 00""",-6.8,39.283,,,SITA Rollings Ltd.,nan,nan,active,,t / yr,,851
+1303,6330,2003,Tanzania,steel,Dar es Salaam,nan,Plant,"06° 48' 00"" ","039° 17' 00""",-6.8,39.283,,,Aluminum Africa Ltd.,nan,nan,active,,t / yr,,851
+1440,6467,2003,United Arab Emirates,aluminum,"Jebel Ali, Dubai",nan,Smelter,,,25.252,55.28,,U,Dubai Aluminum Co. Ltd.,nan,nan,active,250.0,t / yr,,851
+1441,6468,2003,United Arab Emirates,cement,"Ajman, Ajman",nan,Plant,,,25.406,55.443,,S,"Ajman Cement Co. (Gvt., 100%)",nan,nan,active,800.0,t / yr,,851
+1442,6469,2003,United Arab Emirates,cement,"Al-Ain, Abu Dhabi",nan,Plant,,,24.467,54.367,,S,"Al-Ain cement Co. (Gvt., 100%)",nan,nan,active,780.0,t / yr,,851
+1443,6470,2003,United Arab Emirates,cement,"Al-Nakheel, Ras Al-Khaimah",nan,Plant,,,25.791,55.943,,S,Gulf Cement Co.,nan,nan,active,,t / yr,,851
+1444,6471,2003,United Arab Emirates,cement,"Dibba, Fujairah",nan,Plant,,,25.617,56.267,,S,Fujairah Cement Industries,nan,nan,active,750.0,t / yr,,851
+1445,6472,2003,United Arab Emirates,cement,"Dubai, Dubai",nan,Plant,,,25.252,55.28,,S,"National cement Co. Ltd. (Government, 100%)",nan,nan,active,,t / yr,,851
+1446,6473,2003,United Arab Emirates,cement,"Jebel Ali, Dubai",nan,Plant,,,25.252,55.28,,S,"Jebel Ali Cement Co. (Sheikh Hamdan Maktoum, 100%)",nan,nan,active,100.0,t / yr,,851
+1447,6474,2003,United Arab Emirates,cement,"Khor Kuwair, Ras Al-Khaimah",nan,Plant,,,25.791,55.943,,,Ras Al-Khaimah Co. for White Cement and Construction Materials,nan,nan,active,300.0,t / yr,,851
+1448,6475,2003,United Arab Emirates,cement,"Sharjah, Sharjah",nan,Plant,,,25.362,55.391,,S,"Sharjah Cement and Industrial Development Co. Ltd., (private, 100%)",nan,nan,active,,t / yr,,851
+1449,6476,2003,United Arab Emirates,cement,"Union, Ras Al-Khaimah",nan,Plant,,,25.791,55.943,,S,Union Cement Co. (Government in the major shareholder),nan,nan,active,960.0,t / yr,,851
+1450,6477,2003,United Arab Emirates,fertilizer,"Ruwais, Abu Dhabi",nan,Plant,,,24.467,54.367,,S,"Ruwais Fertilizer Industries (Gvt., 66.7%; total, 33.3%)",nan,nan,active,400.0,t / yr,,851
+1451,6478,2003,United Arab Emirates,gypsum,"Jebel Ali, Dubai",nan,Mine,,,25.252,55.28,,,"General Gypsum Co. (private, 100%)",nan,nan,active,80.0,t / yr,,851
+1452,6479,2003,United Arab Emirates,sulfur,"Habshan, Abu Dhabi",nan,Mine,,,24.467,54.367,,,Adnoc,nan,nan,active,292.0,t / yr,,851
+1453,6480,2003,United Arab Emirates,sulfur,"Ruwais, Abu Dhabi",nan,Mine,,,24.467,54.367,,,Adnoc,nan,nan,active,10.0,t / yr,,851
+1469,6496,2003,Yemen,cement,Amran,nan,Plant,,,15.66,43.94,,,"Amran Cement Factory (Yemen Cement Manufacturing and Marketing Co., 100%)",nan,nan,active,520.0,t / yr,,851
+1470,6497,2003,Yemen,cement,Bajil,nan,Plant,,,15.067,43.283,,,"Bajil Cement Factory (Yemen Cement Manufacturing and Marketing Co., 100%)",nan,nan,active,262.0,t / yr,,851
+1471,6498,2003,Yemen,cement,Taiz,nan,Plant,,,13.567,44.033,,,"Al Barh Cement Factory (Yemen Cement Manufacturing and Marketing Co., 100%)",nan,nan,active,480.0,t / yr,,851
+1472,6499,2003,Yemen,gypsum,Salif,nan,Plant,,,15.311,42.673,,S,nan,nan,nan,active,70.0,t / yr,,851
+1473,6500,2003,Yemen,salt,Aden (Evaporation ponds),nan,Plant,,,12.83,45.029,,S,Aden Salt Factory (Government).,nan,nan,active,,t / yr,,851
+1474,6501,2003,Yemen,salt,Salif,nan,Plant,,,15.311,42.673,,S,Salt Refining and Packing Factory (Government).,nan,nan,active,,t / yr,,851
+1475,6502,2003,Yemen,stone - basalt,Sana'a,nan,Mine,,,15.355,44.207,,S,Various local companies,nan,nan,active,,t / yr,,851
+1476,6503,2003,Yemen,stone - basalt,Taiz area,nan,Mine,,,13.567,44.033,,S,Various local companies,nan,nan,active,,t / yr,,851
+1477,6504,2003,Yemen,"stone - basalt, tuff, limestone",Dhamar,nan,Mine,,,14.55,44.402,,S,Various local companies,nan,nan,active,,t / yr,,851
+1478,6505,2003,Yemen,stone - limestone,Mayana,nan,Mine,,,14.008,44.013,,S,Various local companies,nan,nan,active,,t / yr,,851
+1479,6506,2003,Yemen,stone - limestone,Wadi Marek (Mahraq),nan,Mine,,,14.072,45.766,,S,Various local companies,nan,nan,active,,t / yr,,851
+1480,6507,2003,Zambia,gold,Dunrobin,nan,Mine,,,-15.17,28.2,,,Reunion Mining plc (Anglo American),nan,nan,closed,600.0,kg / yr,,851
+1481,6508,2003,Zambia,"gold, selenium, silver",Ndola,nan,Plant,,,-15.87,28.77,,,Minerva (PMP) Ltd. (Binani Group),nan,nan,active,,kg / yr,,851
+1482,6509,2003,Zambia,cement,Lusaka,nan,Plant,,,-15.25,28.6,,,"Chilanga Cement plc (Lafarge, 51%)",nan,nan,active,,t / yr,,851
+1483,6510,2003,Zambia,cement,Ndola,nan,Plant,"12° 58' 00"" ","028° 38' 00""",-13.033,28.7,,,"Chilanga Cement plc (Lafarge, 51%)",nan,nan,active,,t / yr,,851
+1484,6511,2003,Zambia,coal,"Choma, Kanzie, Izuma Basins",nan,Mine,,,-17.3,27.13,,,Collum Coal Mining Industries ltd.,nan,nan,active,,t / yr,,851
+1485,6512,2003,Zambia,coal,Maamba,nan,Mine,,,-17.367,27.15,,,Maamba Collieries Ltd.,nan,nan,active,,t / yr,,851
+1486,6513,2003,Zambia,copper,Muliashi North,nan,Mine,,,-10.333,31.3,,,ZCCM-IH,nan,nan,active,,t / yr,,851
+1487,6514,2003,Zambia,copper,Nampundwe (Zvishavane Shabanie),nan,Mill,,,-14.58,29.31,,,"Konkola Copper Mines plc (Anglo American, 65%)",nan,nan,active,,t / yr,,851
+1488,6515,2003,Zambia,"copper, cobalt",Baluba,nan,Mill,"12° 59' 00"" ","028° 13' 00""",-12.983,28.217,,,Roan Antelope Mining Corp. (Binani Group),nan,nan,active,,t / yr,,851
+1489,6516,2003,Zambia,"copper, cobalt",Baluba East,nan,Mine,"12° 59' 00"" ","028° 13' 00""",-12.983,28.217,,U,Roan Antelope Mining Corp.(Binani Group),nan,nan,active,,t / yr,,851
+1490,6517,2003,Zambia,"copper, cobalt",Bwana Mkubwa,nan,Plant,"13° 02' 00"" ","028° 42' 00""",-13.033,28.7,,,First Quantum Minerals Ltd.,nan,nan,active,,t / yr,,851
+1491,6518,2003,Zambia,"copper, cobalt",Chibuluma South,nan,Mine,"12° 50' 00"" ","028° 06' 00""",-12.833,28.1,,,Chibuluma Mines plc (Metorex of South Africa (Pty) Ltd. 85%),nan,nan,active,,t / yr,,851
+1492,6519,2003,Zambia,"copper, cobalt",Chibuluma West,nan,Mill,"12° 50' 00"" ","028° 06' 00""",-12.833,28.1,,,Chibuluma Mines plc (Metorex of South Africa (Pty) Ltd. 85%),nan,nan,active,,t / yr,,851
+1493,6520,2003,Zambia,"copper, cobalt",Chibuluma West,nan,Mine,"12° 50' 00"" ","028° 06' 00""",-12.833,28.1,,U,Chibuluma Mines plc (Metorex of South Africa (Pty) Ltd. 85%),nan,nan,active,,t / yr,,851
+1494,6521,2003,Zambia,"copper, cobalt",Konkola,nan,Mill,"12° 18' 00"" ","027° 46' 00""",-12.3,27.767,,,"Konkola Copper Mines plc (Anglo American, 65%)",nan,nan,active,,t / yr,,851
+1495,6522,2003,Zambia,"copper, cobalt",Konkola,nan,Mine,"13° 08' 00"" ","028° 24' 00""",-13.133,28.4,,U,Konkola Copper Mines plc (Anglo American),nan,nan,active,,t / yr,,851
+1496,6523,2003,Zambia,"copper, cobalt",Luanshya,nan,Mine,"12° 59' 00"" ","028° 13' 00""",-12.983,28.217,,,Roan Antelope Mining Corp.(Binani Group),nan,nan,closed,,t / yr,,851
+1497,6524,2003,Zambia,"copper, cobalt",Luanshya,nan,Mine,"13° 08' 00"" ","028° 24' 00""",-13.133,28.4,,U,Roan Antelope Mining Corp. (Binani Group),nan,nan,active,,t / yr,,851
+1498,6525,2003,Zambia,"copper, cobalt",Luanshya,nan,Mill,,,-11.833,25.133,,,Roan Antelope Mining Corp. (Binani Group),nan,nan,active,,t / yr,,851
+1499,6526,2003,Zambia,"copper, cobalt",Mufulira,nan,Mine,"12° 32' 00"" ","028° 14' 00""",-12.533,28.233,,U,Mopani Copper Mines plc (Glencore Intl. 73%),nan,nan,active,,t / yr,,851
+1500,6527,2003,Zambia,"copper, cobalt",Mufulira,nan,Mill,"12° 32' 00"" ","028° 14' 00""",-12.533,28.233,,,Mopani Copper Mines plc (Glencore Intl. 73%),nan,nan,active,,t / yr,,851
+1501,6528,2003,Zambia,"copper, cobalt",Mufulira,nan,Refinery,"12° 32' 00"" ","028° 14' 00""",-12.533,28.233,,,Mopani Copper Mines plc (Glencore Intl. 73%),nan,nan,active,,t / yr,,851
+1502,6529,2003,Zambia,"copper, cobalt",Nchanga,nan,Mine,"13° 46' 00"" ","029° 56' 00""",-13.767,29.933,,U,"Konkola Copper Mines plc (Anglo American, 65%)",nan,nan,active,,t / yr,,851
+1503,6530,2003,Zambia,"copper, cobalt",Nchanga,nan,Mill,"13° 46' 00"" ","029° 56' 00""",-13.767,29.933,,,Konkola Copper Mines plc (Anglo American),nan,nan,active,,t / yr,,851
+1504,6531,2003,Zambia,"copper, cobalt",Nchanga,nan,Mine,"13° 46' 00"" ","029° 56' 00""",-13.767,29.933,,S,"Konkola Copper Mines plc (Anglo American, 65%)",nan,nan,active,,t / yr,,851
+1505,6532,2003,Zambia,"copper, cobalt",Nkana,nan,Smelter,"13° 46' 00"" ","029° 56' 00""",-13.767,29.933,,,"Smelter Co; Zambia Consolidated Copper Mine-Investments Holdings, plc",nan,nan,active,,t / yr,,851
+1506,6533,2003,Zambia,"copper, cobalt",Nkana,nan,Plant,"12° 49' 00"" ","028° 12' 00""",-12.817,28.2,,,Konkola Copper Mines plc (Anglo American),nan,nan,active,,t / yr,,851
+1507,6534,2003,Zambia,"copper, cobalt",Nkana,nan,Smelter,"12° 49' 00"" ","028° 12' 00""",-12.817,28.2,,,Zambia Consolidated Copper Mines Ltd. (ZCCM),nan,nan,active,,t / yr,,851
+1508,6535,2003,Zambia,"copper, cobalt",Nkana,nan,Mine,"12° 49' 00"" ","028° 12' 00""",-12.817,28.2,,,"Mopani Copper Mines plc (Glencore Intl, First Quantum)",nan,nan,active,,t / yr,,851
+1509,6536,2003,Zambia,"copper, cobalt",Nkana,nan,Mill,,,-12.817,28.2,,,"Mopani Copper Mines plc (Glencore Intl, First Quantum)",nan,nan,active,,t / yr,,851
+1510,6537,2003,Zambia,gemstone - amethyst,Kariba,nan,Mine,"16° 33' 00"" ","028° 47' 00""",-16.55,28.783,,,Kariba Minerals Ltd.,nan,nan,active,,kg / yr,,851
+1511,6538,2003,Zambia,gemstone - amethyst,"Krystal, Kaloma, Mumbwa",nan,Mine,,,-16.42,28.4,,,Vantage Enterprises Corp,nan,nan,active,,kg / yr,,851
+1512,6539,2003,Zambia,gemstone - aquamarine,Katete,nan,Mine,,,-14.25,32.33,,,Various artisanal operations.,nan,nan,active,,kg / yr,,851
+1514,6541,2003,Zambia,gemstone - citrine,Iteshi Teshi; Mumbwa,nan,Mine,,,-15.75,27.0,,,artisanal,nan,nan,active,,kg / yr,,851
+1515,6542,2003,Zambia,gemstone - emerald,Kitwe,nan,Mine,"12° 49' 00"" ","028° 12' 00""",-12.817,28.2,,,artisanal,nan,nan,active,,kg / yr,,851
+1516,6543,2003,Zambia,gemstone - emerald,Ndola area,nan,Mine,,,-15.87,28.77,,,Kagem Minerals Ltd.  (Government 55%),nan,nan,active,600.0,kg / yr,,851
+1517,6544,2003,Zambia,gemstone - garnet,Siavunga,nan,Mine,,,-15.87,28.77,,,artisanal,nan,nan,active,,kg / yr,,851
+1518,6545,2003,Zambia,lime,Ndola,nan,Plant,,,-13.033,28.7,,,Ndola Lime Co. Ltd.,nan,nan,active,,t / yr,,851
+1519,6546,2003,Zambia,sulfur,Bwana Mkubwa,nan,Plant,"12° 40' 00"" ","028° 00' 00""",-12.667,28.0,,,First Quantum Minerals Ltd.,nan,nan,active,,t / yr,,851
+1520,6547,2003,Zambia,sulfur,Chambishi,nan,Plant,,,-12.667,28.0,,,Chambishi Metals plc,nan,nan,active,,t / yr,,851
+1521,6548,2003,Zambia,sulfur,Nampundwe,nan,Mine,,,-15.0,29.33,,,"Konkola Copper Mines plc (Anglo American, 65%)",nan,nan,active,,t / yr,,851
+1522,6549,2003,Zambia,sulfur,Nkana,nan,Plant,"14° 18' 00"" ","028° 43' 00""",-14.3,28.717,,,Mopani Copper Mines plc,nan,nan,active,,t / yr,,851
+1523,6550,2003,Zambia,gemstone - tourmaline,"Kalunga Wbeba, Hofmeyer",nan,Mine,"14° 18' 00"" ","028° 43' 00""",-14.3,28.717,,,artisanal,nan,nan,active,,kg / yr,,851
+1524,6551,2003,Zimbabwe,ammonium nitrate,Sable,nan,Plant,,,-19.55,29.8,,,Sable Chemical Industries Ltd.,nan,nan,active,,t / yr,,851
+1525,6552,2003,Zimbabwe,asbestos,Gaths,nan,Mill,,,-20.017,30.508,,,African Associated Mines (Pvt.) Ltd.,nan,nan,active,,t / yr,,851
+1526,6553,2003,Zimbabwe,asbestos,Gaths & King,nan,Mine,,,-20.017,30.508,,U,African Associated Mines (Pvt.) Ltd.,nan,nan,active,,t / yr,,851
+1527,6554,2003,Zimbabwe,asbestos,Zvishavane,nan,Mill,,,-20.333,30.067,,,African Associated Mines (Pvt.) Ltd.,nan,nan,active,,t / yr,,851
+1528,6555,2003,Zimbabwe,asbestos,"Zvishavane,Shabanie",nan,Mine,,,-20.333,30.067,,U,African Associated Mines (Pvt.) Ltd.,nan,nan,active,,t / yr,,851
+1529,6556,2003,Zimbabwe,gold,Arcturus,nan,Mine,,,-17.783,31.317,,,Independence Gold Mining (Pvt.) Ltd.,nan,nan,active,,kg / yr,,851
+1530,6557,2003,Zimbabwe,gold,Blanket,nan,Mine,,,-20.85,28.9,,U,Kinross Gold Corp.,nan,nan,closed,,kg / yr,,851
+1533,6560,2003,Zimbabwe,gold,Dalny,nan,Mine,,,-18.075,29.85,,U,Falcon Gold Zimbabwe Ltd.,nan,nan,active,342.0,kg / yr,,851
+1534,6561,2003,Zimbabwe,gold,"Eureka, Guruve",nan,Mine,,,-16.67,30.74,,,Mmakau Mining (Pty.) Ltd. (75%) and Shaft Sinkers (Pty.) Ltd.  (25%),nan,nan,closed,,kg / yr,,851
+1535,6562,2003,Zimbabwe,gold,Freda-Rebecca,nan,Mine,,,-17.3,31.292,,U,Mwana Africa Holdings,nan,nan,active,,kg / yr,,851
+1537,6564,2003,Zimbabwe,gold,Gweru,nan,Mine,,,-19.45,29.817,,,Falcon Gold Zimbabwe Ltd.,nan,nan,active,130.0,kg / yr,,851
+1538,6565,2003,Zimbabwe,gold,How,nan,Mine,,,-20.308,28.775,,,Independence Gold Mining (Pvt.) Ltd.,nan,nan,active,,kg / yr,,851
+1539,6566,2003,Zimbabwe,gold,Jena,nan,Mine,,,-17.833,25.633,,,Zimbabwe Mining Development Corp.,nan,nan,active,600.0,kg / yr,,851
+1540,6567,2003,Zimbabwe,gold,Mazoe,nan,Mine,,,-17.517,30.967,,,Independence Gold Mining (Pvt.) Ltd.,nan,nan,active,,kg / yr,,851
+1541,6568,2003,Zimbabwe,gold,Patchway,nan,Mine,,,-18.233,29.8,,U,Golden Valley Mine,nan,nan,closed,,t / yr,,851
+1542,6569,2003,Zimbabwe,gold,Redwing,nan,Mine,,,-18.25,30.1,,,Independence Gold Mining (Pvt.) Ltd.,nan,nan,active,,kg / yr,,851
+1543,6570,2003,Zimbabwe,gold,Renco,nan,Mine,,,-20.633,31.167,,U,RioZim Ltd.,nan,nan,active,,kg / yr,,851
+1544,6571,2003,Zimbabwe,gold,Sabi,nan,Mine,,,-20.367,30.117,,U,Zimbabwe Mining Development Corp.,nan,nan,active,600.0,kg / yr,,851
+1545,6572,2003,Zimbabwe,gold,Shamva,nan,Mine,,,-17.333,31.567,,,Independence Gold Mining (Pvt.) Ltd.,nan,nan,active,,kg / yr,,851
+1546,6573,2003,Zimbabwe,gold,Shurugwi,nan,Mine,,,-19.667,30.0,,,Falcon Gold Zimbabwe Ltd.,nan,nan,active,130.0,kg / yr,,851
+1547,6574,2003,Zimbabwe,cement,Bulawayo,nan,Plant,,,-20.15,28.583,,,Portland Holdings Ltd. (Pretoria Portland Cement Co. Ltd.),nan,nan,active,,t / yr,,851
+1548,6575,2003,Zimbabwe,cement,Gwanda,nan,Plant,,,-20.933,29.0,,,Portland Holdings Ltd. (Pretoria Portland Cement Co. Ltd.),nan,nan,active,,t / yr,,851
+1550,6577,2003,Zimbabwe,cement,Indiva,nan,Plant,,,-19.417,30.05,,,Sino-Zimbabwe Cement,nan,nan,active,,t / yr,,851
+1551,6578,2003,Zimbabwe,cobalt,Bindura,nan,Plant,,,-17.317,31.3,,,Bindura Nickel Corp,nan,nan,active,150.0,t / yr,,851
+1552,6579,2003,Zimbabwe,cobalt,"Eiffel Flats, Empress",nan,Plant,,,-18.317,29.983,,,RioZim Ltd.,nan,nan,active,100.0,t / yr,,851
+1553,6580,2003,Zimbabwe,coal,Hwange,nan,Mine,,,-18.367,26.483,,"S,U",Wankie Coal Co.,nan,nan,active,,t / yr,,851
+1554,6581,2003,Zimbabwe,coal,Sengwa,nan,Mine,,,-18.3,29.0,,S,Beta Holdings,nan,nan,closed,,t / yr,,851
+1555,6582,2003,Zimbabwe,chrome,Shurugwi,nan,Mine,,,-19.66,30.0,,U,Zimbabwe Mining and Smelting Co. (Pvt.) Ltd.,nan,nan,active,,t / yr,,851
+1556,6583,2003,Zimbabwe,copper,Alaska,nan,Smelter,,,-17.308,30.033,,,Lomagundi Smelting & Mining,nan,nan,closed,,t / yr,,851
+1557,6584,2003,Zimbabwe,copper,Alaska,nan,Refinery,,,-17.308,30.033,,,Lomagundi Smelting & Mining,nan,nan,closed,,t / yr,,851
+1558,6585,2003,Zimbabwe,copper,Eiffel Flats,nan,Refinery,,,-18.317,29.983,,,RioZim Ltd.,nan,nan,active,,t / yr,,851
+1559,6586,2003,Zimbabwe,copper,"Hartley, Selous",nan,Refinery,,,-18.033,30.417,,,Makwiro Platinum Mines (Pvt.) Ltd. (Zimplats Holdings Ltd.),nan,nan,closed,,t / yr,,851
+1560,6587,2003,Zimbabwe,copper,Mhangura,nan,Mine,,,-16.883,30.167,,U,Mhangura Copper Mines,nan,nan,closed,,t / yr,,851
+1561,6588,2003,Zimbabwe,copper,Sanyati,nan,Mine,,,-17.517,29.325,,S,Zimbabwe Mining & Development Corp.,nan,nan,closed,,t / yr,,851
+1562,6589,2003,Zimbabwe,copper,Selous,nan,Smelter,,,-18.033,30.417,,,Makwiro Platinum Mines (Pvt.) Ltd. (Zimplats Holdings Ltd.),nan,nan,active,,t / yr,,851
+1563,6590,2003,Zimbabwe,diamond,Murowa,nan,Mine,,,-17.683,31.617,,S,Murowa Diamonds (Pvt.) Ltd. (Rio Tinto & RioZim Ltd.),nan,nan,active,,carats / yr,,851
+1564,6591,2003,Zimbabwe,iron,Ripple Creek,nan,Mine,,,-19.15,29.7,,S,BUCHWA,nan,nan,active,,t / yr,,851
+1565,6592,2003,Zimbabwe,ferrochrome,Gweru,nan,Smelter,,,-19.75,29.81,,,Zimbabwe Alloys Ltd.  [Benscore Investments (Pvt.) Ltd.],nan,nan,active,,t / yr,,851
+1566,6593,2003,Zimbabwe,ferrochrome,Kwekwe,nan,Smelter,,,-18.91,29.81,,,Zimbabwe Mining and Smelting Co. (Pvt.) Ltd.,nan,nan,active,,t / yr,,851
+1567,6594,2003,Zimbabwe,ferrosilicon,Gweru,nan,Smelter,,,-19.75,29.81,,,Zimbabwe Alloys Ltd.  [Benscore Investments (Pvt.) Ltd.],nan,nan,active,,t / yr,,851
+1568,6595,2003,Zimbabwe,gold,"Golden Kopje, Chinhoyi",nan,Mine,,,-17.45,30.067,,,JV w/ Thunderbird Mines Ltd (80%),nan,nan,active,,kg / yr,,851
+1569,6596,2003,Zimbabwe,gold,Gwanda,nan,Mine,,,-20.933,29.0,,,Circle Three Corp.,nan,nan,active,,kg / yr,,851
+1570,6597,2003,Zimbabwe,gold,Gwanda,nan,Mine,,,-20.933,29.0,,S,artisanal,nan,nan,active,,kg / yr,,851
+1571,6598,2003,Zimbabwe,graphite,Lynx,nan,Mine,,,-16.6,29.43,,U,Zimbabwe German Graphite Mines (Pvt.) Ltd.,nan,nan,active,,t / yr,,851
+1572,6599,2003,Zimbabwe,iron ore,Ripple Creek,nan,Mine,,,-18.5,32.133,,S,Buchwa Iron Mining Co. (ZISCO),nan,nan,active,,t / yr,,851
+1573,6600,2003,Zimbabwe,lithium,Glenclova,nan,Mine,,,-19.95,31.433,,S,Bikita Minerals,nan,nan,active,,t / yr,,851
+1574,6601,2003,Zimbabwe,limestone,Mutare,nan,Quarry,,,-19.167,32.417,,,BUCHWA,nan,nan,active,,t / yr,,851
+1575,6602,2003,Zimbabwe,Magnesium,Barton Farm,nan,Mine,,,-18.37,29.9,,,Kadoma Magnesite,nan,nan,active,,t / yr,,851
+1576,6603,2003,Zimbabwe,nickel,Bindura,nan,Smelter,,,-17.33,31.35,,,Bindura Nickel Corp,nan,nan,active,,t / yr,,851
+1577,6604,2003,Zimbabwe,nickel,Bindura,nan,Refinery,,,-17.33,31.35,,,Bindura Nickel Corp,nan,nan,active,,t / yr,,851
+1578,6605,2003,Zimbabwe,nickel,Empress,nan,Refinery,,,-18.35,29.91,,,RioZim Ltd.,nan,nan,active,,t / yr,,851
+1579,6606,2003,Zimbabwe,nickel,Selous,nan,Refinery,,,-18.03,30.42,,,Makwiro Platinum Mines (Pvt.) Ltd. (Zimplats Holdings Ltd.),nan,nan,closed,,t / yr,,851
+1580,6607,2003,Zimbabwe,nickel,Selous,nan,Smelter,,,-18.03,30.42,,,Makwiro Platinum Mines (Pvt.) Ltd. (Zimplats Holdings Ltd.),nan,nan,active,,t / yr,,851
+1581,6608,2003,Zimbabwe,"nickel, copper, cobalt",Madziwa,nan,Mine,,,-17.1,31.72,,U,Trojan Nickel Mines (Bindura Nickel Corp.),nan,nan,closed,,t / yr,,851
+1582,6609,2003,Zimbabwe,"nickel, copper, cobalt",Shangani,nan,Mine,,,-19.68,29.23,,U,Trojan Nickel Mines (Bindura Nickel Corp.),nan,nan,active,,t / yr,,851
+1583,6610,2003,Zimbabwe,"nickel, copper, cobalt",Trojan,nan,Mine,,,-17.32,31.3,,U,Trojan Nickel Mines (Bindura Nickel Corp.),nan,nan,active,,t / yr,,851
+1584,6611,2003,Zimbabwe,phosphate,Dorowa,nan,Mine,,,-19.067,31.767,,S,Dorowa Minerals (Pvt.) Ltd.,nan,nan,active,,t / yr,,851
+1585,6612,2003,Zimbabwe,platinum group metals,Ngezi,nan,Mine,,,-20.567,30.4,,"S,U",Makwiro Platinum Mines (Pvt.) Ltd. (Zimplats Holdings Ltd.),nan,nan,active,,kg / yr,,851
+1586,6613,2003,Zimbabwe,platinum group metals,Selous,nan,Smelter,,,-18.083,30.45,,,Makwiro Platinum Mines (Pvt.) Ltd. (Zimplats Holdings Ltd.),nan,nan,active,,kg / yr,,851
+1587,6614,2003,Zimbabwe,platinum group metals,Hartley,nan,Mine,,,-18.033,30.417,,"S,U",Makwiro Platinum Mines (Pvt.) Ltd. (Zimplats Holdings Ltd.),nan,nan,closed,,kg / yr,,851
+1588,6615,2003,Zimbabwe,platinum group metals,Mimosa,nan,Mine,,,-20.317,29.817,,,Zimbabwe Mining and Smelting Co. (Pvt.) Ltd.,nan,nan,active,,kg / yr,,851
+1589,6616,2003,Zimbabwe,tin,Kamativi,nan,Mine,,,-18.32,27.07,,"S,U",artisanal,nan,nan,active,,t / yr,,851
+1590,6617,2003,Zimbabwe,Steel,Redcliff,nan,Plant,,,-19.017,29.758,,,Zimbabwe Iron and Steel Co. (ZISCO),nan,nan,active,,t / yr,,851
+1591,6618,2003,Zimbabwe,vermiculite,"Dinidza, Dorowa",nan,Mine,,,-19.217,31.717,,S,Dinidza Vermiculite Mining Co. (Pvt.) Ltd.,nan,nan,active,,t / yr,,851
+1592,6619,2003,Zimbabwe,vermiculite,Shawa,nan,Mine,,,-19.2,31.717,,S,Samrec Vermiculite (Pvt.) Ltd. (Imerys Group),nan,nan,active,,t / yr,,851
